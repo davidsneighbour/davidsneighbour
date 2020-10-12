@@ -1,3 +1,5 @@
+![just a header][header1]
+
 <h1 align="center">Hi there, I am Patrick</h1>
 <h3 align="center">... known as David's Neighbour, a digital native based on Koh Samui, Thailand.</h3>
 
@@ -14,3 +16,5 @@
 <p align="center">
 <a href="https://twitter.com/davidsneighbour" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="davidsneighbour" height="30" width="30" /></a>
 </p>
+
+[header1]: static/header3 "Some code."
