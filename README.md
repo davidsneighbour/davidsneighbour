@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">... known as David's Neighbour, is a digital native based on Koh Samui, Thailand.</h3>
+<h1 align="center">Hi there, I am Patrick</h1>
+<h3 align="center">... known as David's Neighbour, a digital native based on Koh Samui, Thailand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsneighbour" alt="davidsneighbour" /> </p>
 
