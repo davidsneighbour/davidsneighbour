@@ -1,26 +1,21 @@
 name: Update README.md
 
 on:
-  push:
-  pull_request:
-  release:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-discourse-posts:
-    name: Update this repo's README with latest posts on gohugo.io
+  update-readme-with-blog:
+    name: Update this repo's README with latest posts on gohugo
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          max_post_count: 4
           feed_list: "https://discourse.gohugo.io/u/pkollitsch/activity.rss"
           comment_tag_name: "DISCOURSE"
-          template: "- ($date) [$title]($url)"
+          template: "- ($date) [$title]($url)$newline"
           date_format: "mmmm d, yyyy at h:MM TT"
           commit_message: "chore: update README.md with latest gohugo.io posts"
-          committer_username: "davidsneighbour"
-          committer_email: "83281+davidsneighbour@users.noreply.github.com"

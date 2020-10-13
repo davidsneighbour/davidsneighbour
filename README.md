@@ -17,8 +17,7 @@
 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
-<!-- DISCOURSE:START -->
-<!-- DISCOURSE:END -->
+<!-- DISCOURSE:START --><!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
