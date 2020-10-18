@@ -33,8 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-
-<!-- DISCOURSE:END -->
+- (October 18, 2020 	 11:46 AM) [Detect transparency in image resource with imageConfig (?)](https://discourse.gohugo.io/t/detect-transparency-in-image-resource-with-imageconfig/28889/2)
+- (October 18, 2020 	 5:00 AM) [Cross Posting Ability](https://discourse.gohugo.io/t/cross-posting-ability/28880/2)
+- (October 17, 2020 	 9:40 AM) [path.Join gives inaccurate results when there is https or http prefix](https://discourse.gohugo.io/t/path-join-gives-inaccurate-results-when-there-is-https-or-http-prefix/28868/2)
+- (October 17, 2020 	 8:04 AM) [UTF-8 character encoding when converting strings to bytes](https://discourse.gohugo.io/t/utf-8-character-encoding-when-converting-strings-to-bytes/28863/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
