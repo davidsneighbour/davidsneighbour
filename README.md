@@ -4,9 +4,17 @@
 
 **... known as David's Neighbour, a digital native based on Koh Samui, Thailand.**
 
-- I am currently working on [BooKa](https://getbooka.app)
-- I am collaborating on [Colossus](https://github.com/davidsneighbour/colossus-wp-options-framework)
+- I am currently working on [BooKa](https://github.com/getbooka)
+- I am collaborating on [Colossus](https://github.com/colossus-wp)
 - Ask me about Vue.js, web technologies and website optimization
+
+## Corona Sucks!
+
+I had a very early insight into what Corona will do to businesses around the world. In late December 2019 I read about a weird new virus that came up on a wet market somewhere in China and immediately felt like the movie "Contagion" came true. Some weeks later in late January I felt that this was slightly bigger than assumed before. Turn your clocks to now and you will know, how this little bat-induced virus affected us all. 
+
+I have extensive experience in "making the best out of this situation". My customers were mostly companies that served tourist and travellers here on Koh Samui in Thailand. Thailand completely closed down for tourists in late March. I helped my customers (tour companies and hotels/resorts) to stay afloat through the pandemic and find new business opportunities and customer groups. 
+
+If you think I can help you feel free to contact me!
 
 ## [BooKa](https://github.com/getbooka)
 
