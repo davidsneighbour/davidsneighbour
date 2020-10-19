@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 19, 2020 	 2:49 PM) [Content Organization](https://discourse.gohugo.io/t/content-organization/28852/6)
+- (October 19, 2020 	 2:30 PM) [Content Organization](https://discourse.gohugo.io/t/content-organization/28852/4)
 - (October 19, 2020 	 1:56 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/5)
-- (October 19, 2020 	 1:42 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/4)
-- (October 19, 2020 	 1:36 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/3)
-- (October 19, 2020 	 1:26 PM) [Taxonomy with '# ' and without '#' having issue](https://discourse.gohugo.io/t/taxonomy-with-and-without-having-issue/28895/4)<!-- DISCOURSE:END -->
+- (October 19, 2020 	 1:42 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
