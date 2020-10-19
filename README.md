@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (October 19, 2020 	 1:09 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/1)
-- (October 18, 2020 	 11:46 AM) [Detect transparency in image resource with imageConfig (?)](https://discourse.gohugo.io/t/detect-transparency-in-image-resource-with-imageconfig/28889/2)
-- (October 18, 2020 	 5:00 AM) [Cross Posting Ability](https://discourse.gohugo.io/t/cross-posting-ability/28880/2)
-- (October 17, 2020 	 9:40 AM) [path.Join gives inaccurate results when there is https or http prefix](https://discourse.gohugo.io/t/path-join-gives-inaccurate-results-when-there-is-https-or-http-prefix/28868/2)<!-- DISCOURSE:END -->
+- (October 19, 2020 	 1:56 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/5)
+- (October 19, 2020 	 1:42 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/4)
+- (October 19, 2020 	 1:36 PM) ["eval" a variable from configuration parameter](https://discourse.gohugo.io/t/eval-a-variable-from-configuration-parameter/28904/3)
+- (October 19, 2020 	 1:26 PM) [Taxonomy with '# ' and without '#' having issue](https://discourse.gohugo.io/t/taxonomy-with-and-without-having-issue/28895/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
