@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (October 20, 2020 	 1:41 PM) [Modular Hugo on Netlify](https://discourse.gohugo.io/t/modular-hugo-on-netlify/28939/1)
-- (October 20, 2020 	 9:07 AM) [ERROR hugo serve](https://discourse.gohugo.io/t/error-hugo-serve/28934/2)
-- (October 19, 2020 	 2:49 PM) [Content Organization](https://discourse.gohugo.io/t/content-organization/28852/6)
-- (October 19, 2020 	 2:30 PM) [Content Organization](https://discourse.gohugo.io/t/content-organization/28852/4)<!-- DISCOURSE:END -->
+- (October 21, 2020 	 3:17 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/6)
+- (October 21, 2020 	 3:12 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/4)
+- (October 21, 2020 	 2:59 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/2)
+- (October 21, 2020 	 2:58 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
