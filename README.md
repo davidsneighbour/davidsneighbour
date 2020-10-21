@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (October 21, 2020 	 3:17 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/6)
-- (October 21, 2020 	 3:12 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/4)
-- (October 21, 2020 	 2:59 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/2)
-- (October 21, 2020 	 2:58 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/2)<!-- DISCOURSE:END -->
+- (October 21, 2020 	 4:08 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/6)
+- (October 21, 2020 	 3:40 PM) [A MAZE. Festival - Total Digital 2020 website made on Hugo!](https://discourse.gohugo.io/t/a-maze-festival-total-digital-2020-website-made-on-hugo/28955/3)
+- (October 21, 2020 	 3:37 PM) [How to get a random post link?](https://discourse.gohugo.io/t/how-to-get-a-random-post-link/28957/12)
+- (October 21, 2020 	 3:34 PM) [[]map[string]interface {} weird problem](https://discourse.gohugo.io/t/map-string-interface-weird-problem/28959/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
