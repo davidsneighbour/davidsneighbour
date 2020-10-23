@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 23, 2020 	 4:51 PM) [HTML is not rendered](https://discourse.gohugo.io/t/html-is-not-rendered/28997/2)
+- (October 23, 2020 	 4:49 PM) [Hugo generates page/1 directory in output for page bundles](https://discourse.gohugo.io/t/hugo-generates-page-1-directory-in-output-for-page-bundles/28996/2)
 - (October 23, 2020 	 3:44 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/10)
-- (October 23, 2020 	 12:24 PM) [Related Content - Custom Index](https://discourse.gohugo.io/t/related-content-custom-index/28990/2)
-- (October 22, 2020 	 5:53 AM) [When is the missing support of urls without a trailing slash an issue?](https://discourse.gohugo.io/t/when-is-the-missing-support-of-urls-without-a-trailing-slash-an-issue/28963/4)
-- (October 21, 2020 	 4:08 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/6)<!-- DISCOURSE:END -->
+- (October 23, 2020 	 12:24 PM) [Related Content - Custom Index](https://discourse.gohugo.io/t/related-content-custom-index/28990/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
