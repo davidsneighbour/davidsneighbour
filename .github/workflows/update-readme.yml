@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://discourse.gohugo.io/u/pkollitsch/activity.rss"
           comment_tag_name: "DISCOURSE"
           template: "$newline- ($date) [$title]($url)"
-          date_format: "mmmm d, yyyy \a\t h:MM TT"
+          date_format: "mmmm d, yyyy 'at' h:MM TT"
           commit_message: "chore: update README.md with latest gohugo.io posts"
