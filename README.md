@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 25, 2020 at 3:20 PM) [How can I avoid code repetition between shortcodes and partials?](https://discourse.gohugo.io/t/how-can-i-avoid-code-repetition-between-shortcodes-and-partials/29029/3)
 - (October 25, 2020 at 2:09 PM) [What part of hugo is responsible for changing characters?](https://discourse.gohugo.io/t/what-part-of-hugo-is-responsible-for-changing-characters/28578/9)
 - (October 23, 2020 at 4:51 PM) [HTML is not rendered](https://discourse.gohugo.io/t/html-is-not-rendered/28997/2)
-- (October 23, 2020 at 4:49 PM) [Hugo generates page/1 directory in output for page bundles](https://discourse.gohugo.io/t/hugo-generates-page-1-directory-in-output-for-page-bundles/28996/2)
-- (October 23, 2020 at 3:44 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/10)<!-- DISCOURSE:END -->
+- (October 23, 2020 at 4:49 PM) [Hugo generates page/1 directory in output for page bundles](https://discourse.gohugo.io/t/hugo-generates-page-1-directory-in-output-for-page-bundles/28996/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
