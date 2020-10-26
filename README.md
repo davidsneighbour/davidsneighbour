@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 26, 2020 at 2:40 PM) [Tags minimal example](https://discourse.gohugo.io/t/tags-minimal-example/29040/2)
+- (October 26, 2020 at 2:35 PM) [Check if current page is part of a section defined in menu slug](https://discourse.gohugo.io/t/check-if-current-page-is-part-of-a-section-defined-in-menu-slug/29045/1)
 - (October 25, 2020 at 3:20 PM) [How can I avoid code repetition between shortcodes and partials?](https://discourse.gohugo.io/t/how-can-i-avoid-code-repetition-between-shortcodes-and-partials/29029/3)
-- (October 25, 2020 at 2:09 PM) [What part of hugo is responsible for changing characters?](https://discourse.gohugo.io/t/what-part-of-hugo-is-responsible-for-changing-characters/28578/9)
-- (October 23, 2020 at 4:51 PM) [HTML is not rendered](https://discourse.gohugo.io/t/html-is-not-rendered/28997/2)
-- (October 23, 2020 at 4:49 PM) [Hugo generates page/1 directory in output for page bundles](https://discourse.gohugo.io/t/hugo-generates-page-1-directory-in-output-for-page-bundles/28996/2)<!-- DISCOURSE:END -->
+- (October 25, 2020 at 2:09 PM) [What part of hugo is responsible for changing characters?](https://discourse.gohugo.io/t/what-part-of-hugo-is-responsible-for-changing-characters/28578/9)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
