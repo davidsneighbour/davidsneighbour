@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 26, 2020 at 4:35 PM) [Home.html is not inheriting from _default/baseof.html](https://discourse.gohugo.io/t/home-html-is-not-inheriting-from-default-baseof-html/29050/5)
+- (October 26, 2020 at 4:22 PM) [Home.html is not inheriting from _default/baseof.html](https://discourse.gohugo.io/t/home-html-is-not-inheriting-from-default-baseof-html/29050/2)
 - (October 26, 2020 at 2:51 PM) [Range depend on Langs](https://discourse.gohugo.io/t/range-depend-on-langs/29041/7)
-- (October 26, 2020 at 2:49 PM) [Inline code with syntax highlight](https://discourse.gohugo.io/t/inline-code-with-syntax-highlight/29018/4)
-- (October 26, 2020 at 2:47 PM) [Custom command to compile org files into epub](https://discourse.gohugo.io/t/custom-command-to-compile-org-files-into-epub/29042/2)
-- (October 26, 2020 at 2:45 PM) [How to minify assets only when --minify is used](https://discourse.gohugo.io/t/how-to-minify-assets-only-when-minify-is-used/29026/2)<!-- DISCOURSE:END -->
+- (October 26, 2020 at 2:49 PM) [Inline code with syntax highlight](https://discourse.gohugo.io/t/inline-code-with-syntax-highlight/29018/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
