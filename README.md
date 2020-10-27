@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (October 27, 2020 at 12:26 PM) [Check if current page is part of a section defined in menu slug](https://discourse.gohugo.io/t/check-if-current-page-is-part-of-a-section-defined-in-menu-slug/29045/6)
 - (October 27, 2020 at 11:53 AM) [Check if current page is part of a section defined in menu slug](https://discourse.gohugo.io/t/check-if-current-page-is-part-of-a-section-defined-in-menu-slug/29045/4)
 - (October 26, 2020 at 4:35 PM) [Home.html is not inheriting from _default/baseof.html](https://discourse.gohugo.io/t/home-html-is-not-inheriting-from-default-baseof-html/29050/5)
-- (October 26, 2020 at 4:22 PM) [Home.html is not inheriting from _default/baseof.html](https://discourse.gohugo.io/t/home-html-is-not-inheriting-from-default-baseof-html/29050/2)
-- (October 26, 2020 at 2:51 PM) [Range depend on Langs](https://discourse.gohugo.io/t/range-depend-on-langs/29041/7)<!-- DISCOURSE:END -->
+- (October 26, 2020 at 4:22 PM) [Home.html is not inheriting from _default/baseof.html](https://discourse.gohugo.io/t/home-html-is-not-inheriting-from-default-baseof-html/29050/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
