@@ -33,7 +33,7 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (October 27, 2020 at 3:29 PM) [Change detected, rebuilding site](https://discourse.gohugo.io/t/change-detected-rebuilding-site/29071/2)
+- (October 27, 2020 at 3:29 PM) [Anybody else getting a lot of unnecessary "Change detected, rebuilding site."?](https://discourse.gohugo.io/t/anybody-else-getting-a-lot-of-unnecessary-change-detected-rebuilding-site/28453/29)
 - (October 27, 2020 at 3:20 PM) [Is "shortcodes" a reserved keyword in sense of content/layouts?](https://discourse.gohugo.io/t/is-shortcodes-a-reserved-keyword-in-sense-of-content-layouts/29070/2)
 - (October 27, 2020 at 3:18 PM) [Images not showing on my blog](https://discourse.gohugo.io/t/images-not-showing-on-my-blog/29069/5)
 - (October 27, 2020 at 3:11 PM) [Images not showing on my blog](https://discourse.gohugo.io/t/images-not-showing-on-my-blog/29069/3)<!-- DISCOURSE:END -->
