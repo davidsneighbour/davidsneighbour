@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 3, 2020 at 10:32 AM) [Adding styling to text blocks without using inline HTML](https://discourse.gohugo.io/t/adding-styling-to-text-blocks-without-using-inline-html/29207/3)
 - (November 3, 2020 at 10:27 AM) [Different colors for different types of posts](https://discourse.gohugo.io/t/different-colors-for-different-types-of-posts/29202/3)
 - (November 3, 2020 at 10:17 AM) [Why we can't use variableName/sample format in markdown file](https://discourse.gohugo.io/t/why-we-cant-use-variablename-sample-format-in-markdown-file/29199/2)
-- (November 3, 2020 at 10:13 AM) [How to deploy on Gitlab/ install hugo modules in Hugo docker image?](https://discourse.gohugo.io/t/how-to-deploy-on-gitlab-install-hugo-modules-in-hugo-docker-image/29185/2)
-- (November 3, 2020 at 10:10 AM) [Cactus Theme: Remove about page from homepage posts list](https://discourse.gohugo.io/t/cactus-theme-remove-about-page-from-homepage-posts-list/29187/5)<!-- DISCOURSE:END -->
+- (November 3, 2020 at 10:13 AM) [How to deploy on Gitlab/ install hugo modules in Hugo docker image?](https://discourse.gohugo.io/t/how-to-deploy-on-gitlab-install-hugo-modules-in-hugo-docker-image/29185/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
