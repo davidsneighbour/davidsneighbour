@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 3, 2020 at 1:32 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/7)
-- (November 2, 2020 at 8:42 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/4)
-- (November 2, 2020 at 4:11 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/2)
-- (October 28, 2020 at 6:54 PM) [Custom command to compile org files into epub](https://discourse.gohugo.io/t/custom-command-to-compile-org-files-into-epub/29087/2)<!-- DISCOURSE:END -->
+- (November 3, 2020 at 10:17 AM) [Why we can't use variableName/sample format in markdown file](https://discourse.gohugo.io/t/why-we-cant-use-variablename-sample-format-in-markdown-file/29199/2)
+- (November 3, 2020 at 10:13 AM) [How to deploy on Gitlab/ install hugo modules in Hugo docker image?](https://discourse.gohugo.io/t/how-to-deploy-on-gitlab-install-hugo-modules-in-hugo-docker-image/29185/2)
+- (November 3, 2020 at 10:10 AM) [Cactus Theme: Remove about page from homepage posts list](https://discourse.gohugo.io/t/cactus-theme-remove-about-page-from-homepage-posts-list/29187/5)
+- (November 3, 2020 at 1:32 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/7)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
