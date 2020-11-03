@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 3, 2020 at 1:32 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/7)
 - (November 2, 2020 at 8:42 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/4)
 - (November 2, 2020 at 4:11 AM) [Possible to count shortcodes in layout template?](https://discourse.gohugo.io/t/possible-to-count-shortcodes-in-layout-template/29177/2)
-- (October 28, 2020 at 6:54 PM) [Custom command to compile org files into epub](https://discourse.gohugo.io/t/custom-command-to-compile-org-files-into-epub/29087/2)
-- (October 28, 2020 at 3:07 PM) [Is "shortcodes" a reserved keyword in sense of content/layouts?](https://discourse.gohugo.io/t/is-shortcodes-a-reserved-keyword-in-sense-of-content-layouts/29070/3)<!-- DISCOURSE:END -->
+- (October 28, 2020 at 6:54 PM) [Custom command to compile org files into epub](https://discourse.gohugo.io/t/custom-command-to-compile-org-files-into-epub/29087/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
