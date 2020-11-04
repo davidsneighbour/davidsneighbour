@@ -33,8 +33,8 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 4, 2020 at 4:32 PM) [Help - Custom alias.html containing partial that references a site var results in runtime error](https://discourse.gohugo.io/t/help-custom-alias-html-containing-partial-that-references-a-site-var-results-in-runtime-error/29231/4)
-- (November 4, 2020 at 4:24 PM) [Help - Custom alias.html containing partial that references a site var results in runtime error](https://discourse.gohugo.io/t/help-custom-alias-html-containing-partial-that-references-a-site-var-results-in-runtime-error/29231/2)
+- (November 4, 2020 at 4:32 PM) [Custom alias.html containing partial that references a .Site vars results in runtime error](https://discourse.gohugo.io/t/custom-alias-html-containing-partial-that-references-a-site-vars-results-in-runtime-error/29231/4)
+- (November 4, 2020 at 4:24 PM) [Custom alias.html containing partial that references a .Site vars results in runtime error](https://discourse.gohugo.io/t/custom-alias-html-containing-partial-that-references-a-site-vars-results-in-runtime-error/29231/2)
 - (November 4, 2020 at 1:41 PM) [How to produce a link to PDF file under post folder](https://discourse.gohugo.io/t/how-to-produce-a-link-to-pdf-file-under-post-folder/29226/3)
 - (November 4, 2020 at 1:35 PM) [Test Subjects needed (Netlify + Hugo)](https://discourse.gohugo.io/t/test-subjects-needed-netlify-hugo/29229/1)<!-- DISCOURSE:END -->
 
