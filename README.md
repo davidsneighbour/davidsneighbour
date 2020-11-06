@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 6, 2020 at 2:05 PM) [Resizing resources referenced by front matter in content/posts](https://discourse.gohugo.io/t/resizing-resources-referenced-by-front-matter-in-content-posts/29109/3)
 - (November 6, 2020 at 1:49 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/1)
 - (November 5, 2020 at 7:42 AM) [How to produce a link to PDF file under post folder](https://discourse.gohugo.io/t/how-to-produce-a-link-to-pdf-file-under-post-folder/29226/6)
-- (November 5, 2020 at 7:39 AM) [Should it be possible to have blocks in partials?](https://discourse.gohugo.io/t/should-it-be-possible-to-have-blocks-in-partials/29239/2)
-- (November 4, 2020 at 4:32 PM) [Custom alias.html containing partial that references a .Site vars results in runtime error](https://discourse.gohugo.io/t/custom-alias-html-containing-partial-that-references-a-site-vars-results-in-runtime-error/29231/4)<!-- DISCOURSE:END -->
+- (November 5, 2020 at 7:39 AM) [Should it be possible to have blocks in partials?](https://discourse.gohugo.io/t/should-it-be-possible-to-have-blocks-in-partials/29239/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
