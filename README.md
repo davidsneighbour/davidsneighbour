@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 6, 2020 at 3:19 PM) [Site builds, but doesn't serve subdirectories locally](https://discourse.gohugo.io/t/site-builds-but-doesnt-serve-subdirectories-locally/29263/2)
+- (November 6, 2020 at 3:18 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/3)
 - (November 6, 2020 at 2:05 PM) [Resizing resources referenced by front matter in content/posts](https://discourse.gohugo.io/t/resizing-resources-referenced-by-front-matter-in-content-posts/29109/3)
-- (November 6, 2020 at 1:49 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/1)
-- (November 5, 2020 at 7:42 AM) [How to produce a link to PDF file under post folder](https://discourse.gohugo.io/t/how-to-produce-a-link-to-pdf-file-under-post-folder/29226/6)
-- (November 5, 2020 at 7:39 AM) [Should it be possible to have blocks in partials?](https://discourse.gohugo.io/t/should-it-be-possible-to-have-blocks-in-partials/29239/2)<!-- DISCOURSE:END -->
+- (November 6, 2020 at 1:49 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
