@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 7, 2020 at 4:45 PM) [Is it possible to [[module.imports]] a "simple" Internet folder?](https://discourse.gohugo.io/t/is-it-possible-to-module-imports-a-simple-internet-folder/29285/2)
 - (November 7, 2020 at 3:08 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/9)
 - (November 7, 2020 at 2:50 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/7)
-- (November 7, 2020 at 2:44 PM) [Links behaving mysteriously on resume theme](https://discourse.gohugo.io/t/links-behaving-mysteriously-on-resume-theme/29284/4)
-- (November 7, 2020 at 2:37 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/6)<!-- DISCOURSE:END -->
+- (November 7, 2020 at 2:44 PM) [Links behaving mysteriously on resume theme](https://discourse.gohugo.io/t/links-behaving-mysteriously-on-resume-theme/29284/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
