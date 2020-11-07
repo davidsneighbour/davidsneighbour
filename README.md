@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 7, 2020 at 1:12 PM) [Links behaving mysteriously on resume theme](https://discourse.gohugo.io/t/links-behaving-mysteriously-on-resume-theme/29284/2)
 - (November 7, 2020 at 1:00 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/3)
 - (November 7, 2020 at 11:51 AM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/1)
-- (November 6, 2020 at 3:50 PM) [How to make nested Params in config.toml](https://discourse.gohugo.io/t/how-to-make-nested-params-in-config-toml/29265/4)
-- (November 6, 2020 at 3:45 PM) [Conditional if else for a range](https://discourse.gohugo.io/t/conditional-if-else-for-a-range/29266/2)<!-- DISCOURSE:END -->
+- (November 6, 2020 at 3:50 PM) [How to make nested Params in config.toml](https://discourse.gohugo.io/t/how-to-make-nested-params-in-config-toml/29265/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
