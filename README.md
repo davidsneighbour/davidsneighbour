@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 7, 2020 at 2:37 PM) [Extending configuration/params](https://discourse.gohugo.io/t/extending-configuration-params/29261/6)
 - (November 7, 2020 at 2:17 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/6)
 - (November 7, 2020 at 2:04 PM) [Static Header and Footer for Hugo?](https://discourse.gohugo.io/t/static-header-and-footer-for-hugo/29280/4)
-- (November 7, 2020 at 1:12 PM) [Links behaving mysteriously on resume theme](https://discourse.gohugo.io/t/links-behaving-mysteriously-on-resume-theme/29284/2)
-- (November 7, 2020 at 1:00 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/3)<!-- DISCOURSE:END -->
+- (November 7, 2020 at 1:12 PM) [Links behaving mysteriously on resume theme](https://discourse.gohugo.io/t/links-behaving-mysteriously-on-resume-theme/29284/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
