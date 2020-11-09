@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 9, 2020 at 10:45 AM) [How to add a theme using modules (for beginners)](https://discourse.gohugo.io/t/how-to-add-a-theme-using-modules-for-beginners/20665/8)
 - (November 7, 2020 at 5:05 PM) [Is it possible to [[module.imports]] a "simple" Internet folder?](https://discourse.gohugo.io/t/is-it-possible-to-module-imports-a-simple-internet-folder/29285/5)
 - (November 7, 2020 at 4:52 PM) [Is it possible to [[module.imports]] a "simple" Internet folder?](https://discourse.gohugo.io/t/is-it-possible-to-module-imports-a-simple-internet-folder/29285/3)
-- (November 7, 2020 at 4:45 PM) [Is it possible to [[module.imports]] a "simple" Internet folder?](https://discourse.gohugo.io/t/is-it-possible-to-module-imports-a-simple-internet-folder/29285/2)
-- (November 7, 2020 at 3:08 PM) [Minification breaks attributes](https://discourse.gohugo.io/t/minification-breaks-attributes/29282/9)<!-- DISCOURSE:END -->
+- (November 7, 2020 at 4:45 PM) [Is it possible to [[module.imports]] a "simple" Internet folder?](https://discourse.gohugo.io/t/is-it-possible-to-module-imports-a-simple-internet-folder/29285/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
