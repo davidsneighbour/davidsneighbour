@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 11, 2020 at 3:12 AM) [Make folder-index sort "really" ascending](https://discourse.gohugo.io/t/make-folder-index-sort-really-ascending/29340/3)
-- (November 10, 2020 at 4:33 PM) [Make folder-index sort "really" ascending](https://discourse.gohugo.io/t/make-folder-index-sort-really-ascending/29340/1)
-- (November 10, 2020 at 2:12 PM) [What is local in locally scoped scratches?](https://discourse.gohugo.io/t/what-is-local-in-locally-scoped-scratches/29338/1)
-- (November 10, 2020 at 11:32 AM) [Possible to access title of images in markdown content on list pages?](https://discourse.gohugo.io/t/possible-to-access-title-of-images-in-markdown-content-on-list-pages/29333/8)<!-- DISCOURSE:END -->
+- (November 11, 2020 at 9:25 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/3)
+- (November 11, 2020 at 9:23 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/2)
+- (November 11, 2020 at 9:21 AM) [Make folder-index sort "really" ascending](https://discourse.gohugo.io/t/make-folder-index-sort-really-ascending/29340/4)
+- (November 11, 2020 at 3:12 AM) [Make folder-index sort "really" ascending](https://discourse.gohugo.io/t/make-folder-index-sort-really-ascending/29340/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
