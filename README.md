@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 12, 2020 at 8:20 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/6)
+- (November 12, 2020 at 6:35 AM) [Shortcodes not working on Netlify or locally](https://discourse.gohugo.io/t/shortcodes-not-working-on-netlify-or-locally/23650/13)
 - (November 11, 2020 at 2:53 PM) [Relative links in a site with many versions](https://discourse.gohugo.io/t/relative-links-in-a-site-with-many-versions/29351/2)
-- (November 11, 2020 at 9:25 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/3)
-- (November 11, 2020 at 9:23 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/2)
-- (November 11, 2020 at 9:21 AM) [Make folder-index sort "really" ascending](https://discourse.gohugo.io/t/make-folder-index-sort-really-ascending/29340/4)<!-- DISCOURSE:END -->
+- (November 11, 2020 at 9:25 AM) [Json linebreaks in .Content](https://discourse.gohugo.io/t/json-linebreaks-in-content/29342/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
