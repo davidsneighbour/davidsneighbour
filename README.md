@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 13, 2020 at 7:15 AM) [Throwing an error (with error message) from a theme](https://discourse.gohugo.io/t/throwing-an-error-with-error-message-from-a-theme/29373/4)
 - (November 12, 2020 at 4:38 PM) [How to add a class attribute to a menu item?](https://discourse.gohugo.io/t/how-to-add-a-class-attribute-to-a-menu-item/29354/9)
 - (November 12, 2020 at 3:55 PM) [Modules and Azure DevOps](https://discourse.gohugo.io/t/modules-and-azure-devops/29371/4)
-- (November 12, 2020 at 3:45 PM) [How to add a class attribute to a menu item?](https://discourse.gohugo.io/t/how-to-add-a-class-attribute-to-a-menu-item/29354/7)
-- (November 12, 2020 at 3:42 PM) [Turning a Param into an image](https://discourse.gohugo.io/t/turning-a-param-into-an-image/29374/4)<!-- DISCOURSE:END -->
+- (November 12, 2020 at 3:45 PM) [How to add a class attribute to a menu item?](https://discourse.gohugo.io/t/how-to-add-a-class-attribute-to-a-menu-item/29354/7)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
