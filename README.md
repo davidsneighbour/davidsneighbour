@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 16, 2020 at 4:50 AM) [Getting warning on .File.TranslationBaseName after updating my Hugo](https://discourse.gohugo.io/t/getting-warning-on-file-translationbasename-after-updating-my-hugo/29421/2)
 - (November 15, 2020 at 4:42 PM) [Control TOC behaviour?](https://discourse.gohugo.io/t/control-toc-behaviour/29416/5)
 - (November 15, 2020 at 11:33 AM) [Creating pages based on data](https://discourse.gohugo.io/t/creating-pages-based-on-data/29420/2)
-- (November 15, 2020 at 8:10 AM) [Control TOC behaviour?](https://discourse.gohugo.io/t/control-toc-behaviour/29416/2)
-- (November 15, 2020 at 2:03 AM) [Hugo v0.78.2 regression : executing "" at <.Count>: can't evaluate field Count in type string](https://discourse.gohugo.io/t/hugo-v0-78-2-regression-executing-at-count-cant-evaluate-field-count-in-type-string/29411/2)<!-- DISCOURSE:END -->
+- (November 15, 2020 at 8:10 AM) [Control TOC behaviour?](https://discourse.gohugo.io/t/control-toc-behaviour/29416/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
