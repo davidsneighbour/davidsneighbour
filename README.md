@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 16, 2020 at 4:12 PM) [Is Hugo that popular?](https://discourse.gohugo.io/t/is-hugo-that-popular/29446/2)
-- (November 16, 2020 at 4:08 PM) [WSL and file modification detection / livereload troubles?](https://discourse.gohugo.io/t/wsl-and-file-modification-detection-livereload-troubles/29445/4)
-- (November 16, 2020 at 3:32 PM) [WSL and file modification detection / livereload troubles?](https://discourse.gohugo.io/t/wsl-and-file-modification-detection-livereload-troubles/29445/2)
-- (November 16, 2020 at 1:11 PM) [How to list taxonomy terms by language?](https://discourse.gohugo.io/t/how-to-list-taxonomy-terms-by-language/29442/2)<!-- DISCOURSE:END -->
+- (November 17, 2020 at 11:41 AM) [Css not loading on local development environment - ´Failed to find a valid digest in the 'integrity' attribute for resourc](https://discourse.gohugo.io/t/css-not-loading-on-local-development-environment-failed-to-find-a-valid-digest-in-the-integrity-attribute-for-resourc/29453/2)
+- (November 17, 2020 at 7:23 AM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/5)
+- (November 17, 2020 at 7:23 AM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/4)
+- (November 17, 2020 at 7:16 AM) [Print Param tags to DOM](https://discourse.gohugo.io/t/print-param-tags-to-dom/29461/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
