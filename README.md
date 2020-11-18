@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 17, 2020 at 1:02 PM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/9)
-- (November 17, 2020 at 11:41 AM) [CSP error: CSS not loading on local development environment](https://discourse.gohugo.io/t/csp-error-css-not-loading-on-local-development-environment/29453/2)
-- (November 17, 2020 at 7:23 AM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/5)
-- (November 17, 2020 at 7:23 AM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/4)<!-- DISCOURSE:END -->
+- (November 18, 2020 at 2:19 AM) [How do I know the variables when ranging a site variable?](https://discourse.gohugo.io/t/how-do-i-know-the-variables-when-ranging-a-site-variable/29473/3)
+- (November 18, 2020 at 2:13 AM) [How to share content between categories without duplicating the content?](https://discourse.gohugo.io/t/how-to-share-content-between-categories-without-duplicating-the-content/29468/4)
+- (November 18, 2020 at 2:09 AM) [Print Param tags to DOM](https://discourse.gohugo.io/t/print-param-tags-to-dom/29461/6)
+- (November 17, 2020 at 1:02 PM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/9)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
