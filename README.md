@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 19, 2020 at 2:45 AM) [Netlify "Missions" (Jam Stack Explorer)](https://discourse.gohugo.io/t/netlify-missions-jam-stack-explorer/29502/1)
+- (November 19, 2020 at 2:36 AM) [SCSS import best practices?](https://discourse.gohugo.io/t/scss-import-best-practices/29489/2)
 - (November 18, 2020 at 2:19 AM) [How do I know the variables when ranging a site variable?](https://discourse.gohugo.io/t/how-do-i-know-the-variables-when-ranging-a-site-variable/29473/3)
-- (November 18, 2020 at 2:13 AM) [How to share content between categories without duplicating the content?](https://discourse.gohugo.io/t/how-to-share-content-between-categories-without-duplicating-the-content/29468/4)
-- (November 18, 2020 at 2:09 AM) [Print Param tags to DOM](https://discourse.gohugo.io/t/print-param-tags-to-dom/29461/6)
-- (November 17, 2020 at 1:02 PM) [How to Get Request's URL "As It Is" in Shortcode?](https://discourse.gohugo.io/t/how-to-get-requests-url-as-it-is-in-shortcode/29392/9)<!-- DISCOURSE:END -->
+- (November 18, 2020 at 2:13 AM) [How to share content between categories without duplicating the content?](https://discourse.gohugo.io/t/how-to-share-content-between-categories-without-duplicating-the-content/29468/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
