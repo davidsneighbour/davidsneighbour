@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 22, 2020 at 11:46 AM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/3)
-- (November 22, 2020 at 11:00 AM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/1)
-- (November 20, 2020 at 1:06 PM) [How can I diagnose a "hanging hugo"?](https://discourse.gohugo.io/t/how-can-i-diagnose-a-hanging-hugo/29510/11)
-- (November 20, 2020 at 12:54 PM) [Copy Section from another one via shortcode](https://discourse.gohugo.io/t/copy-section-from-another-one-via-shortcode/29531/4)<!-- DISCOURSE:END -->
+- (November 22, 2020 at 4:48 PM) [Error when building a new site with Academic theme](https://discourse.gohugo.io/t/error-when-building-a-new-site-with-academic-theme/29574/2)
+- (November 22, 2020 at 3:03 PM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/8)
+- (November 22, 2020 at 2:54 PM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/7)
+- (November 22, 2020 at 2:50 PM) [HTML Picture element with PNG and WEBP images and lazy loading option](https://discourse.gohugo.io/t/html-picture-element-with-png-and-webp-images-and-lazy-loading-option/29566/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
