@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 22, 2020 at 11:46 AM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/3)
+- (November 22, 2020 at 11:00 AM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/1)
 - (November 20, 2020 at 1:06 PM) [How can I diagnose a "hanging hugo"?](https://discourse.gohugo.io/t/how-can-i-diagnose-a-hanging-hugo/29510/11)
-- (November 20, 2020 at 12:54 PM) [Copy Section from another one via shortcode](https://discourse.gohugo.io/t/copy-section-from-another-one-via-shortcode/29531/4)
-- (November 20, 2020 at 12:08 PM) [Copy Section from another one via shortcode](https://discourse.gohugo.io/t/copy-section-from-another-one-via-shortcode/29531/2)
-- (November 20, 2020 at 1:45 AM) [Hash of last commit of any file](https://discourse.gohugo.io/t/hash-of-last-commit-of-any-file/29524/2)<!-- DISCOURSE:END -->
+- (November 20, 2020 at 12:54 PM) [Copy Section from another one via shortcode](https://discourse.gohugo.io/t/copy-section-from-another-one-via-shortcode/29531/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
