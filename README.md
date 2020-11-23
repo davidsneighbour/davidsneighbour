@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 23, 2020 at 9:51 AM) [Question - Are there plans to support dart-sass and its newly introduced @use modular system?](https://discourse.gohugo.io/t/question-are-there-plans-to-support-dart-sass-and-its-newly-introduced-use-modular-system/21882/8)
-- (November 22, 2020 at 4:48 PM) [Error when building a new site with Academic theme](https://discourse.gohugo.io/t/error-when-building-a-new-site-with-academic-theme/29574/2)
-- (November 22, 2020 at 3:03 PM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/8)
-- (November 22, 2020 at 2:54 PM) [Add [param] section to modules config.toml](https://discourse.gohugo.io/t/add-param-section-to-modules-config-toml/29570/7)<!-- DISCOURSE:END -->
+- (November 23, 2020 at 3:18 PM) [Adding Email Auto-response to a Hugo website](https://discourse.gohugo.io/t/adding-email-auto-response-to-a-hugo-website/29588/5)
+- (November 23, 2020 at 2:26 PM) [Adding Email Auto-response to a Hugo website](https://discourse.gohugo.io/t/adding-email-auto-response-to-a-hugo-website/29588/3)
+- (November 23, 2020 at 2:25 PM) [Adding Email Auto-response to a Hugo website](https://discourse.gohugo.io/t/adding-email-auto-response-to-a-hugo-website/29588/2)
+- (November 23, 2020 at 2:24 PM) [Shell exit codes](https://discourse.gohugo.io/t/shell-exit-codes/29587/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
