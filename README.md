@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (November 24, 2020 at 9:59 AM) [Share blogs from hugo website hosted on AWS](https://discourse.gohugo.io/t/share-blogs-from-hugo-website-hosted-on-aws/29607/2)
-- (November 24, 2020 at 9:44 AM) [Goldmark: The return of the empty <p> tags](https://discourse.gohugo.io/t/goldmark-the-return-of-the-empty-p-tags/29605/3)
-- (November 23, 2020 at 3:18 PM) [Adding Email Auto-response to a Hugo website](https://discourse.gohugo.io/t/adding-email-auto-response-to-a-hugo-website/29588/5)
-- (November 23, 2020 at 2:26 PM) [Adding Email Auto-response to a Hugo website](https://discourse.gohugo.io/t/adding-email-auto-response-to-a-hugo-website/29588/3)<!-- DISCOURSE:END -->
+- (November 27, 2020 at 4:19 PM) [App-ads.txt admob hugo site](https://discourse.gohugo.io/t/app-ads-txt-admob-hugo-site/29679/2)
+- (November 27, 2020 at 2:39 PM) [How to parse path.Split?](https://discourse.gohugo.io/t/how-to-parse-path-split/29676/4)
+- (November 27, 2020 at 2:15 PM) [C-m-l.net - Switch my personal blog from wordpress to hugo](https://discourse.gohugo.io/t/c-m-l-net-switch-my-personal-blog-from-wordpress-to-hugo/29657/4)
+- (November 27, 2020 at 2:07 PM) [Is languagePrefix read-only or can it be defined in site config?](https://discourse.gohugo.io/t/is-languageprefix-read-only-or-can-it-be-defined-in-site-config/29673/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
