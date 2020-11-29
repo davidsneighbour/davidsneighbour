@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 29, 2020 at 4:08 AM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/4)
+- (November 29, 2020 at 1:45 AM) [Specify branch with modules](https://discourse.gohugo.io/t/specify-branch-with-modules/23977/3)
 - (November 27, 2020 at 4:19 PM) [App-ads.txt admob hugo site](https://discourse.gohugo.io/t/app-ads-txt-admob-hugo-site/29679/2)
-- (November 27, 2020 at 2:39 PM) [How to parse path.Split?](https://discourse.gohugo.io/t/how-to-parse-path-split/29676/4)
-- (November 27, 2020 at 2:15 PM) [C-m-l.net - Switch my personal blog from wordpress to hugo](https://discourse.gohugo.io/t/c-m-l-net-switch-my-personal-blog-from-wordpress-to-hugo/29657/4)
-- (November 27, 2020 at 2:07 PM) [Is languagePrefix read-only or can it be defined in site config?](https://discourse.gohugo.io/t/is-languageprefix-read-only-or-can-it-be-defined-in-site-config/29673/5)<!-- DISCOURSE:END -->
+- (November 27, 2020 at 2:39 PM) [How to parse path.Split?](https://discourse.gohugo.io/t/how-to-parse-path-split/29676/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
