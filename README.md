@@ -33,10 +33,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 30, 2020 at 2:33 PM) [Naming convention for page context (within a dictionary) when calling partial: seeking opinions](https://discourse.gohugo.io/t/naming-convention-for-page-context-within-a-dictionary-when-calling-partial-seeking-opinions/29713/3)
+- (November 30, 2020 at 2:28 PM) [Naming convention for page context (within a dictionary) when calling partial: seeking opinions](https://discourse.gohugo.io/t/naming-convention-for-page-context-within-a-dictionary-when-calling-partial-seeking-opinions/29713/2)
 - (November 30, 2020 at 8:26 AM) [Problem with Hugo and Tailwindcss v2.0+](https://discourse.gohugo.io/t/problem-with-hugo-and-tailwindcss-v2-0/29704/2)
-- (November 29, 2020 at 4:08 AM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/4)
-- (November 29, 2020 at 1:45 AM) [Specify branch with modules](https://discourse.gohugo.io/t/specify-branch-with-modules/23977/3)
-- (November 27, 2020 at 4:19 PM) [App-ads.txt admob hugo site](https://discourse.gohugo.io/t/app-ads-txt-admob-hugo-site/29679/2)<!-- DISCOURSE:END -->
+- (November 29, 2020 at 4:08 AM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
