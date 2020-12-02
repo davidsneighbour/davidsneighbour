@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 1, 2020 at 2:02 PM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/6)
-- (November 30, 2020 at 2:33 PM) [Naming convention for page context (within a dictionary) when calling partial: seeking opinions](https://discourse.gohugo.io/t/naming-convention-for-page-context-within-a-dictionary-when-calling-partial-seeking-opinions/29713/3)
-- (November 30, 2020 at 2:28 PM) [Naming convention for page context (within a dictionary) when calling partial: seeking opinions](https://discourse.gohugo.io/t/naming-convention-for-page-context-within-a-dictionary-when-calling-partial-seeking-opinions/29713/2)
-- (November 30, 2020 at 8:26 AM) [Problem with Hugo and Tailwindcss v2.0+](https://discourse.gohugo.io/t/problem-with-hugo-and-tailwindcss-v2-0/29704/2)<!-- DISCOURSE:END -->
+- (December 2, 2020 at 11:25 AM) [Check for empty .TableOfContents](https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737/3)
+- (December 2, 2020 at 11:23 AM) [Check for empty .TableOfContents](https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737/2)
+- (December 2, 2020 at 11:11 AM) [C-m-l.net - Switch my personal blog from wordpress to hugo](https://discourse.gohugo.io/t/c-m-l-net-switch-my-personal-blog-from-wordpress-to-hugo/29657/7)
+- (December 1, 2020 at 2:02 PM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
