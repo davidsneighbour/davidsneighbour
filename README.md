@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 2, 2020 at 11:25 AM) [Check for empty .TableOfContents](https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737/3)
-- (December 2, 2020 at 11:23 AM) [Check for empty .TableOfContents](https://discourse.gohugo.io/t/check-for-empty-tableofcontents/29737/2)
-- (December 2, 2020 at 11:11 AM) [C-m-l.net - Switch my personal blog from wordpress to hugo](https://discourse.gohugo.io/t/c-m-l-net-switch-my-personal-blog-from-wordpress-to-hugo/29657/7)
-- (December 1, 2020 at 2:02 PM) [Having trouble implementing image gallery - AKA how to use shortcode in categories.html](https://discourse.gohugo.io/t/having-trouble-implementing-image-gallery-aka-how-to-use-shortcode-in-categories-html/29627/6)<!-- DISCOURSE:END -->
+- (December 2, 2020 at 5:00 PM) [Ignore files in data/ that aren't yaml, json, toml, or csv](https://discourse.gohugo.io/t/ignore-files-in-data-that-arent-yaml-json-toml-or-csv/29755/4)
+- (December 2, 2020 at 4:43 PM) [Deploying my website with Netlify breaks navigation hamburger in mobile view](https://discourse.gohugo.io/t/deploying-my-website-with-netlify-breaks-navigation-hamburger-in-mobile-view/29754/5)
+- (December 2, 2020 at 4:42 PM) [Ignore files in data/ that aren't yaml, json, toml, or csv](https://discourse.gohugo.io/t/ignore-files-in-data-that-arent-yaml-json-toml-or-csv/29755/2)
+- (December 2, 2020 at 4:40 PM) [Deploying my website with Netlify breaks navigation hamburger in mobile view](https://discourse.gohugo.io/t/deploying-my-website-with-netlify-breaks-navigation-hamburger-in-mobile-view/29754/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
