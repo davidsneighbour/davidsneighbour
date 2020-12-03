@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 3, 2020 at 5:26 AM) [Hugo crashing on "hugo server", getting "fatal error: pipe failed" (Mac)](https://discourse.gohugo.io/t/hugo-crashing-on-hugo-server-getting-fatal-error-pipe-failed-mac/29764/2)
 - (December 2, 2020 at 5:00 PM) [Ignore files in data/ that aren't yaml, json, toml, or csv](https://discourse.gohugo.io/t/ignore-files-in-data-that-arent-yaml-json-toml-or-csv/29755/4)
 - (December 2, 2020 at 4:43 PM) [Deploying my website with Netlify breaks navigation hamburger in mobile view](https://discourse.gohugo.io/t/deploying-my-website-with-netlify-breaks-navigation-hamburger-in-mobile-view/29754/5)
-- (December 2, 2020 at 4:42 PM) [Ignore files in data/ that aren't yaml, json, toml, or csv](https://discourse.gohugo.io/t/ignore-files-in-data-that-arent-yaml-json-toml-or-csv/29755/2)
-- (December 2, 2020 at 4:40 PM) [Deploying my website with Netlify breaks navigation hamburger in mobile view](https://discourse.gohugo.io/t/deploying-my-website-with-netlify-breaks-navigation-hamburger-in-mobile-view/29754/2)<!-- DISCOURSE:END -->
+- (December 2, 2020 at 4:42 PM) [Ignore files in data/ that aren't yaml, json, toml, or csv](https://discourse.gohugo.io/t/ignore-files-in-data-that-arent-yaml-json-toml-or-csv/29755/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
