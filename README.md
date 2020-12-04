@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 4, 2020 at 5:44 AM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/3)
+- (December 4, 2020 at 5:41 AM) [Can't evaluate field Params in type *navigation.MenuEntry](https://discourse.gohugo.io/t/cant-evaluate-field-params-in-type-navigation-menuentry/29789/4)
 - (December 3, 2020 at 4:00 PM) [Frontmatter: only strings?](https://discourse.gohugo.io/t/frontmatter-only-strings/29769/14)
-- (December 3, 2020 at 3:58 PM) [Trying to understand executeAsTemplate for javascripts](https://discourse.gohugo.io/t/trying-to-understand-executeastemplate-for-javascripts/29782/3)
-- (December 3, 2020 at 3:36 PM) [Trying to understand executeAsTemplate for javascripts](https://discourse.gohugo.io/t/trying-to-understand-executeastemplate-for-javascripts/29782/1)
-- (December 3, 2020 at 3:10 PM) [Frontmatter: only strings?](https://discourse.gohugo.io/t/frontmatter-only-strings/29769/10)<!-- DISCOURSE:END -->
+- (December 3, 2020 at 3:58 PM) [Trying to understand executeAsTemplate for javascripts](https://discourse.gohugo.io/t/trying-to-understand-executeastemplate-for-javascripts/29782/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
