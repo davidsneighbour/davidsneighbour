@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 4, 2020 at 3:02 PM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/8)
-- (December 4, 2020 at 6:54 AM) [Range over pages ignoring the first one that matches a condition](https://discourse.gohugo.io/t/range-over-pages-ignoring-the-first-one-that-matches-a-condition/29786/3)
-- (December 4, 2020 at 5:44 AM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/3)
-- (December 4, 2020 at 5:41 AM) [Can't evaluate field Params in type *navigation.MenuEntry](https://discourse.gohugo.io/t/cant-evaluate-field-params-in-type-navigation-menuentry/29789/4)<!-- DISCOURSE:END -->
+- (December 5, 2020 at 9:08 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/4)
+- (December 5, 2020 at 6:33 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/2)
+- (December 5, 2020 at 6:13 AM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/10)
+- (December 5, 2020 at 6:09 AM) [Resize and Fit fail to render some of images](https://discourse.gohugo.io/t/resize-and-fit-fail-to-render-some-of-images/29809/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
