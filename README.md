@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 5, 2020 at 9:08 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/4)
-- (December 5, 2020 at 6:33 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/2)
-- (December 5, 2020 at 6:13 AM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/10)
-- (December 5, 2020 at 6:09 AM) [Resize and Fit fail to render some of images](https://discourse.gohugo.io/t/resize-and-fit-fail-to-render-some-of-images/29809/2)<!-- DISCOURSE:END -->
+- (December 6, 2020 at 1:01 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/3)
+- (December 6, 2020 at 12:56 AM) [How to merge, and not overwrite, Hugo mount directories?](https://discourse.gohugo.io/t/how-to-merge-and-not-overwrite-hugo-mount-directories/29819/3)
+- (December 6, 2020 at 12:52 AM) [Issue with new posts on Windows 10 Japanese Locale](https://discourse.gohugo.io/t/issue-with-new-posts-on-windows-10-japanese-locale/29827/2)
+- (December 5, 2020 at 9:08 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
