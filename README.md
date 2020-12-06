@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 6, 2020 at 1:01 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/3)
-- (December 6, 2020 at 12:56 AM) [How to merge, and not overwrite, Hugo mount directories?](https://discourse.gohugo.io/t/how-to-merge-and-not-overwrite-hugo-mount-directories/29819/3)
-- (December 6, 2020 at 12:52 AM) [Issue with new posts on Windows 10 Japanese Locale](https://discourse.gohugo.io/t/issue-with-new-posts-on-windows-10-japanese-locale/29827/2)
-- (December 5, 2020 at 9:08 AM) [Range where .Site.Pages ".Params.tags"](https://discourse.gohugo.io/t/range-where-site-pages-params-tags/29801/4)<!-- DISCOURSE:END -->
+- (December 6, 2020 at 11:46 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/7)
+- (December 6, 2020 at 11:38 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/5)
+- (December 6, 2020 at 7:44 AM) [Can Hugo be configured to recognize paths that don't end in ".html"?](https://discourse.gohugo.io/t/can-hugo-be-configured-to-recognize-paths-that-dont-end-in-html/4994/4)
+- (December 6, 2020 at 7:34 AM) [How do I range over only one specific directory?](https://discourse.gohugo.io/t/how-do-i-range-over-only-one-specific-directory/29829/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
