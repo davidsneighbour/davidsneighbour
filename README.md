@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 6, 2020 at 11:46 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/7)
-- (December 6, 2020 at 11:38 AM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/5)
-- (December 6, 2020 at 7:44 AM) [Can Hugo be configured to recognize paths that don't end in ".html"?](https://discourse.gohugo.io/t/can-hugo-be-configured-to-recognize-paths-that-dont-end-in-html/4994/4)
-- (December 6, 2020 at 7:34 AM) [How do I range over only one specific directory?](https://discourse.gohugo.io/t/how-do-i-range-over-only-one-specific-directory/29829/2)<!-- DISCOURSE:END -->
+- (December 6, 2020 at 4:59 PM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/14)
+- (December 6, 2020 at 4:51 PM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/12)
+- (December 6, 2020 at 3:14 PM) [Docsy Hide Title from Sidebar according to the parameter](https://discourse.gohugo.io/t/docsy-hide-title-from-sidebar-according-to-the-parameter/29831/6)
+- (December 6, 2020 at 1:24 PM) [Minimal site with section listings](https://discourse.gohugo.io/t/minimal-site-with-section-listings/29832/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
