@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 7, 2020 at 9:00 AM) [Minimal site with section listings](https://discourse.gohugo.io/t/minimal-site-with-section-listings/29832/8)
-- (December 7, 2020 at 8:59 AM) [Minimal site with section listings](https://discourse.gohugo.io/t/minimal-site-with-section-listings/29832/7)
-- (December 6, 2020 at 4:59 PM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/14)
-- (December 6, 2020 at 4:51 PM) [Hugo Server go slow and not recognising content updates](https://discourse.gohugo.io/t/hugo-server-go-slow-and-not-recognising-content-updates/29788/12)<!-- DISCOURSE:END -->
+- (December 7, 2020 at 1:52 PM) [Weird error while trying to mount a file in a module](https://discourse.gohugo.io/t/weird-error-while-trying-to-mount-a-file-in-a-module/29864/1)
+- (December 7, 2020 at 1:15 PM) [replaceRE error with escaped square bracket](https://discourse.gohugo.io/t/replacere-error-with-escaped-square-bracket/29860/4)
+- (December 7, 2020 at 1:07 PM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/11)
+- (December 7, 2020 at 1:04 PM) [Hugo server with Netlify dev (CLI)](https://discourse.gohugo.io/t/hugo-server-with-netlify-dev-cli/29863/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
