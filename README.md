@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 8, 2020 at 9:30 AM) [How do I insert an element on every iteration of a range EXCEPT the last?](https://discourse.gohugo.io/t/how-do-i-insert-an-element-on-every-iteration-of-a-range-except-the-last/29872/2)
 - (December 7, 2020 at 1:52 PM) [Weird error while trying to mount a file in a module](https://discourse.gohugo.io/t/weird-error-while-trying-to-mount-a-file-in-a-module/29864/1)
 - (December 7, 2020 at 1:15 PM) [replaceRE error with escaped square bracket](https://discourse.gohugo.io/t/replacere-error-with-escaped-square-bracket/29860/4)
-- (December 7, 2020 at 1:07 PM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/11)
-- (December 7, 2020 at 1:04 PM) [Hugo server with Netlify dev (CLI)](https://discourse.gohugo.io/t/hugo-server-with-netlify-dev-cli/29863/3)<!-- DISCOURSE:END -->
+- (December 7, 2020 at 1:07 PM) [Is it possible to parametrize references?](https://discourse.gohugo.io/t/is-it-possible-to-parametrize-references/29820/11)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
