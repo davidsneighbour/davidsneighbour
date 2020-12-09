@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 9, 2020 at 9:09 AM) [Range rendering the taxonomy title on netlify, but not locally](https://discourse.gohugo.io/t/range-rendering-the-taxonomy-title-on-netlify-but-not-locally/29895/5)
 - (December 8, 2020 at 5:53 PM) [Defining a layout to build a simple Hugo site](https://discourse.gohugo.io/t/defining-a-layout-to-build-a-simple-hugo-site/29889/2)
 - (December 8, 2020 at 5:50 PM) [Resize image from front matter](https://discourse.gohugo.io/t/resize-image-from-front-matter/29890/2)
-- (December 8, 2020 at 9:30 AM) [How do I insert an element on every iteration of a range EXCEPT the last?](https://discourse.gohugo.io/t/how-do-i-insert-an-element-on-every-iteration-of-a-range-except-the-last/29872/2)
-- (December 7, 2020 at 1:52 PM) [Weird error while trying to mount a file in a module](https://discourse.gohugo.io/t/weird-error-while-trying-to-mount-a-file-in-a-module/29864/1)<!-- DISCOURSE:END -->
+- (December 8, 2020 at 9:30 AM) [How do I insert an element on every iteration of a range EXCEPT the last?](https://discourse.gohugo.io/t/how-do-i-insert-an-element-on-every-iteration-of-a-range-except-the-last/29872/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
