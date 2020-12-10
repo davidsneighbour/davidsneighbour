@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 10, 2020 at 10:03 AM) [Video on Front Matter](https://discourse.gohugo.io/t/video-on-front-matter/29926/3)
 - (December 9, 2020 at 3:46 PM) [Printf did not load a partial - why?](https://discourse.gohugo.io/t/printf-did-not-load-a-partial-why/29898/4)
 - (December 9, 2020 at 9:09 AM) [Range rendering the taxonomy title on netlify, but not locally](https://discourse.gohugo.io/t/range-rendering-the-taxonomy-title-on-netlify-but-not-locally/29895/5)
-- (December 8, 2020 at 5:53 PM) [Defining a layout to build a simple Hugo site](https://discourse.gohugo.io/t/defining-a-layout-to-build-a-simple-hugo-site/29889/2)
-- (December 8, 2020 at 5:50 PM) [Resize image from front matter](https://discourse.gohugo.io/t/resize-image-from-front-matter/29890/2)<!-- DISCOURSE:END -->
+- (December 8, 2020 at 5:53 PM) [Defining a layout to build a simple Hugo site](https://discourse.gohugo.io/t/defining-a-layout-to-build-a-simple-hugo-site/29889/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
