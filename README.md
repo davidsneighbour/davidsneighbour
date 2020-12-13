@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 13, 2020 at 7:17 AM) [Help with maths hugo issues](https://discourse.gohugo.io/t/help-with-maths-hugo-issues/29971/3)
-- (December 13, 2020 at 7:15 AM) [Help with maths hugo issues](https://discourse.gohugo.io/t/help-with-maths-hugo-issues/29971/2)
-- (December 13, 2020 at 1:14 AM) [Sitemap at root level on a multi-language website](https://discourse.gohugo.io/t/sitemap-at-root-level-on-a-multi-language-website/29969/2)
-- (December 11, 2020 at 2:57 PM) [Unable to locate config](https://discourse.gohugo.io/t/unable-to-locate-config/29945/7)<!-- DISCOURSE:END -->
+- (December 13, 2020 at 2:33 PM) [Blogwind - another Tailwind CSS theme for Hugo](https://discourse.gohugo.io/t/blogwind-another-tailwind-css-theme-for-hugo/29968/3)
+- (December 13, 2020 at 2:26 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/6)
+- (December 13, 2020 at 2:23 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/4)
+- (December 13, 2020 at 2:17 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
