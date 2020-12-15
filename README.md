@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 15, 2020 at 11:03 AM) [2020 Web Almanac -- State of the Web Report](https://discourse.gohugo.io/t/2020-web-almanac-state-of-the-web-report/30005/3)
 - (December 13, 2020 at 2:33 PM) [Blogwind - another Tailwind CSS theme for Hugo](https://discourse.gohugo.io/t/blogwind-another-tailwind-css-theme-for-hugo/29968/3)
 - (December 13, 2020 at 2:26 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/6)
-- (December 13, 2020 at 2:23 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/4)
-- (December 13, 2020 at 2:17 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/2)<!-- DISCOURSE:END -->
+- (December 13, 2020 at 2:23 PM) [.Resources.ByType "video" return empty](https://discourse.gohugo.io/t/resources-bytype-video-return-empty/29975/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
