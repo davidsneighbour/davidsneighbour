@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 16, 2020 at 4:31 AM) [Evaluate Expirydate with Javascript in real time](https://discourse.gohugo.io/t/evaluate-expirydate-with-javascript-in-real-time/30012/6)
+- (December 16, 2020 at 4:25 AM) [Are arrays a type in Hugo?](https://discourse.gohugo.io/t/are-arrays-a-type-in-hugo/30015/11)
 - (December 15, 2020 at 5:38 PM) [Evaluate Expirydate with Javascript in real time](https://discourse.gohugo.io/t/evaluate-expirydate-with-javascript-in-real-time/30012/4)
-- (December 15, 2020 at 5:26 PM) [Are arrays a type in Hugo?](https://discourse.gohugo.io/t/are-arrays-a-type-in-hugo/30015/7)
-- (December 15, 2020 at 4:58 PM) [Evaluate Expirydate with Javascript in real time](https://discourse.gohugo.io/t/evaluate-expirydate-with-javascript-in-real-time/30012/2)
-- (December 15, 2020 at 4:49 PM) [Hugo Theme - Changing rendered pages/routes based upon site config](https://discourse.gohugo.io/t/hugo-theme-changing-rendered-pages-routes-based-upon-site-config/30017/2)<!-- DISCOURSE:END -->
+- (December 15, 2020 at 5:26 PM) [Are arrays a type in Hugo?](https://discourse.gohugo.io/t/are-arrays-a-type-in-hugo/30015/7)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
