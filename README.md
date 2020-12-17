@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 17, 2020 at 12:40 PM) [TOCSS: failed to transform dark theme](https://discourse.gohugo.io/t/tocss-failed-to-transform-dark-theme/30044/5)
 - (December 17, 2020 at 8:55 AM) [Code block custom color styling](https://discourse.gohugo.io/t/code-block-custom-color-styling/30050/2)
 - (December 17, 2020 at 8:52 AM) [Comments and unused partials still try to build](https://discourse.gohugo.io/t/comments-and-unused-partials-still-try-to-build/30038/12)
-- (December 16, 2020 at 7:40 PM) [Comments and unused partials still try to build](https://discourse.gohugo.io/t/comments-and-unused-partials-still-try-to-build/30038/10)
-- (December 16, 2020 at 7:24 PM) [Comments and unused partials still try to build](https://discourse.gohugo.io/t/comments-and-unused-partials-still-try-to-build/30038/9)<!-- DISCOURSE:END -->
+- (December 16, 2020 at 7:40 PM) [Comments and unused partials still try to build](https://discourse.gohugo.io/t/comments-and-unused-partials-still-try-to-build/30038/10)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
