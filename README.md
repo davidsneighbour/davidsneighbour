@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 19, 2020 at 11:58 AM) [Semi OT: Unicode characters getting mangled on deploy](https://discourse.gohugo.io/t/semi-ot-unicode-characters-getting-mangled-on-deploy/30090/3)
-- (December 19, 2020 at 11:49 AM) [Front Matter and Menu Config](https://discourse.gohugo.io/t/front-matter-and-menu-config/30089/4)
-- (December 18, 2020 at 1:33 PM) [Scss attached to templates and shortcodes in layouts folder](https://discourse.gohugo.io/t/scss-attached-to-templates-and-shortcodes-in-layouts-folder/30071/5)
-- (December 18, 2020 at 1:30 PM) [Substr Calculates Length of String to 0 in baseof.html](https://discourse.gohugo.io/t/substr-calculates-length-of-string-to-0-in-baseof-html/30070/7)<!-- DISCOURSE:END -->
+- (December 19, 2020 at 4:08 PM) [Execute a template in 404.html](https://discourse.gohugo.io/t/execute-a-template-in-404-html/30092/1)
+- (December 19, 2020 at 2:55 PM) [Front Matter and Menu Config](https://discourse.gohugo.io/t/front-matter-and-menu-config/30089/6)
+- (December 19, 2020 at 12:08 PM) [Best practice with trimming white space](https://discourse.gohugo.io/t/best-practice-with-trimming-white-space/30079/8)
+- (December 19, 2020 at 11:58 AM) [Semi OT: Unicode characters getting mangled on deploy](https://discourse.gohugo.io/t/semi-ot-unicode-characters-getting-mangled-on-deploy/30090/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
