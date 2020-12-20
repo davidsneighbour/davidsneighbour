@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 20, 2020 at 10:59 AM) [Execute a template in 404.html](https://discourse.gohugo.io/t/execute-a-template-in-404-html/30092/5)
-- (December 20, 2020 at 10:58 AM) [About GitInfo (Git Info Variables)](https://discourse.gohugo.io/t/about-gitinfo-git-info-variables/30098/4)
-- (December 20, 2020 at 5:11 AM) [JSONIFY is escaping strings](https://discourse.gohugo.io/t/jsonify-is-escaping-strings/25161/5)
-- (December 20, 2020 at 4:01 AM) [About GitInfo (Git Info Variables)](https://discourse.gohugo.io/t/about-gitinfo-git-info-variables/30098/2)<!-- DISCOURSE:END -->
+- (December 20, 2020 at 3:38 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/8)
+- (December 20, 2020 at 3:07 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/6)
+- (December 20, 2020 at 1:56 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/2)
+- (December 20, 2020 at 1:20 PM) [About GitInfo (Git Info Variables)](https://discourse.gohugo.io/t/about-gitinfo-git-info-variables/30098/8)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
