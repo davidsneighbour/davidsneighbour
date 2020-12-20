@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 19, 2020 at 4:08 PM) [Execute a template in 404.html](https://discourse.gohugo.io/t/execute-a-template-in-404-html/30092/1)
-- (December 19, 2020 at 2:55 PM) [Front Matter and Menu Config](https://discourse.gohugo.io/t/front-matter-and-menu-config/30089/6)
-- (December 19, 2020 at 12:08 PM) [Best practice with trimming white space](https://discourse.gohugo.io/t/best-practice-with-trimming-white-space/30079/8)
-- (December 19, 2020 at 11:58 AM) [Semi OT: Unicode characters getting mangled on deploy](https://discourse.gohugo.io/t/semi-ot-unicode-characters-getting-mangled-on-deploy/30090/3)<!-- DISCOURSE:END -->
+- (December 20, 2020 at 5:11 AM) [JSONIFY is escaping strings](https://discourse.gohugo.io/t/jsonify-is-escaping-strings/25161/5)
+- (December 20, 2020 at 4:01 AM) [About GitInfo (Git Info Variables)](https://discourse.gohugo.io/t/about-gitinfo-git-info-variables/30098/2)
+- (December 20, 2020 at 3:57 AM) [Execute a template in 404.html](https://discourse.gohugo.io/t/execute-a-template-in-404-html/30092/3)
+- (December 19, 2020 at 4:08 PM) [Execute a template in 404.html](https://discourse.gohugo.io/t/execute-a-template-in-404-html/30092/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
