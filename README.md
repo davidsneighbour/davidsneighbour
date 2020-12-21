@@ -30,7 +30,7 @@ I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 - (December 21, 2020 at 3:40 AM) [PostCSS piping error](https://discourse.gohugo.io/t/postcss-piping-error/30112/3)
 - (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)<!-- DISCOURSE:END -->
 
-## Brainstorm
+## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
 The issues in THIS repository [collect some brainstorm stuff](https://github.com/davidsneighbour/davidsneighbour/issues) I am thinking about every now and then that gets either ignored or produced. 
 
