@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 21, 2020 at 1:39 PM) [Alternative search engines](https://discourse.gohugo.io/t/alternative-search-engines/30132/6)
+- (December 21, 2020 at 12:54 PM) [Alternative search engines](https://discourse.gohugo.io/t/alternative-search-engines/30132/3)
 - (December 21, 2020 at 9:00 AM) [Finally Resolved Failed Netlify Deployments: git subtree solution](https://discourse.gohugo.io/t/finally-resolved-failed-netlify-deployments-git-subtree-solution/30120/2)
-- (December 21, 2020 at 3:47 AM) [Hugo local development serve stopped working](https://discourse.gohugo.io/t/hugo-local-development-serve-stopped-working/30109/2)
-- (December 21, 2020 at 3:40 AM) [PostCSS piping error](https://discourse.gohugo.io/t/postcss-piping-error/30112/3)
-- (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)<!-- DISCOURSE:END -->
+- (December 21, 2020 at 3:47 AM) [Hugo local development serve stopped working](https://discourse.gohugo.io/t/hugo-local-development-serve-stopped-working/30109/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
