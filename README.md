@@ -16,11 +16,11 @@ I am working on a project called BooKa. It's what the Germans call "eierlegende 
 
 I have a long history of working with WordPress themes and plugins and recently took over the long abandoned Titan Framework, an options framework for WordPress. My goal is to make this library available for the latest versions of WordPress and enable everyone to add options and setup pages to their plugins and themes. 
 
-## Hugo
+## [Hugo](https://gohugo.io)
 
 > Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 
-[Hugo](https://gohugo.io/) is in action in more than half of all websites I am working on (my own and my customer's). It's fast, it's flexible and it produces websites.
+It is in action in more than half of all websites I am working on (my own and my customer's). It's fast, it's flexible and it produces websites that rank well.
 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
@@ -30,7 +30,8 @@ I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 - (December 21, 2020 at 3:40 AM) [PostCSS piping error](https://discourse.gohugo.io/t/postcss-piping-error/30112/3)
 - (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)<!-- DISCOURSE:END -->
 
-_This README.md is work in progress. Testing things out ;)_
+## Brainstorm
+
+The issues in THIS repository [collect some brainstorm stuff](https://github.com/davidsneighbour/davidsneighbour/issues) I am thinking about every now and then that gets either ignored or produced. 
 
 [header1]: https://raw.githubusercontent.com/davidsneighbour/davidsneighbour/master/static/header3.jpg "Some code."
-
