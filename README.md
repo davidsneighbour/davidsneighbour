@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 21, 2020 at 9:00 AM) [Finally Resolved Failed Netlify Deployments: git subtree solution](https://discourse.gohugo.io/t/finally-resolved-failed-netlify-deployments-git-subtree-solution/30120/2)
 - (December 21, 2020 at 3:47 AM) [Hugo local development serve stopped working](https://discourse.gohugo.io/t/hugo-local-development-serve-stopped-working/30109/2)
 - (December 21, 2020 at 3:40 AM) [PostCSS piping error](https://discourse.gohugo.io/t/postcss-piping-error/30112/3)
-- (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)
-- (December 21, 2020 at 3:14 AM) [JSONIFY is escaping strings](https://discourse.gohugo.io/t/jsonify-is-escaping-strings/25161/7)<!-- DISCOURSE:END -->
+- (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
