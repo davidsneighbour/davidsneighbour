@@ -25,10 +25,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 20, 2020 at 3:38 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/8)
-- (December 20, 2020 at 3:07 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/6)
-- (December 20, 2020 at 1:56 PM) [How do I display only the latest post?](https://discourse.gohugo.io/t/how-do-i-display-only-the-latest-post/30106/2)
-- (December 20, 2020 at 1:20 PM) [About GitInfo (Git Info Variables)](https://discourse.gohugo.io/t/about-gitinfo-git-info-variables/30098/8)<!-- DISCOURSE:END -->
+- (December 21, 2020 at 3:47 AM) [Hugo local development serve stopped working](https://discourse.gohugo.io/t/hugo-local-development-serve-stopped-working/30109/2)
+- (December 21, 2020 at 3:40 AM) [PostCSS piping error](https://discourse.gohugo.io/t/postcss-piping-error/30112/3)
+- (December 21, 2020 at 3:19 AM) [Emojis in hugo?](https://discourse.gohugo.io/t/emojis-in-hugo/2769/25)
+- (December 21, 2020 at 3:14 AM) [JSONIFY is escaping strings](https://discourse.gohugo.io/t/jsonify-is-escaping-strings/25161/7)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
