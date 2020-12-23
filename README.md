@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 22, 2020 at 9:24 AM) [How to change id of headings?](https://discourse.gohugo.io/t/how-to-change-id-of-headings/30147/2)
-- (December 22, 2020 at 8:21 AM) [OT: Site not accessible via mobile](https://discourse.gohugo.io/t/ot-site-not-accessible-via-mobile/30145/2)
-- (December 21, 2020 at 1:39 PM) [Alternative search engines](https://discourse.gohugo.io/t/alternative-search-engines/30132/6)
-- (December 21, 2020 at 12:54 PM) [Alternative search engines](https://discourse.gohugo.io/t/alternative-search-engines/30132/3)<!-- DISCOURSE:END -->
+- (December 23, 2020 at 9:39 AM) [Hugo new -k publication](https://discourse.gohugo.io/t/hugo-new-k-publication/30161/5)
+- (December 23, 2020 at 9:36 AM) [Commenting System](https://discourse.gohugo.io/t/commenting-system/30156/8)
+- (December 23, 2020 at 9:31 AM) [Hugo new -k publication](https://discourse.gohugo.io/t/hugo-new-k-publication/30161/3)
+- (December 23, 2020 at 7:48 AM) [Use a CentOS Docker Image to Build and Deploy a Hugo (Modules) Site to GitLab Pages](https://discourse.gohugo.io/t/use-a-centos-docker-image-to-build-and-deploy-a-hugo-modules-site-to-gitlab-pages/30164/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
