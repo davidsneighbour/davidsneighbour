@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 24, 2020 at 12:51 PM) [Pagination: How to display list of page numbers in paginator?](https://discourse.gohugo.io/t/pagination-how-to-display-list-of-page-numbers-in-paginator/30188/2)
+- (December 24, 2020 at 12:14 PM) [Page on gohugo.io For addons/microservices](https://discourse.gohugo.io/t/page-on-gohugo-io-for-addons-microservices/30181/2)
 - (December 23, 2020 at 3:32 PM) [Conditionally include some text in markdown file](https://discourse.gohugo.io/t/conditionally-include-some-text-in-markdown-file/30163/5)
-- (December 23, 2020 at 1:23 PM) [Commenting System](https://discourse.gohugo.io/t/commenting-system/30156/11)
-- (December 23, 2020 at 1:17 PM) [Use a CentOS Docker Image to Build and Deploy a Hugo (Modules) Site to GitLab Pages](https://discourse.gohugo.io/t/use-a-centos-docker-image-to-build-and-deploy-a-hugo-modules-site-to-gitlab-pages/30164/6)
-- (December 23, 2020 at 9:39 AM) [Hugo new -k publication](https://discourse.gohugo.io/t/hugo-new-k-publication/30161/5)<!-- DISCOURSE:END -->
+- (December 23, 2020 at 1:23 PM) [Commenting System](https://discourse.gohugo.io/t/commenting-system/30156/11)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
