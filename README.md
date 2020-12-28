@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 24, 2020 at 12:51 PM) [Pagination: How to display list of page numbers in paginator?](https://discourse.gohugo.io/t/pagination-how-to-display-list-of-page-numbers-in-paginator/30188/2)
-- (December 24, 2020 at 12:14 PM) [Page on gohugo.io For addons/microservices](https://discourse.gohugo.io/t/page-on-gohugo-io-for-addons-microservices/30181/2)
-- (December 23, 2020 at 3:32 PM) [Conditionally include some text in markdown file](https://discourse.gohugo.io/t/conditionally-include-some-text-in-markdown-file/30163/5)
-- (December 23, 2020 at 1:23 PM) [Commenting System](https://discourse.gohugo.io/t/commenting-system/30156/11)<!-- DISCOURSE:END -->
+- (December 28, 2020 at 2:50 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/7)
+- (December 28, 2020 at 2:45 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/5)
+- (December 28, 2020 at 12:26 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/2)
+- (December 24, 2020 at 12:51 PM) [Pagination: How to display list of page numbers in paginator?](https://discourse.gohugo.io/t/pagination-how-to-display-list-of-page-numbers-in-paginator/30188/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
