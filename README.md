@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 30, 2020 at 5:58 PM) [Does Hugo supports Persian Calendar?](https://discourse.gohugo.io/t/does-hugo-supports-persian-calendar/30292/2)
 - (December 30, 2020 at 8:59 AM) [Warn if file doesn't exist](https://discourse.gohugo.io/t/warn-if-file-doesnt-exist/30278/2)
 - (December 30, 2020 at 8:51 AM) [Handling .webp images if not supported by browser](https://discourse.gohugo.io/t/handling-webp-images-if-not-supported-by-browser/30283/2)
-- (December 28, 2020 at 2:50 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/7)
-- (December 28, 2020 at 2:45 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/5)<!-- DISCOURSE:END -->
+- (December 28, 2020 at 2:50 PM) [How to share a Partial across Output Formats](https://discourse.gohugo.io/t/how-to-share-a-partial-across-output-formats/30244/7)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
