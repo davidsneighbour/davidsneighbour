@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 1, 2021 at 1:45 PM) [Hugo 0.80.0 Released](https://discourse.gohugo.io/t/hugo-0-80-0-released/30308/11)
 - (January 1, 2021 at 11:53 AM) [Hugo 0.80.0 Released](https://discourse.gohugo.io/t/hugo-0-80-0-released/30308/8)
 - (December 30, 2020 at 5:58 PM) [Does Hugo support Persian Calendar?](https://discourse.gohugo.io/t/does-hugo-support-persian-calendar/30292/2)
-- (December 30, 2020 at 8:59 AM) [Warn if file doesn't exist](https://discourse.gohugo.io/t/warn-if-file-doesnt-exist/30278/2)
-- (December 30, 2020 at 8:51 AM) [Handling .webp images if not supported by browser](https://discourse.gohugo.io/t/handling-webp-images-if-not-supported-by-browser/30283/2)<!-- DISCOURSE:END -->
+- (December 30, 2020 at 8:59 AM) [Warn if file doesn't exist](https://discourse.gohugo.io/t/warn-if-file-doesnt-exist/30278/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
