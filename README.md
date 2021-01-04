@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 3, 2021 at 8:46 AM) [Create a template page and use different data](https://discourse.gohugo.io/t/create-a-template-page-and-use-different-data/30361/2)
-- (January 2, 2021 at 6:17 AM) [IRC Channel](https://discourse.gohugo.io/t/irc-channel/4021/4)
-- (January 1, 2021 at 1:45 PM) [Hugo 0.80.0 Released](https://discourse.gohugo.io/t/hugo-0-80-0-released/30308/11)
-- (January 1, 2021 at 11:53 AM) [Hugo 0.80.0 Released](https://discourse.gohugo.io/t/hugo-0-80-0-released/30308/8)<!-- DISCOURSE:END -->
+- (January 4, 2021 at 9:51 AM) [How to avoid inconsistent use of German umlauts?](https://discourse.gohugo.io/t/how-to-avoid-inconsistent-use-of-german-umlauts/30390/3)
+- (January 4, 2021 at 9:50 AM) [How to avoid inconsistent use of German umlauts?](https://discourse.gohugo.io/t/how-to-avoid-inconsistent-use-of-german-umlauts/30390/2)
+- (January 4, 2021 at 8:01 AM) [Unable to get partial to return images generated from title](https://discourse.gohugo.io/t/unable-to-get-partial-to-return-images-generated-from-title/30368/3)
+- (January 4, 2021 at 6:09 AM) [OT: Pretty URLS for non-html (e.g., PDF) docs?](https://discourse.gohugo.io/t/ot-pretty-urls-for-non-html-e-g-pdf-docs/30378/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
