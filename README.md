@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 4, 2021 at 9:51 AM) [How to avoid inconsistent use of German umlauts?](https://discourse.gohugo.io/t/how-to-avoid-inconsistent-use-of-german-umlauts/30390/3)
-- (January 4, 2021 at 9:50 AM) [How to avoid inconsistent use of German umlauts?](https://discourse.gohugo.io/t/how-to-avoid-inconsistent-use-of-german-umlauts/30390/2)
-- (January 4, 2021 at 8:01 AM) [Unable to get partial to return images generated from title](https://discourse.gohugo.io/t/unable-to-get-partial-to-return-images-generated-from-title/30368/3)
-- (January 4, 2021 at 6:09 AM) [OT: Pretty URLS for non-html (e.g., PDF) docs?](https://discourse.gohugo.io/t/ot-pretty-urls-for-non-html-e-g-pdf-docs/30378/2)<!-- DISCOURSE:END -->
+- (January 4, 2021 at 3:28 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/6)
+- (January 4, 2021 at 3:27 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/5)
+- (January 4, 2021 at 3:21 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/3)
+- (January 4, 2021 at 3:20 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
