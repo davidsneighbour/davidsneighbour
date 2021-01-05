@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 5, 2021 at 6:49 AM) [Theme source as a module](https://discourse.gohugo.io/t/theme-source-as-a-module/28254/5)
-- (January 4, 2021 at 3:28 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/6)
-- (January 4, 2021 at 3:27 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/5)
-- (January 4, 2021 at 3:21 PM) [Should hugoDocs live on a separate repo?](https://discourse.gohugo.io/t/should-hugodocs-live-on-a-separate-repo/30395/3)<!-- DISCOURSE:END -->
+- (January 5, 2021 at 2:03 PM) [IsSet with unsupported type "invalid"](https://discourse.gohugo.io/t/isset-with-unsupported-type-invalid/30428/1)
+- (January 5, 2021 at 12:47 PM) [Using toc with shortcode](https://discourse.gohugo.io/t/using-toc-with-shortcode/30418/4)
+- (January 5, 2021 at 12:42 PM) [Best practices for shortcode files](https://discourse.gohugo.io/t/best-practices-for-shortcode-files/30422/4)
+- (January 5, 2021 at 6:49 AM) [Theme source as a module](https://discourse.gohugo.io/t/theme-source-as-a-module/28254/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
