@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 6, 2021 at 5:10 PM) [Pipes' PostCSS imports and Hugo Modules](https://discourse.gohugo.io/t/pipes-postcss-imports-and-hugo-modules/30453/5)
-- (January 6, 2021 at 5:01 PM) [DIsable folder creation for every content file](https://discourse.gohugo.io/t/disable-folder-creation-for-every-content-file/30456/2)
-- (January 6, 2021 at 4:59 PM) [Pipes' PostCSS imports and Hugo Modules](https://discourse.gohugo.io/t/pipes-postcss-imports-and-hugo-modules/30453/3)
-- (January 6, 2021 at 4:50 PM) [Pipes' PostCSS imports and Hugo Modules](https://discourse.gohugo.io/t/pipes-postcss-imports-and-hugo-modules/30453/2)<!-- DISCOURSE:END -->
+- (January 7, 2021 at 11:24 AM) [Resources directory](https://discourse.gohugo.io/t/resources-directory/30465/4)
+- (January 7, 2021 at 11:20 AM) [Is Hugo targeted to implement a personnal knowledge base site?](https://discourse.gohugo.io/t/is-hugo-targeted-to-implement-a-personnal-knowledge-base-site/30462/3)
+- (January 7, 2021 at 11:16 AM) [Pagination page directories missing 1](https://discourse.gohugo.io/t/pagination-page-directories-missing-1/30463/2)
+- (January 7, 2021 at 11:12 AM) [Iterating over translated content in the config file](https://discourse.gohugo.io/t/iterating-over-translated-content-in-the-config-file/30466/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
