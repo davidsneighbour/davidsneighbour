@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 7, 2021 at 11:24 AM) [Resources directory](https://discourse.gohugo.io/t/resources-directory/30465/4)
-- (January 7, 2021 at 11:20 AM) [Is Hugo targeted to implement a personnal knowledge base site?](https://discourse.gohugo.io/t/is-hugo-targeted-to-implement-a-personnal-knowledge-base-site/30462/3)
-- (January 7, 2021 at 11:16 AM) [Pagination page directories missing 1](https://discourse.gohugo.io/t/pagination-page-directories-missing-1/30463/2)
-- (January 7, 2021 at 11:12 AM) [Iterating over translated content in the config file](https://discourse.gohugo.io/t/iterating-over-translated-content-in-the-config-file/30466/2)<!-- DISCOURSE:END -->
+- (January 8, 2021 at 9:37 AM) [Problem with external url for images](https://discourse.gohugo.io/t/problem-with-external-url-for-images/30495/2)
+- (January 8, 2021 at 8:29 AM) [Load babel only if available](https://discourse.gohugo.io/t/load-babel-only-if-available/30487/2)
+- (January 8, 2021 at 8:26 AM) [String variable is sometimes encoded when added as a data attribute](https://discourse.gohugo.io/t/string-variable-is-sometimes-encoded-when-added-as-a-data-attribute/30493/2)
+- (January 8, 2021 at 7:01 AM) [Testing (timing actually)](https://discourse.gohugo.io/t/testing-timing-actually/30475/8)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
