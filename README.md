@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 8, 2021 at 9:37 AM) [Problem with external url for images](https://discourse.gohugo.io/t/problem-with-external-url-for-images/30495/2)
-- (January 8, 2021 at 8:29 AM) [Load babel only if available](https://discourse.gohugo.io/t/load-babel-only-if-available/30487/2)
-- (January 8, 2021 at 8:26 AM) [String variable is sometimes encoded when added as a data attribute](https://discourse.gohugo.io/t/string-variable-is-sometimes-encoded-when-added-as-a-data-attribute/30493/2)
-- (January 8, 2021 at 7:01 AM) [Testing (timing actually)](https://discourse.gohugo.io/t/testing-timing-actually/30475/8)<!-- DISCOURSE:END -->
+- (January 10, 2021 at 12:36 PM) [Restrict taxonomy values](https://discourse.gohugo.io/t/restrict-taxonomy-values/30500/4)
+- (January 10, 2021 at 12:26 PM) [Parse JSON File by Arrays as Input to Java Script (JS / JavaScript) Function)](https://discourse.gohugo.io/t/parse-json-file-by-arrays-as-input-to-java-script-js-javascript-function/30527/2)
+- (January 10, 2021 at 12:20 PM) [Next Page URL in <head>](https://discourse.gohugo.io/t/next-page-url-in-head/30539/3)
+- (January 10, 2021 at 12:18 PM) [Next Page URL in <head>](https://discourse.gohugo.io/t/next-page-url-in-head/30539/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
