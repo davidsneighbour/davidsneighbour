@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 10, 2021 at 12:36 PM) [Restrict taxonomy values](https://discourse.gohugo.io/t/restrict-taxonomy-values/30500/4)
-- (January 10, 2021 at 12:26 PM) [Parse JSON File by Arrays as Input to Java Script (JS / JavaScript) Function)](https://discourse.gohugo.io/t/parse-json-file-by-arrays-as-input-to-java-script-js-javascript-function/30527/2)
-- (January 10, 2021 at 12:20 PM) [Next Page URL in <head>](https://discourse.gohugo.io/t/next-page-url-in-head/30539/3)
-- (January 10, 2021 at 12:18 PM) [Next Page URL in <head>](https://discourse.gohugo.io/t/next-page-url-in-head/30539/2)<!-- DISCOURSE:END -->
+- (January 10, 2021 at 2:14 PM) [New error when generating my website](https://discourse.gohugo.io/t/new-error-when-generating-my-website/30543/5)
+- (January 10, 2021 at 1:55 PM) [New error when generating my website](https://discourse.gohugo.io/t/new-error-when-generating-my-website/30543/3)
+- (January 10, 2021 at 1:54 PM) [On Windows, can I keep 2 versions of Hugo in different folders?](https://discourse.gohugo.io/t/on-windows-can-i-keep-2-versions-of-hugo-in-different-folders/30525/5)
+- (January 10, 2021 at 1:27 PM) [Social Media Icons](https://discourse.gohugo.io/t/social-media-icons/30506/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
