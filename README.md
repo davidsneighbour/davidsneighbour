@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 10, 2021 at 2:14 PM) [New error when generating my website](https://discourse.gohugo.io/t/new-error-when-generating-my-website/30543/5)
-- (January 10, 2021 at 1:55 PM) [New error when generating my website](https://discourse.gohugo.io/t/new-error-when-generating-my-website/30543/3)
-- (January 10, 2021 at 1:54 PM) [On Windows, can I keep 2 versions of Hugo in different folders?](https://discourse.gohugo.io/t/on-windows-can-i-keep-2-versions-of-hugo-in-different-folders/30525/5)
-- (January 10, 2021 at 1:27 PM) [Social Media Icons](https://discourse.gohugo.io/t/social-media-icons/30506/4)<!-- DISCOURSE:END -->
+- (January 11, 2021 at 11:40 AM) [anchorLineNos = true for multiple code blocks](https://discourse.gohugo.io/t/anchorlinenos-true-for-multiple-code-blocks/30545/4)
+- (January 11, 2021 at 11:16 AM) [anchorLineNos = true for multiple code blocks](https://discourse.gohugo.io/t/anchorlinenos-true-for-multiple-code-blocks/30545/2)
+- (January 11, 2021 at 11:08 AM) [Posts not showing using netlify](https://discourse.gohugo.io/t/posts-not-showing-using-netlify/30547/3)
+- (January 11, 2021 at 11:01 AM) [Multi-language adds language to static URL unexpectedly](https://discourse.gohugo.io/t/multi-language-adds-language-to-static-url-unexpectedly/30549/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
