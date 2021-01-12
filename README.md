@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 11, 2021 at 5:03 PM) [Transferring an attribute from the document to an element statically?](https://discourse.gohugo.io/t/transferring-an-attribute-from-the-document-to-an-element-statically/30569/5)
 - (January 11, 2021 at 11:40 AM) [anchorLineNos = true for multiple code blocks](https://discourse.gohugo.io/t/anchorlinenos-true-for-multiple-code-blocks/30545/4)
 - (January 11, 2021 at 11:16 AM) [anchorLineNos = true for multiple code blocks](https://discourse.gohugo.io/t/anchorlinenos-true-for-multiple-code-blocks/30545/2)
-- (January 11, 2021 at 11:08 AM) [Posts not showing using netlify](https://discourse.gohugo.io/t/posts-not-showing-using-netlify/30547/3)
-- (January 11, 2021 at 11:01 AM) [Multi-language adds language to static URL unexpectedly](https://discourse.gohugo.io/t/multi-language-adds-language-to-static-url-unexpectedly/30549/2)<!-- DISCOURSE:END -->
+- (January 11, 2021 at 11:08 AM) [Posts not showing using netlify](https://discourse.gohugo.io/t/posts-not-showing-using-netlify/30547/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
