@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 15, 2021 at 12:46 PM) [The different ways of adding a theme](https://discourse.gohugo.io/t/the-different-ways-of-adding-a-theme/30664/3)
 - (January 12, 2021 at 5:07 PM) [How to add hash symbol for ID attribute in config.toml when specificing a URL path](https://discourse.gohugo.io/t/how-to-add-hash-symbol-for-id-attribute-in-config-toml-when-specificing-a-url-path/30592/2)
 - (January 12, 2021 at 3:21 PM) [Related content not shown on multilingual site](https://discourse.gohugo.io/t/related-content-not-shown-on-multilingual-site/30585/6)
-- (January 12, 2021 at 3:09 PM) [Determine if a shortcode has .Inner content](https://discourse.gohugo.io/t/determine-if-a-shortcode-has-inner-content/30587/1)
-- (January 12, 2021 at 2:49 PM) [Partial pulling in content sub folder](https://discourse.gohugo.io/t/partial-pulling-in-content-sub-folder/30586/2)<!-- DISCOURSE:END -->
+- (January 12, 2021 at 3:09 PM) [Determine if a shortcode has .Inner content](https://discourse.gohugo.io/t/determine-if-a-shortcode-has-inner-content/30587/1)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
