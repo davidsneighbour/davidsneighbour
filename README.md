@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 16, 2021 at 12:05 PM) [Error copying static files](https://discourse.gohugo.io/t/error-copying-static-files/30676/5)
-- (January 16, 2021 at 7:35 AM) [None code with bold or italic in syntax highlighter](https://discourse.gohugo.io/t/none-code-with-bold-or-italic-in-syntax-highlighter/30678/2)
-- (January 15, 2021 at 4:31 PM) [Single quote does not show correctly in title social metatags](https://discourse.gohugo.io/t/single-quote-does-not-show-correctly-in-title-social-metatags/30312/3)
-- (January 15, 2021 at 12:46 PM) [The different ways of adding a theme](https://discourse.gohugo.io/t/the-different-ways-of-adding-a-theme/30664/3)<!-- DISCOURSE:END -->
+- (January 17, 2021 at 11:53 AM) [How to calculate total page size (html+assets) in KB per page](https://discourse.gohugo.io/t/how-to-calculate-total-page-size-html-assets-in-kb-per-page/30701/2)
+- (January 17, 2021 at 5:48 AM) [Lazy Loading - images not loading](https://discourse.gohugo.io/t/lazy-loading-images-not-loading/30690/2)
+- (January 17, 2021 at 5:42 AM) [How to use an object in range?](https://discourse.gohugo.io/t/how-to-use-an-object-in-range/30693/2)
+- (January 17, 2021 at 5:37 AM) [Error copying static files](https://discourse.gohugo.io/t/error-copying-static-files/30676/10)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
