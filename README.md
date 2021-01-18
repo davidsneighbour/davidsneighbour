@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 17, 2021 at 3:32 PM) [Complex use of taxonomy or subpage generation?](https://discourse.gohugo.io/t/complex-use-of-taxonomy-or-subpage-generation/30692/6)
-- (January 17, 2021 at 3:27 PM) [Complex use of taxonomy or subpage generation?](https://discourse.gohugo.io/t/complex-use-of-taxonomy-or-subpage-generation/30692/5)
-- (January 17, 2021 at 3:06 PM) [Airtable and Hugo](https://discourse.gohugo.io/t/airtable-and-hugo/30704/2)
-- (January 17, 2021 at 1:35 PM) [.svg colour from $primary](https://discourse.gohugo.io/t/svg-colour-from-primary/30681/11)<!-- DISCOURSE:END -->
+- (January 18, 2021 at 8:43 AM) [Is html an undocumented alias to htmlEscape?](https://discourse.gohugo.io/t/is-html-an-undocumented-alias-to-htmlescape/30711/2)
+- (January 18, 2021 at 8:37 AM) [Text fields in content items](https://discourse.gohugo.io/t/text-fields-in-content-items/30710/2)
+- (January 18, 2021 at 8:34 AM) [Elements inside article content with different style](https://discourse.gohugo.io/t/elements-inside-article-content-with-different-style/30712/2)
+- (January 17, 2021 at 3:32 PM) [Complex use of taxonomy or subpage generation?](https://discourse.gohugo.io/t/complex-use-of-taxonomy-or-subpage-generation/30692/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
