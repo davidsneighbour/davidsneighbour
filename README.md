@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 17, 2021 at 11:53 AM) [How to calculate total page size (html+assets) in KB per page](https://discourse.gohugo.io/t/how-to-calculate-total-page-size-html-assets-in-kb-per-page/30701/2)
-- (January 17, 2021 at 5:48 AM) [Lazy Loading - images not loading](https://discourse.gohugo.io/t/lazy-loading-images-not-loading/30690/2)
-- (January 17, 2021 at 5:42 AM) [How to use an object in range?](https://discourse.gohugo.io/t/how-to-use-an-object-in-range/30693/2)
-- (January 17, 2021 at 5:37 AM) [Error copying static files](https://discourse.gohugo.io/t/error-copying-static-files/30676/10)<!-- DISCOURSE:END -->
+- (January 17, 2021 at 3:32 PM) [Complex use of taxonomy or subpage generation?](https://discourse.gohugo.io/t/complex-use-of-taxonomy-or-subpage-generation/30692/6)
+- (January 17, 2021 at 3:27 PM) [Complex use of taxonomy or subpage generation?](https://discourse.gohugo.io/t/complex-use-of-taxonomy-or-subpage-generation/30692/5)
+- (January 17, 2021 at 3:06 PM) [Airtable and Hugo](https://discourse.gohugo.io/t/airtable-and-hugo/30704/2)
+- (January 17, 2021 at 1:35 PM) [.svg colour from $primary](https://discourse.gohugo.io/t/svg-colour-from-primary/30681/11)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
