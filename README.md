@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 20, 2021 at 4:40 PM) [HTML in Variable](https://discourse.gohugo.io/t/html-in-variable/7378/4)
 - (January 19, 2021 at 3:02 PM) [Fuzzy mactch regex](https://discourse.gohugo.io/t/fuzzy-mactch-regex/30744/2)
 - (January 19, 2021 at 2:38 PM) [Argument for BaseURL in docker-compose file](https://discourse.gohugo.io/t/argument-for-baseurl-in-docker-compose-file/30741/2)
-- (January 19, 2021 at 2:36 PM) [How to skip a README.md in a specific folder?](https://discourse.gohugo.io/t/how-to-skip-a-readme-md-in-a-specific-folder/30742/2)
-- (January 18, 2021 at 3:02 PM) [Sorting by Parameters without 'range'](https://discourse.gohugo.io/t/sorting-by-parameters-without-range/30723/2)<!-- DISCOURSE:END -->
+- (January 19, 2021 at 2:36 PM) [How to skip a README.md in a specific folder?](https://discourse.gohugo.io/t/how-to-skip-a-readme-md-in-a-specific-folder/30742/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
