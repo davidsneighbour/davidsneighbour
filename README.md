@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 22, 2021 at 4:43 PM) [Concepts of Hugo, an introduction for beginners](https://discourse.gohugo.io/t/concepts-of-hugo-an-introduction-for-beginners/30751/9)
-- (January 22, 2021 at 3:30 PM) [.Page.Resources directory from a _index.md shortcode](https://discourse.gohugo.io/t/page-resources-directory-from-a-index-md-shortcode/30797/4)
-- (January 22, 2021 at 3:04 PM) [.Page.Resources directory from a _index.md shortcode](https://discourse.gohugo.io/t/page-resources-directory-from-a-index-md-shortcode/30797/2)
-- (January 22, 2021 at 12:28 PM) [Cannot get pagination to work: invalid memory address or nil pointer dereference](https://discourse.gohugo.io/t/cannot-get-pagination-to-work-invalid-memory-address-or-nil-pointer-dereference/30793/4)<!-- DISCOURSE:END -->
+- (January 24, 2021 at 11:10 AM) [How to use section name as hugo categories？](https://discourse.gohugo.io/t/how-to-use-section-name-as-hugo-categories/30830/2)
+- (January 24, 2021 at 10:31 AM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/6)
+- (January 24, 2021 at 10:24 AM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/4)
+- (January 24, 2021 at 10:17 AM) [Conditional statement checking for a page type?](https://discourse.gohugo.io/t/conditional-statement-checking-for-a-page-type/30813/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
