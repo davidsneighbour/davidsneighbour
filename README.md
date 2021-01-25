@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 24, 2021 at 1:54 PM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/7)
+- (January 24, 2021 at 1:26 PM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/8)
 - (January 24, 2021 at 11:10 AM) [How to use section name as hugo categories？](https://discourse.gohugo.io/t/how-to-use-section-name-as-hugo-categories/30830/2)
-- (January 24, 2021 at 10:31 AM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/6)
-- (January 24, 2021 at 10:24 AM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/4)
-- (January 24, 2021 at 10:17 AM) [Conditional statement checking for a page type?](https://discourse.gohugo.io/t/conditional-statement-checking-for-a-page-type/30813/3)<!-- DISCOURSE:END -->
+- (January 24, 2021 at 10:31 AM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
