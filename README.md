@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 24, 2021 at 1:54 PM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/7)
-- (January 24, 2021 at 1:26 PM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/8)
-- (January 24, 2021 at 11:10 AM) [How to use section name as hugo categories？](https://discourse.gohugo.io/t/how-to-use-section-name-as-hugo-categories/30830/2)
-- (January 24, 2021 at 10:31 AM) [Custom Print View for all single items](https://discourse.gohugo.io/t/custom-print-view-for-all-single-items/30817/6)<!-- DISCOURSE:END -->
+- (January 25, 2021 at 7:21 AM) [Problem with Params converter to Json + ld](https://discourse.gohugo.io/t/problem-with-params-converter-to-json-ld/30847/2)
+- (January 25, 2021 at 7:17 AM) [How to reference files in a leaf bundle blog post?](https://discourse.gohugo.io/t/how-to-reference-files-in-a-leaf-bundle-blog-post/30846/2)
+- (January 25, 2021 at 4:27 AM) [Hugo throws error during minification: JSBUILD Could not resolve "javascript path"](https://discourse.gohugo.io/t/hugo-throws-error-during-minification-jsbuild-could-not-resolve-javascript-path/30810/5)
+- (January 24, 2021 at 1:54 PM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/7)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
