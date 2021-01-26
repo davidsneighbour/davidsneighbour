@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 25, 2021 at 7:21 AM) [Problem with Params converter to Json + ld](https://discourse.gohugo.io/t/problem-with-params-converter-to-json-ld/30847/2)
-- (January 25, 2021 at 7:17 AM) [How to reference files in a leaf bundle blog post?](https://discourse.gohugo.io/t/how-to-reference-files-in-a-leaf-bundle-blog-post/30846/2)
-- (January 25, 2021 at 4:27 AM) [Hugo throws error during minification: JSBUILD Could not resolve "javascript path"](https://discourse.gohugo.io/t/hugo-throws-error-during-minification-jsbuild-could-not-resolve-javascript-path/30810/5)
-- (January 24, 2021 at 1:54 PM) [Automatically handling empty/non-existing taxonomy entries](https://discourse.gohugo.io/t/automatically-handling-empty-non-existing-taxonomy-entries/30815/7)<!-- DISCOURSE:END -->
+- (January 25, 2021 at 4:00 PM) [CanonifyUrls does not work with ExecuteAsTemplate](https://discourse.gohugo.io/t/canonifyurls-does-not-work-with-executeastemplate/30852/2)
+- (January 25, 2021 at 3:58 PM) [Need Help Regarding Params](https://discourse.gohugo.io/t/need-help-regarding-params/30855/5)
+- (January 25, 2021 at 3:57 PM) [Need Help Regarding Params](https://discourse.gohugo.io/t/need-help-regarding-params/30855/4)
+- (January 25, 2021 at 3:51 PM) [Debug levels for errorf and warnf](https://discourse.gohugo.io/t/debug-levels-for-errorf-and-warnf/30856/1)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
