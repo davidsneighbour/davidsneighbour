@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 27, 2021 at 5:58 PM) [PostCSS global/local](https://discourse.gohugo.io/t/postcss-global-local/30900/2)
-- (January 27, 2021 at 2:42 PM) [Clarification regarding modules and themes](https://discourse.gohugo.io/t/clarification-regarding-modules-and-themes/30893/2)
-- (January 27, 2021 at 1:04 PM) [Hugo and Auth0?](https://discourse.gohugo.io/t/hugo-and-auth0/30885/3)
-- (January 27, 2021 at 12:58 PM) [Did the fonts here change?](https://discourse.gohugo.io/t/did-the-fonts-here-change/30868/5)<!-- DISCOURSE:END -->
+- (January 29, 2021 at 4:54 PM) [Merging collections of maps/slices](https://discourse.gohugo.io/t/merging-collections-of-maps-slices/30944/2)
+- (January 29, 2021 at 4:47 PM) [How can substring the slug for my custom URL](https://discourse.gohugo.io/t/how-can-substring-the-slug-for-my-custom-url/30918/2)
+- (January 29, 2021 at 4:30 PM) [Merging collections of maps/slices](https://discourse.gohugo.io/t/merging-collections-of-maps-slices/30944/1)
+- (January 27, 2021 at 5:58 PM) [PostCSS global/local](https://discourse.gohugo.io/t/postcss-global-local/30900/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
