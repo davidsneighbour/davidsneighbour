@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 1, 2021 at 9:26 AM) [How to retrieve the data based on different language if I use range?](https://discourse.gohugo.io/t/how-to-retrieve-the-data-based-on-different-language-if-i-use-range/30976/2)
+- (February 1, 2021 at 9:15 AM) [How to define a selected item in ranged select/options](https://discourse.gohugo.io/t/how-to-define-a-selected-item-in-ranged-select-options/30968/2)
 - (January 29, 2021 at 4:54 PM) [Merging collections of maps/slices](https://discourse.gohugo.io/t/merging-collections-of-maps-slices/30944/2)
-- (January 29, 2021 at 4:47 PM) [How can substring the slug for my custom URL](https://discourse.gohugo.io/t/how-can-substring-the-slug-for-my-custom-url/30918/2)
-- (January 29, 2021 at 4:30 PM) [Merging collections of maps/slices](https://discourse.gohugo.io/t/merging-collections-of-maps-slices/30944/1)
-- (January 27, 2021 at 5:58 PM) [PostCSS global/local](https://discourse.gohugo.io/t/postcss-global-local/30900/2)<!-- DISCOURSE:END -->
+- (January 29, 2021 at 4:47 PM) [How can substring the slug for my custom URL](https://discourse.gohugo.io/t/how-can-substring-the-slug-for-my-custom-url/30918/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
