@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 4, 2021 at 11:27 AM) [Taxonomy term with special character listing twice](https://discourse.gohugo.io/t/taxonomy-term-with-special-character-listing-twice/31040/3)
-- (February 4, 2021 at 6:34 AM) [Is it possible to use Hugo in Codeberg Page repositories?](https://discourse.gohugo.io/t/is-it-possible-to-use-hugo-in-codeberg-page-repositories/31012/5)
-- (February 4, 2021 at 6:25 AM) [images.Overlay with Strings?](https://discourse.gohugo.io/t/images-overlay-with-strings/31030/2)
-- (February 3, 2021 at 9:21 AM) [Is it possible to use Hugo in Codeberg Page repositories?](https://discourse.gohugo.io/t/is-it-possible-to-use-hugo-in-codeberg-page-repositories/31012/3)<!-- DISCOURSE:END -->
+- (February 4, 2021 at 5:43 PM) [How to encode a emoji string to correct permalink?](https://discourse.gohugo.io/t/how-to-encode-a-emoji-string-to-correct-permalink/31046/5)
+- (February 4, 2021 at 2:58 PM) [Building a cookie consent opt in function for Hugo](https://discourse.gohugo.io/t/building-a-cookie-consent-opt-in-function-for-hugo/30954/11)
+- (February 4, 2021 at 2:50 PM) [How to encode a emoji string to correct permalink?](https://discourse.gohugo.io/t/how-to-encode-a-emoji-string-to-correct-permalink/31046/2)
+- (February 4, 2021 at 2:47 PM) [Building a cookie consent opt in function for Hugo](https://discourse.gohugo.io/t/building-a-cookie-consent-opt-in-function-for-hugo/30954/9)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
