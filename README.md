@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 5, 2021 at 12:08 PM) [Run python script after hugo build](https://discourse.gohugo.io/t/run-python-script-after-hugo-build/31064/2)
-- (February 5, 2021 at 11:59 AM) [Add a date to default filename](https://discourse.gohugo.io/t/add-a-date-to-default-filename/31059/2)
-- (February 4, 2021 at 5:43 PM) [How to encode a emoji string to correct permalink?](https://discourse.gohugo.io/t/how-to-encode-a-emoji-string-to-correct-permalink/31046/5)
-- (February 4, 2021 at 2:58 PM) [Building a cookie consent opt in function for Hugo](https://discourse.gohugo.io/t/building-a-cookie-consent-opt-in-function-for-hugo/30954/11)<!-- DISCOURSE:END -->
+- (February 7, 2021 at 3:17 PM) [Error: "C:\Hugo\bin\config.toml:1:1"](https://discourse.gohugo.io/t/error-c-hugo-bin-config-toml1/31101/3)
+- (February 7, 2021 at 2:13 PM) [Need help with baseurl for my unorthodox site structure](https://discourse.gohugo.io/t/need-help-with-baseurl-for-my-unorthodox-site-structure/31075/2)
+- (February 7, 2021 at 2:09 PM) [What will 2021 bring for Hugo?](https://discourse.gohugo.io/t/what-will-2021-bring-for-hugo/31098/2)
+- (February 5, 2021 at 12:08 PM) [Run python script after hugo build](https://discourse.gohugo.io/t/run-python-script-after-hugo-build/31064/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
