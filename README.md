@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 17, 2021 at 11:46 AM) [URL repeats over and over](https://discourse.gohugo.io/t/url-repeats-over-and-over/31264/2)
+- (February 17, 2021 at 9:58 AM) [Inline SVG gets corrupted](https://discourse.gohugo.io/t/inline-svg-gets-corrupted/31257/6)
 - (February 16, 2021 at 3:31 PM) [Strange build behaviour, suddenly empty site](https://discourse.gohugo.io/t/strange-build-behaviour-suddenly-empty-site/31254/4)
-- (February 16, 2021 at 3:16 PM) [Strange build behaviour, suddenly empty site](https://discourse.gohugo.io/t/strange-build-behaviour-suddenly-empty-site/31254/2)
-- (February 15, 2021 at 3:10 PM) [How can I do to embed sub-shortcodes in the shortcode? (nest-shortcodes)](https://discourse.gohugo.io/t/how-can-i-do-to-embed-sub-shortcodes-in-the-shortcode-nest-shortcodes/31239/2)
-- (February 15, 2021 at 8:47 AM) [Netlify build failing with module mount](https://discourse.gohugo.io/t/netlify-build-failing-with-module-mount/31184/12)<!-- DISCOURSE:END -->
+- (February 16, 2021 at 3:16 PM) [Strange build behaviour, suddenly empty site](https://discourse.gohugo.io/t/strange-build-behaviour-suddenly-empty-site/31254/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
