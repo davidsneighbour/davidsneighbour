@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 17, 2021 at 11:46 AM) [URL repeats over and over](https://discourse.gohugo.io/t/url-repeats-over-and-over/31264/2)
-- (February 17, 2021 at 9:58 AM) [Inline SVG gets corrupted](https://discourse.gohugo.io/t/inline-svg-gets-corrupted/31257/6)
-- (February 16, 2021 at 3:31 PM) [Strange build behaviour, suddenly empty site](https://discourse.gohugo.io/t/strange-build-behaviour-suddenly-empty-site/31254/4)
-- (February 16, 2021 at 3:16 PM) [Strange build behaviour, suddenly empty site](https://discourse.gohugo.io/t/strange-build-behaviour-suddenly-empty-site/31254/2)<!-- DISCOURSE:END -->
+- (February 18, 2021 at 4:30 PM) [OT: Font Ligatures in Hugo-rendered code blocks?](https://discourse.gohugo.io/t/ot-font-ligatures-in-hugo-rendered-code-blocks/31285/2)
+- (February 18, 2021 at 3:53 PM) [A note to the discourse admin](https://discourse.gohugo.io/t/a-note-to-the-discourse-admin/31284/3)
+- (February 18, 2021 at 3:02 PM) [A note to the discourse admin](https://discourse.gohugo.io/t/a-note-to-the-discourse-admin/31284/1)
+- (February 17, 2021 at 11:46 AM) [URL repeats over and over](https://discourse.gohugo.io/t/url-repeats-over-and-over/31264/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
