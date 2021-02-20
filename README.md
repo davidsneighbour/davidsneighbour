@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 19, 2021 at 2:59 PM) [URLs broken on all content](https://discourse.gohugo.io/t/urls-broken-on-all-content/31297/6)
+- (February 19, 2021 at 2:19 PM) [URLs broken on all content](https://discourse.gohugo.io/t/urls-broken-on-all-content/31297/4)
 - (February 18, 2021 at 4:30 PM) [OT: Font Ligatures in Hugo-rendered code blocks?](https://discourse.gohugo.io/t/ot-font-ligatures-in-hugo-rendered-code-blocks/31285/2)
-- (February 18, 2021 at 3:53 PM) [A note to the discourse admin](https://discourse.gohugo.io/t/a-note-to-the-discourse-admin/31284/3)
-- (February 18, 2021 at 3:02 PM) [A note to the discourse admin](https://discourse.gohugo.io/t/a-note-to-the-discourse-admin/31284/1)
-- (February 17, 2021 at 11:46 AM) [URL repeats over and over](https://discourse.gohugo.io/t/url-repeats-over-and-over/31264/2)<!-- DISCOURSE:END -->
+- (February 18, 2021 at 3:53 PM) [A note to the discourse admin](https://discourse.gohugo.io/t/a-note-to-the-discourse-admin/31284/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
