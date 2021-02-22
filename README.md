@@ -27,8 +27,8 @@ I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 <!-- DISCOURSE:START -->
 - (February 21, 2021 at 12:43 PM) [Retrieving image size](https://discourse.gohugo.io/t/retrieving-image-size/31354/3)
 - (February 21, 2021 at 12:40 PM) [How Can I Use Specific in config file](https://discourse.gohugo.io/t/how-can-i-use-specific-in-config-file/31352/2)
-- (February 21, 2021 at 3:01 AM) [Is it easy to *also* serve .md files next to the .html?](https://discourse.gohugo.io/t/is-it-easy-to-also-serve-md-files-next-to-the-html/31339/8)
-- (February 20, 2021 at 6:39 PM) [Theme rendering doesn't go as expected](https://discourse.gohugo.io/t/theme-rendering-doesnt-go-as-expected/31342/2)<!-- DISCOURSE:END -->
+- (February 20, 2021 at 6:39 PM) [Theme rendering doesn't go as expected](https://discourse.gohugo.io/t/theme-rendering-doesnt-go-as-expected/31342/2)
+- (February 20, 2021 at 6:37 PM) [Is it easy to *also* serve .md files next to the .html?](https://discourse.gohugo.io/t/is-it-easy-to-also-serve-md-files-next-to-the-html/31339/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
