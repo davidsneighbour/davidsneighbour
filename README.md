@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 23, 2021 at 11:25 AM) [Multilingual Subdirectory Layouts](https://discourse.gohugo.io/t/multilingual-subdirectory-layouts/31390/2)
 - (February 22, 2021 at 1:32 PM) [Inserting Additional HTML to RSS/JSON feeds](https://discourse.gohugo.io/t/inserting-additional-html-to-rss-json-feeds/31380/2)
 - (February 22, 2021 at 1:16 PM) [Theme rendering doesn't go as expected](https://discourse.gohugo.io/t/theme-rendering-doesnt-go-as-expected/31342/5)
-- (February 22, 2021 at 1:13 PM) [First impression](https://discourse.gohugo.io/t/first-impression/31365/2)
-- (February 21, 2021 at 12:43 PM) [Retrieving image size](https://discourse.gohugo.io/t/retrieving-image-size/31354/3)<!-- DISCOURSE:END -->
+- (February 22, 2021 at 1:13 PM) [First impression](https://discourse.gohugo.io/t/first-impression/31365/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
