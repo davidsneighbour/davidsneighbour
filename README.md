@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 23, 2021 at 4:24 PM) [Strip HTML-tags from string](https://discourse.gohugo.io/t/strip-html-tags-from-string/31396/3)
-- (February 23, 2021 at 2:57 PM) [Multilingual Subdirectory Layouts](https://discourse.gohugo.io/t/multilingual-subdirectory-layouts/31390/3)
-- (February 23, 2021 at 2:49 PM) [absLangURL isn't working](https://discourse.gohugo.io/t/abslangurl-isnt-working/31395/2)
-- (February 23, 2021 at 2:46 PM) [Strip HTML-tags from string](https://discourse.gohugo.io/t/strip-html-tags-from-string/31396/1)<!-- DISCOURSE:END -->
+- (February 24, 2021 at 8:51 AM) [Folded / minimized code blocks](https://discourse.gohugo.io/t/folded-minimized-code-blocks/31414/2)
+- (February 24, 2021 at 8:20 AM) [Adding Keywords to Hugo Syntax Highlighters](https://discourse.gohugo.io/t/adding-keywords-to-hugo-syntax-highlighters/31413/2)
+- (February 24, 2021 at 8:16 AM) [Is there a way to customise the language URL?](https://discourse.gohugo.io/t/is-there-a-way-to-customise-the-language-url/31411/2)
+- (February 24, 2021 at 8:07 AM) [Multilingual Subdirectory Layouts](https://discourse.gohugo.io/t/multilingual-subdirectory-layouts/31390/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
