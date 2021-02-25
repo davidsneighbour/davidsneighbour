@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 24, 2021 at 8:51 AM) [Folded / minimized code blocks](https://discourse.gohugo.io/t/folded-minimized-code-blocks/31414/2)
-- (February 24, 2021 at 8:20 AM) [Adding Keywords to Hugo Syntax Highlighters](https://discourse.gohugo.io/t/adding-keywords-to-hugo-syntax-highlighters/31413/2)
-- (February 24, 2021 at 8:16 AM) [Is there a way to customise the language URL?](https://discourse.gohugo.io/t/is-there-a-way-to-customise-the-language-url/31411/2)
-- (February 24, 2021 at 8:07 AM) [Multilingual Subdirectory Layouts](https://discourse.gohugo.io/t/multilingual-subdirectory-layouts/31390/5)<!-- DISCOURSE:END -->
+- (February 24, 2021 at 6:11 PM) [Content change detected but not showing](https://discourse.gohugo.io/t/content-change-detected-but-not-showing/31420/2)
+- (February 24, 2021 at 5:54 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/5)
+- (February 24, 2021 at 5:52 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/4)
+- (February 24, 2021 at 5:48 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
