@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 25, 2021 at 6:23 PM) [Group Data byParam with date](https://discourse.gohugo.io/t/group-data-byparam-with-date/31433/2)
+- (February 25, 2021 at 12:50 PM) [Tags resorting to _default list](https://discourse.gohugo.io/t/tags-resorting-to-default-list/31423/2)
 - (February 24, 2021 at 6:11 PM) [Content change detected but not showing](https://discourse.gohugo.io/t/content-change-detected-but-not-showing/31420/2)
-- (February 24, 2021 at 5:54 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/5)
-- (February 24, 2021 at 5:52 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/4)
-- (February 24, 2021 at 5:48 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/2)<!-- DISCOURSE:END -->
+- (February 24, 2021 at 5:54 PM) [Content-Security-Policy vs Hugo's syntax highlighting in code blocks](https://discourse.gohugo.io/t/content-security-policy-vs-hugos-syntax-highlighting-in-code-blocks/31419/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
