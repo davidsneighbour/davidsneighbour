@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 28, 2021 at 12:29 PM) [My Kaomoji blog made with Hugo and Netlify](https://discourse.gohugo.io/t/my-kaomoji-blog-made-with-hugo-and-netlify/31449/3)
 - (February 28, 2021 at 12:23 PM) [I want to publish chapters of multiple books, looking for guidance](https://discourse.gohugo.io/t/i-want-to-publish-chapters-of-multiple-books-looking-for-guidance/31454/4)
 - (February 28, 2021 at 12:22 PM) [I want to publish chapters of multiple books, looking for guidance](https://discourse.gohugo.io/t/i-want-to-publish-chapters-of-multiple-books-looking-for-guidance/31454/3)
-- (February 26, 2021 at 4:20 PM) [JSON output for content pages in only 1 section](https://discourse.gohugo.io/t/json-output-for-content-pages-in-only-1-section/31443/10)
-- (February 26, 2021 at 2:57 PM) [JSON output for content pages in only 1 section](https://discourse.gohugo.io/t/json-output-for-content-pages-in-only-1-section/31443/4)<!-- DISCOURSE:END -->
+- (February 26, 2021 at 4:20 PM) [JSON output for content pages in only 1 section](https://discourse.gohugo.io/t/json-output-for-content-pages-in-only-1-section/31443/10)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
