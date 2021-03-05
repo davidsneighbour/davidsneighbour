@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 4, 2021 at 12:48 PM) [I can't disable Table of Content from my pages](https://discourse.gohugo.io/t/i-cant-disable-table-of-content-from-my-pages/31535/13)
+- (March 4, 2021 at 12:41 PM) [Center twitter post](https://discourse.gohugo.io/t/center-twitter-post/31547/2)
 - (March 3, 2021 at 12:39 PM) [Feature Request - Flag to not copy static files to public folder](https://discourse.gohugo.io/t/feature-request-flag-to-not-copy-static-files-to-public-folder/31524/3)
-- (March 3, 2021 at 12:37 PM) [How to contribute code as a newbie?](https://discourse.gohugo.io/t/how-to-contribute-code-as-a-newbie/31527/4)
-- (March 2, 2021 at 12:30 PM) [Multilingual section](https://discourse.gohugo.io/t/multilingual-section/31504/2)
-- (March 2, 2021 at 12:24 PM) [CSS Ressources Postprocessing breaks permalink when used in multiple output formats](https://discourse.gohugo.io/t/css-ressources-postprocessing-breaks-permalink-when-used-in-multiple-output-formats/31502/2)<!-- DISCOURSE:END -->
+- (March 3, 2021 at 12:37 PM) [How to contribute code as a newbie?](https://discourse.gohugo.io/t/how-to-contribute-code-as-a-newbie/31527/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
