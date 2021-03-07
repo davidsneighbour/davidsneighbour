@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 7, 2021 at 9:48 AM) [Offset paginator "range after x posts" on home](https://discourse.gohugo.io/t/offset-paginator-range-after-x-posts-on-home/31612/2)
 - (March 7, 2021 at 12:09 AM) [Dynamically display image of posts](https://discourse.gohugo.io/t/dynamically-display-image-of-posts/31592/6)
 - (March 7, 2021 at 12:07 AM) [Markdown vs. html formatting](https://discourse.gohugo.io/t/markdown-vs-html-formatting/31609/2)
-- (March 7, 2021 at 12:00 AM) [Hugo Goldmark for html not working on hosted site](https://discourse.gohugo.io/t/hugo-goldmark-for-html-not-working-on-hosted-site/31564/6)
-- (March 4, 2021 at 12:48 PM) [I can't disable Table of Content from my pages](https://discourse.gohugo.io/t/i-cant-disable-table-of-content-from-my-pages/31535/13)<!-- DISCOURSE:END -->
+- (March 7, 2021 at 12:00 AM) [Hugo Goldmark for html not working on hosted site](https://discourse.gohugo.io/t/hugo-goldmark-for-html-not-working-on-hosted-site/31564/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
