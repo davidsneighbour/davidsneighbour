@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 8, 2021 at 12:39 PM) [Roundtrip with urls.Parse](https://discourse.gohugo.io/t/roundtrip-with-urls-parse/31622/3)
 - (March 8, 2021 at 12:35 PM) [Is there a way of minifying inline html?](https://discourse.gohugo.io/t/is-there-a-way-of-minifying-inline-html/31625/5)
 - (March 8, 2021 at 12:32 PM) [Mounting node_modules from Hugo Module](https://discourse.gohugo.io/t/mounting-node-modules-from-hugo-module/31629/2)
-- (March 8, 2021 at 12:28 PM) [Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS](https://discourse.gohugo.io/t/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/31614/8)
-- (March 7, 2021 at 1:05 PM) [Bug-fix needed with Somrat theme](https://discourse.gohugo.io/t/bug-fix-needed-with-somrat-theme/31619/2)<!-- DISCOURSE:END -->
+- (March 8, 2021 at 12:28 PM) [Build a Search Bar for Your Hugo Blog With a JSON Index and Some Vanilla JS](https://discourse.gohugo.io/t/build-a-search-bar-for-your-hugo-blog-with-a-json-index-and-some-vanilla-js/31614/8)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
