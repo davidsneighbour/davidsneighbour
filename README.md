@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 11, 2021 at 11:40 AM) [Just get the base filename using page resources metadata](https://discourse.gohugo.io/t/just-get-the-base-filename-using-page-resources-metadata/31686/3)
-- (March 11, 2021 at 11:34 AM) [Storing image as asset or page resource?](https://discourse.gohugo.io/t/storing-image-as-asset-or-page-resource/31692/2)
-- (March 11, 2021 at 11:30 AM) [How to get a cleaner url with single taxonomy type ( boolean taxonomy ) /reviews/ instead of /categories/review/](https://discourse.gohugo.io/t/how-to-get-a-cleaner-url-with-single-taxonomy-type-boolean-taxonomy-reviews-instead-of-categories-review/31693/2)
-- (March 9, 2021 at 5:14 PM) [Can't execute binary on MacOS Big Sur (Gatekeeper is blocking)](https://discourse.gohugo.io/t/cant-execute-binary-on-macos-big-sur-gatekeeper-is-blocking/31657/3)<!-- DISCOURSE:END -->
+- (March 11, 2021 at 3:44 PM) [Storing image as asset or page resource?](https://discourse.gohugo.io/t/storing-image-as-asset-or-page-resource/31692/4)
+- (March 11, 2021 at 2:00 PM) [Mounting node_modules from Hugo Module](https://discourse.gohugo.io/t/mounting-node-modules-from-hugo-module/31629/8)
+- (March 11, 2021 at 12:58 PM) [How to get a cleaner url with single taxonomy type ( boolean taxonomy ) /reviews/ instead of /categories/review/](https://discourse.gohugo.io/t/how-to-get-a-cleaner-url-with-single-taxonomy-type-boolean-taxonomy-reviews-instead-of-categories-review/31693/4)
+- (March 11, 2021 at 11:40 AM) [Just get the base filename using page resources metadata](https://discourse.gohugo.io/t/just-get-the-base-filename-using-page-resources-metadata/31686/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
