@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 14, 2021 at 11:10 AM) [Content file adding plural?](https://discourse.gohugo.io/t/content-file-adding-plural/31738/3)
 - (March 13, 2021 at 12:05 PM) [Multilingual Page 404 Not Found?](https://discourse.gohugo.io/t/multilingual-page-404-not-found/31729/3)
 - (March 12, 2021 at 11:30 AM) [Can't read SASS files with Hugo](https://discourse.gohugo.io/t/cant-read-sass-files-with-hugo/31719/4)
-- (March 11, 2021 at 3:44 PM) [Storing image as asset or page resource?](https://discourse.gohugo.io/t/storing-image-as-asset-or-page-resource/31692/4)
-- (March 11, 2021 at 2:00 PM) [Mounting node_modules from Hugo Module](https://discourse.gohugo.io/t/mounting-node-modules-from-hugo-module/31629/8)<!-- DISCOURSE:END -->
+- (March 11, 2021 at 3:44 PM) [Storing image as asset or page resource?](https://discourse.gohugo.io/t/storing-image-as-asset-or-page-resource/31692/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
