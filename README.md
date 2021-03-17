@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 17, 2021 at 12:34 PM) [How to add fontawesome icon to title in front matter?](https://discourse.gohugo.io/t/how-to-add-fontawesome-icon-to-title-in-front-matter/31775/3)
 - (March 15, 2021 at 10:51 AM) [The Best Gitignore For Hugo?](https://discourse.gohugo.io/t/the-best-gitignore-for-hugo/20283/11)
 - (March 14, 2021 at 12:53 PM) [fileExist does not check in mounted directories](https://discourse.gohugo.io/t/fileexist-does-not-check-in-mounted-directories/31747/1)
-- (March 14, 2021 at 11:10 AM) [Content file adding plural?](https://discourse.gohugo.io/t/content-file-adding-plural/31738/3)
-- (March 13, 2021 at 12:05 PM) [Multilingual Page 404 Not Found?](https://discourse.gohugo.io/t/multilingual-page-404-not-found/31729/3)<!-- DISCOURSE:END -->
+- (March 14, 2021 at 11:10 AM) [Content file adding plural?](https://discourse.gohugo.io/t/content-file-adding-plural/31738/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
