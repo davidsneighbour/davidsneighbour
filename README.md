@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 17, 2021 at 12:34 PM) [How to add fontawesome icon to title in front matter?](https://discourse.gohugo.io/t/how-to-add-fontawesome-icon-to-title-in-front-matter/31775/3)
-- (March 15, 2021 at 10:51 AM) [The Best Gitignore For Hugo?](https://discourse.gohugo.io/t/the-best-gitignore-for-hugo/20283/11)
-- (March 14, 2021 at 12:53 PM) [fileExist does not check in mounted directories](https://discourse.gohugo.io/t/fileexist-does-not-check-in-mounted-directories/31747/1)
-- (March 14, 2021 at 11:10 AM) [Content file adding plural?](https://discourse.gohugo.io/t/content-file-adding-plural/31738/3)<!-- DISCOURSE:END -->
+- (March 17, 2021 at 5:10 PM) [Not reading css from cloudfront.net](https://discourse.gohugo.io/t/not-reading-css-from-cloudfront-net/31781/9)
+- (March 17, 2021 at 3:36 PM) [What's the recommended workflow for blogging with images?](https://discourse.gohugo.io/t/whats-the-recommended-workflow-for-blogging-with-images/31783/4)
+- (March 17, 2021 at 2:54 PM) [Lang not respected because url?](https://discourse.gohugo.io/t/lang-not-respected-because-url/31803/5)
+- (March 17, 2021 at 12:43 PM) [What's the recommended workflow for blogging with images?](https://discourse.gohugo.io/t/whats-the-recommended-workflow-for-blogging-with-images/31783/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
