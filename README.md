@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 17, 2021 at 5:10 PM) [Not reading css from cloudfront.net](https://discourse.gohugo.io/t/not-reading-css-from-cloudfront-net/31781/9)
-- (March 17, 2021 at 3:36 PM) [What's the recommended workflow for blogging with images?](https://discourse.gohugo.io/t/whats-the-recommended-workflow-for-blogging-with-images/31783/4)
-- (March 17, 2021 at 2:54 PM) [Lang not respected because url?](https://discourse.gohugo.io/t/lang-not-respected-because-url/31803/5)
-- (March 17, 2021 at 12:43 PM) [What's the recommended workflow for blogging with images?](https://discourse.gohugo.io/t/whats-the-recommended-workflow-for-blogging-with-images/31783/2)<!-- DISCOURSE:END -->
+- (March 18, 2021 at 3:21 PM) [A theme for minimal reproducible test casing](https://discourse.gohugo.io/t/a-theme-for-minimal-reproducible-test-casing/31790/6)
+- (March 18, 2021 at 2:38 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/9)
+- (March 18, 2021 at 2:29 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/6)
+- (March 18, 2021 at 1:44 PM) [Submitting Form To JSON/TOML/YAML](https://discourse.gohugo.io/t/submitting-form-to-json-toml-yaml/31808/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
