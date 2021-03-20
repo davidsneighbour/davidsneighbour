@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 19, 2021 at 4:05 PM) [Why use the embedded highlight shortcode instead of markdown code fences?](https://discourse.gohugo.io/t/why-use-the-embedded-highlight-shortcode-instead-of-markdown-code-fences/31840/2)
 - (March 18, 2021 at 3:21 PM) [A theme for minimal reproducible test casing](https://discourse.gohugo.io/t/a-theme-for-minimal-reproducible-test-casing/31790/6)
 - (March 18, 2021 at 2:38 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/9)
-- (March 18, 2021 at 2:29 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/6)
-- (March 18, 2021 at 1:44 PM) [Submitting Form To JSON/TOML/YAML](https://discourse.gohugo.io/t/submitting-form-to-json-toml-yaml/31808/6)<!-- DISCOURSE:END -->
+- (March 18, 2021 at 2:29 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
