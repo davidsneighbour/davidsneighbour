@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 20, 2021 at 3:32 PM) [Receiving a long list of warnings in console - need help to hide them/correct the issue causing behaviour](https://discourse.gohugo.io/t/receiving-a-long-list-of-warnings-in-console-need-help-to-hide-them-correct-the-issue-causing-behaviour/31863/2)
+- (March 20, 2021 at 12:44 PM) [Nested or sub modules](https://discourse.gohugo.io/t/nested-or-sub-modules/31861/2)
 - (March 20, 2021 at 12:34 PM) [Multilingual AMP pages with render-image markup not working](https://discourse.gohugo.io/t/multilingual-amp-pages-with-render-image-markup-not-working/31857/2)
-- (March 19, 2021 at 4:05 PM) [Why use the embedded highlight shortcode instead of markdown code fences?](https://discourse.gohugo.io/t/why-use-the-embedded-highlight-shortcode-instead-of-markdown-code-fences/31840/2)
-- (March 18, 2021 at 3:21 PM) [A theme for minimal reproducible test casing](https://discourse.gohugo.io/t/a-theme-for-minimal-reproducible-test-casing/31790/6)
-- (March 18, 2021 at 2:38 PM) [Prerendered static HTML comments for Hugo](https://discourse.gohugo.io/t/prerendered-static-html-comments-for-hugo/31818/9)<!-- DISCOURSE:END -->
+- (March 19, 2021 at 4:05 PM) [Why use the embedded highlight shortcode instead of markdown code fences?](https://discourse.gohugo.io/t/why-use-the-embedded-highlight-shortcode-instead-of-markdown-code-fences/31840/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
