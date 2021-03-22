@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 21, 2021 at 12:33 PM) [Querify a dict structure](https://discourse.gohugo.io/t/querify-a-dict-structure/31874/1)
-- (March 20, 2021 at 3:32 PM) [Receiving a long list of warnings in console - need help to hide them/correct the issue causing behaviour](https://discourse.gohugo.io/t/receiving-a-long-list-of-warnings-in-console-need-help-to-hide-them-correct-the-issue-causing-behaviour/31863/2)
-- (March 20, 2021 at 12:44 PM) [Nested or sub modules](https://discourse.gohugo.io/t/nested-or-sub-modules/31861/2)
-- (March 20, 2021 at 12:34 PM) [Multilingual AMP pages with render-image markup not working](https://discourse.gohugo.io/t/multilingual-amp-pages-with-render-image-markup-not-working/31857/2)<!-- DISCOURSE:END -->
+- (March 21, 2021 at 3:19 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/8)
+- (March 21, 2021 at 2:25 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/6)
+- (March 21, 2021 at 2:23 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/5)
+- (March 21, 2021 at 2:15 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
