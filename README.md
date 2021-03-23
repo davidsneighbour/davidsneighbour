@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 23, 2021 at 12:27 PM) [How do I avoid using NPM in my Hugo module for Bootstrap?](https://discourse.gohugo.io/t/how-do-i-avoid-using-npm-in-my-hugo-module-for-bootstrap/31912/2)
+- (March 23, 2021 at 12:19 PM) [URLs are generated correctly, but address bar has /#/ on the end - how to remove?](https://discourse.gohugo.io/t/urls-are-generated-correctly-but-address-bar-has-on-the-end-how-to-remove/31917/2)
 - (March 22, 2021 at 5:02 PM) [Nested or sub modules](https://discourse.gohugo.io/t/nested-or-sub-modules/31861/21)
-- (March 21, 2021 at 3:19 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/8)
-- (March 21, 2021 at 2:25 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/6)
-- (March 21, 2021 at 2:23 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/5)<!-- DISCOURSE:END -->
+- (March 21, 2021 at 3:19 PM) [Check if context is string or dict](https://discourse.gohugo.io/t/check-if-context-is-string-or-dict/31875/8)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
