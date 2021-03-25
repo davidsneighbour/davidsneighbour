@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 24, 2021 at 4:08 PM) [Semi-OT: Hugo Site theme not served on CloudFlare Pages](https://discourse.gohugo.io/t/semi-ot-hugo-site-theme-not-served-on-cloudflare-pages/31930/8)
-- (March 24, 2021 at 1:31 PM) [Get text from JSON-Field in different languages](https://discourse.gohugo.io/t/get-text-from-json-field-in-different-languages/31939/2)
-- (March 24, 2021 at 12:48 PM) [Clicking next into pages going from section into subsection](https://discourse.gohugo.io/t/clicking-next-into-pages-going-from-section-into-subsection/31933/2)
-- (March 24, 2021 at 12:30 PM) [URLs are generated correctly, but address bar has /#/ on the end - how to remove?](https://discourse.gohugo.io/t/urls-are-generated-correctly-but-address-bar-has-on-the-end-how-to-remove/31917/4)<!-- DISCOURSE:END -->
+- (March 25, 2021 at 7:19 AM) [Clicking next into pages going from section into subsection](https://discourse.gohugo.io/t/clicking-next-into-pages-going-from-section-into-subsection/31933/4)
+- (March 25, 2021 at 7:15 AM) [Whitespaces even in a minified build?](https://discourse.gohugo.io/t/whitespaces-even-in-a-minified-build/31946/9)
+- (March 25, 2021 at 7:14 AM) [Semi-OT: Hugo Site theme not served on CloudFlare Pages](https://discourse.gohugo.io/t/semi-ot-hugo-site-theme-not-served-on-cloudflare-pages/31930/18)
+- (March 25, 2021 at 7:08 AM) [Get text from JSON-Field in different languages](https://discourse.gohugo.io/t/get-text-from-json-field-in-different-languages/31939/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
