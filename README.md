@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 25, 2021 at 7:19 AM) [Clicking next into pages going from section into subsection](https://discourse.gohugo.io/t/clicking-next-into-pages-going-from-section-into-subsection/31933/4)
-- (March 25, 2021 at 7:15 AM) [Whitespaces even in a minified build?](https://discourse.gohugo.io/t/whitespaces-even-in-a-minified-build/31946/9)
-- (March 25, 2021 at 7:14 AM) [Semi-OT: Hugo Site theme not served on CloudFlare Pages](https://discourse.gohugo.io/t/semi-ot-hugo-site-theme-not-served-on-cloudflare-pages/31930/18)
-- (March 25, 2021 at 7:08 AM) [Get text from JSON-Field in different languages](https://discourse.gohugo.io/t/get-text-from-json-field-in-different-languages/31939/4)<!-- DISCOURSE:END -->
+- (March 25, 2021 at 2:51 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/7)
+- (March 25, 2021 at 1:07 PM) [Cannot run hugo in /dev/shm](https://discourse.gohugo.io/t/cannot-run-hugo-in-dev-shm/31954/4)
+- (March 25, 2021 at 12:25 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/5)
+- (March 25, 2021 at 12:21 PM) [Cannot run hugo in /dev/shm](https://discourse.gohugo.io/t/cannot-run-hugo-in-dev-shm/31954/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
