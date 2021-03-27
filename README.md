@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 25, 2021 at 2:51 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/7)
-- (March 25, 2021 at 1:07 PM) [Cannot run hugo in /dev/shm](https://discourse.gohugo.io/t/cannot-run-hugo-in-dev-shm/31954/4)
-- (March 25, 2021 at 12:25 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/5)
-- (March 25, 2021 at 12:21 PM) [Cannot run hugo in /dev/shm](https://discourse.gohugo.io/t/cannot-run-hugo-in-dev-shm/31954/2)<!-- DISCOURSE:END -->
+- (March 26, 2021 at 4:35 PM) [Are environment-specific modules possible? Or am I seeking the wrong solution?](https://discourse.gohugo.io/t/are-environment-specific-modules-possible-or-am-i-seeking-the-wrong-solution/31985/2)
+- (March 26, 2021 at 2:33 PM) [Current date inside an internationalised string](https://discourse.gohugo.io/t/current-date-inside-an-internationalised-string/31981/2)
+- (March 26, 2021 at 1:08 PM) [Undocumented required parameters for menu items?](https://discourse.gohugo.io/t/undocumented-required-parameters-for-menu-items/31979/2)
+- (March 25, 2021 at 2:51 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/7)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
