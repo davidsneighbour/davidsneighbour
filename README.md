@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 26, 2021 at 4:35 PM) [Are environment-specific modules possible? Or am I seeking the wrong solution?](https://discourse.gohugo.io/t/are-environment-specific-modules-possible-or-am-i-seeking-the-wrong-solution/31985/2)
-- (March 26, 2021 at 2:33 PM) [Current date inside an internationalised string](https://discourse.gohugo.io/t/current-date-inside-an-internationalised-string/31981/2)
-- (March 26, 2021 at 1:08 PM) [Undocumented required parameters for menu items?](https://discourse.gohugo.io/t/undocumented-required-parameters-for-menu-items/31979/2)
-- (March 25, 2021 at 2:51 PM) [Permalinks not working, converting jupyter notebooks to hugo blog posts](https://discourse.gohugo.io/t/permalinks-not-working-converting-jupyter-notebooks-to-hugo-blog-posts/31950/7)<!-- DISCOURSE:END -->
+- (March 28, 2021 at 10:05 AM) [H headers do not fall into the TOC Shortcode](https://discourse.gohugo.io/t/h-headers-do-not-fall-into-the-toc-shortcode/32008/8)
+- (March 28, 2021 at 9:59 AM) [How to put the theme's MIT license information on my website?](https://discourse.gohugo.io/t/how-to-put-the-themes-mit-license-information-on-my-website/32001/5)
+- (March 28, 2021 at 9:53 AM) [The REAL solution to Windows permissions errors](https://discourse.gohugo.io/t/the-real-solution-to-windows-permissions-errors/31987/2)
+- (March 28, 2021 at 9:46 AM) [How to reduce the length of the site stylesheet filename?](https://discourse.gohugo.io/t/how-to-reduce-the-length-of-the-site-stylesheet-filename/31988/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
