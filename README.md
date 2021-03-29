@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 29, 2021 at 8:04 AM) [A quick fix to Windows permissions errors and a better one](https://discourse.gohugo.io/t/a-quick-fix-to-windows-permissions-errors-and-a-better-one/31987/4)
 - (March 28, 2021 at 5:40 PM) [CloudFlare resets mime type for site css](https://discourse.gohugo.io/t/cloudflare-resets-mime-type-for-site-css/32024/2)
 - (March 28, 2021 at 5:37 PM) [OT: Netlify admin/config.yml not found [SOLVED]](https://discourse.gohugo.io/t/ot-netlify-admin-config-yml-not-found-solved/32023/4)
-- (March 28, 2021 at 5:33 PM) [OT: Netlify admin/config.yml not found [SOLVED]](https://discourse.gohugo.io/t/ot-netlify-admin-config-yml-not-found-solved/32023/2)
-- (March 28, 2021 at 3:56 PM) [How to put the theme's MIT license information on my website?](https://discourse.gohugo.io/t/how-to-put-the-themes-mit-license-information-on-my-website/32001/7)<!-- DISCOURSE:END -->
+- (March 28, 2021 at 5:33 PM) [OT: Netlify admin/config.yml not found [SOLVED]](https://discourse.gohugo.io/t/ot-netlify-admin-config-yml-not-found-solved/32023/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
