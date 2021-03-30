@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 29, 2021 at 8:04 AM) [A quick fix to Windows permissions errors and a better one](https://discourse.gohugo.io/t/a-quick-fix-to-windows-permissions-errors-and-a-better-one/31987/4)
-- (March 28, 2021 at 5:40 PM) [CloudFlare resets mime type for site css](https://discourse.gohugo.io/t/cloudflare-resets-mime-type-for-site-css/32024/2)
-- (March 28, 2021 at 5:37 PM) [OT: Netlify admin/config.yml not found [SOLVED]](https://discourse.gohugo.io/t/ot-netlify-admin-config-yml-not-found-solved/32023/4)
-- (March 28, 2021 at 5:33 PM) [OT: Netlify admin/config.yml not found [SOLVED]](https://discourse.gohugo.io/t/ot-netlify-admin-config-yml-not-found-solved/32023/2)<!-- DISCOURSE:END -->
+- (March 29, 2021 at 4:13 PM) [Add article title as alt text to resrouce image](https://discourse.gohugo.io/t/add-article-title-as-alt-text-to-resrouce-image/32046/2)
+- (March 29, 2021 at 3:41 PM) [Can I build a site in webflow and export the code to use in Hugo?](https://discourse.gohugo.io/t/can-i-build-a-site-in-webflow-and-export-the-code-to-use-in-hugo/32045/2)
+- (March 29, 2021 at 2:13 PM) [Is it possible to create taxonomy list pages only for a subset of taxonomy term?](https://discourse.gohugo.io/t/is-it-possible-to-create-taxonomy-list-pages-only-for-a-subset-of-taxonomy-term/32040/2)
+- (March 29, 2021 at 2:10 PM) [Is it possible to override the highlight shortcode template?](https://discourse.gohugo.io/t/is-it-possible-to-override-the-highlight-shortcode-template/32044/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
