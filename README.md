@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 30, 2021 at 12:06 PM) [What does Hugo know when doing template metrics?](https://discourse.gohugo.io/t/what-does-hugo-know-when-doing-template-metrics/32018/4)
-- (March 29, 2021 at 4:13 PM) [Add article title as alt text to resrouce image](https://discourse.gohugo.io/t/add-article-title-as-alt-text-to-resrouce-image/32046/2)
-- (March 29, 2021 at 3:41 PM) [Can I build a site in webflow and export the code to use in Hugo?](https://discourse.gohugo.io/t/can-i-build-a-site-in-webflow-and-export-the-code-to-use-in-hugo/32045/2)
-- (March 29, 2021 at 2:13 PM) [Is it possible to create taxonomy list pages only for a subset of taxonomy term?](https://discourse.gohugo.io/t/is-it-possible-to-create-taxonomy-list-pages-only-for-a-subset-of-taxonomy-term/32040/2)<!-- DISCOURSE:END -->
+- (March 30, 2021 at 5:20 PM) [Running Cypress browser tests as part of the Netlify PR workflow](https://discourse.gohugo.io/t/running-cypress-browser-tests-as-part-of-the-netlify-pr-workflow/32056/2)
+- (March 30, 2021 at 1:12 PM) [getCSV output nothing](https://discourse.gohugo.io/t/getcsv-output-nothing/32052/8)
+- (March 30, 2021 at 12:27 PM) [ESBuild: Looks like we can finally get solid Hugo Modules support](https://discourse.gohugo.io/t/esbuild-looks-like-we-can-finally-get-solid-hugo-modules-support/28757/16)
+- (March 30, 2021 at 12:23 PM) [ESBuild: Looks like we can finally get solid Hugo Modules support](https://discourse.gohugo.io/t/esbuild-looks-like-we-can-finally-get-solid-hugo-modules-support/28757/14)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
