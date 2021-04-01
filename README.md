@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 30, 2021 at 5:20 PM) [Running Cypress browser tests as part of the Netlify PR workflow](https://discourse.gohugo.io/t/running-cypress-browser-tests-as-part-of-the-netlify-pr-workflow/32056/2)
-- (March 30, 2021 at 1:12 PM) [getCSV output nothing](https://discourse.gohugo.io/t/getcsv-output-nothing/32052/8)
-- (March 30, 2021 at 12:27 PM) [ESBuild: Looks like we can finally get solid Hugo Modules support](https://discourse.gohugo.io/t/esbuild-looks-like-we-can-finally-get-solid-hugo-modules-support/28757/16)
-- (March 30, 2021 at 12:23 PM) [ESBuild: Looks like we can finally get solid Hugo Modules support](https://discourse.gohugo.io/t/esbuild-looks-like-we-can-finally-get-solid-hugo-modules-support/28757/14)<!-- DISCOURSE:END -->
+- (March 31, 2021 at 6:35 PM) [How to reduce the length of the site stylesheet filename?](https://discourse.gohugo.io/t/how-to-reduce-the-length-of-the-site-stylesheet-filename/31988/22)
+- (March 31, 2021 at 4:22 PM) [Paginate pages inside the CurrentSection](https://discourse.gohugo.io/t/paginate-pages-inside-the-currentsection/32082/3)
+- (March 31, 2021 at 1:09 PM) [Fitting older Icarus Template with Updated Syntax Highlighting](https://discourse.gohugo.io/t/fitting-older-icarus-template-with-updated-syntax-highlighting/32078/2)
+- (March 31, 2021 at 1:04 PM) [Running Cypress browser tests as part of the Netlify PR workflow](https://discourse.gohugo.io/t/running-cypress-browser-tests-as-part-of-the-netlify-pr-workflow/32056/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
