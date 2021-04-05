@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 4, 2021 at 2:58 PM) [Special characters in Aliases?](https://discourse.gohugo.io/t/special-characters-in-aliases/32153/4)
 - (April 4, 2021 at 10:39 AM) [Execute JavaScript in tempate?](https://discourse.gohugo.io/t/execute-javascript-in-tempate/32150/6)
 - (April 4, 2021 at 10:08 AM) [Execute JavaScript in tempate?](https://discourse.gohugo.io/t/execute-javascript-in-tempate/32150/4)
-- (April 4, 2021 at 6:45 AM) [`Users` always returned as the Section in directory-based archetypes](https://discourse.gohugo.io/t/users-always-returned-as-the-section-in-directory-based-archetypes/32155/6)
-- (April 4, 2021 at 5:23 AM) [Can not generate a folder from archetypes when using Hugo Modules](https://discourse.gohugo.io/t/can-not-generate-a-folder-from-archetypes-when-using-hugo-modules/32156/10)<!-- DISCOURSE:END -->
+- (April 4, 2021 at 6:45 AM) [`Users` always returned as the Section in directory-based archetypes](https://discourse.gohugo.io/t/users-always-returned-as-the-section-in-directory-based-archetypes/32155/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
