@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 6, 2021 at 7:33 AM) [List of all functions, methods and variables in Hugo?](https://discourse.gohugo.io/t/list-of-all-functions-methods-and-variables-in-hugo/32189/2)
-- (April 6, 2021 at 7:26 AM) [Is it possible to add custom http header in hugo using github-pages?](https://discourse.gohugo.io/t/is-it-possible-to-add-custom-http-header-in-hugo-using-github-pages/32182/3)
-- (April 4, 2021 at 2:58 PM) [Special characters in Aliases?](https://discourse.gohugo.io/t/special-characters-in-aliases/32153/4)
-- (April 4, 2021 at 10:39 AM) [Execute JavaScript in tempate?](https://discourse.gohugo.io/t/execute-javascript-in-tempate/32150/6)<!-- DISCOURSE:END -->
+- (April 6, 2021 at 3:42 PM) [Postprocessing sample - could it be optimized?](https://discourse.gohugo.io/t/postprocessing-sample-could-it-be-optimized/32195/5)
+- (April 6, 2021 at 3:02 PM) [Access Content markdown file based on filename obtained from json Data file](https://discourse.gohugo.io/t/access-content-markdown-file-based-on-filename-obtained-from-json-data-file/32196/4)
+- (April 6, 2021 at 2:42 PM) [Postprocessing sample - could it be optimized?](https://discourse.gohugo.io/t/postprocessing-sample-could-it-be-optimized/32195/3)
+- (April 6, 2021 at 2:30 PM) [Access Content markdown file based on filename obtained from json Data file](https://discourse.gohugo.io/t/access-content-markdown-file-based-on-filename-obtained-from-json-data-file/32196/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
