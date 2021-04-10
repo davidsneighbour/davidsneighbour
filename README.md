@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 8, 2021 at 5:24 PM) [Failed to get translated string for language: for language codes that don't exist](https://discourse.gohugo.io/t/failed-to-get-translated-string-for-language-for-language-codes-that-dont-exist/32245/2)
-- (April 8, 2021 at 12:07 PM) [It takes very long to sync CSS changes](https://discourse.gohugo.io/t/it-takes-very-long-to-sync-css-changes/32226/3)
-- (April 8, 2021 at 11:59 AM) [Is there a way to disable or override automatic front matter fieldnames](https://discourse.gohugo.io/t/is-there-a-way-to-disable-or-override-automatic-front-matter-fieldnames/32225/2)
-- (April 7, 2021 at 2:09 PM) [Postprocessing sample - could it be optimized?](https://discourse.gohugo.io/t/postprocessing-sample-could-it-be-optimized/32195/7)<!-- DISCOURSE:END -->
+- (April 9, 2021 at 2:44 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/13)
+- (April 9, 2021 at 2:18 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/11)
+- (April 9, 2021 at 2:14 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/10)
+- (April 9, 2021 at 2:13 PM) [Range over array in order specified in front matter array](https://discourse.gohugo.io/t/range-over-array-in-order-specified-in-front-matter-array/32255/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
