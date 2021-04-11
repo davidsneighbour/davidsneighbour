@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 9, 2021 at 2:44 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/13)
-- (April 9, 2021 at 2:18 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/11)
-- (April 9, 2021 at 2:14 PM) [Help with RSS and Images](https://discourse.gohugo.io/t/help-with-rss-and-images/32267/10)
-- (April 9, 2021 at 2:13 PM) [Range over array in order specified in front matter array](https://discourse.gohugo.io/t/range-over-array-in-order-specified-in-front-matter-array/32255/5)<!-- DISCOURSE:END -->
+- (April 11, 2021 at 11:20 AM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/5)
+- (April 11, 2021 at 11:17 AM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/4)
+- (April 11, 2021 at 11:08 AM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/6)
+- (April 11, 2021 at 7:59 AM) [Parsing bibtex](https://discourse.gohugo.io/t/parsing-bibtex/32283/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
