@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 11, 2021 at 11:20 AM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/5)
-- (April 11, 2021 at 11:17 AM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/4)
-- (April 11, 2021 at 11:08 AM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/6)
-- (April 11, 2021 at 7:59 AM) [Parsing bibtex](https://discourse.gohugo.io/t/parsing-bibtex/32283/2)<!-- DISCOURSE:END -->
+- (April 11, 2021 at 2:32 PM) [Hugo convert for single md files](https://discourse.gohugo.io/t/hugo-convert-for-single-md-files/32313/2)
+- (April 11, 2021 at 2:10 PM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/12)
+- (April 11, 2021 at 1:00 PM) [RSS Author](https://discourse.gohugo.io/t/rss-author/32312/2)
+- (April 11, 2021 at 12:58 PM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/11)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
