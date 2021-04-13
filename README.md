@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 11, 2021 at 2:32 PM) [Hugo convert for single md files](https://discourse.gohugo.io/t/hugo-convert-for-single-md-files/32313/2)
-- (April 11, 2021 at 2:10 PM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/12)
-- (April 11, 2021 at 1:00 PM) [RSS Author](https://discourse.gohugo.io/t/rss-author/32312/2)
-- (April 11, 2021 at 12:58 PM) [Access shortcode parameter in JavaScript and refer to current "a"-link inside shortcode file](https://discourse.gohugo.io/t/access-shortcode-parameter-in-javascript-and-refer-to-current-a-link-inside-shortcode-file/32301/11)<!-- DISCOURSE:END -->
+- (April 12, 2021 at 5:22 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/4)
+- (April 12, 2021 at 4:56 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/3)
+- (April 12, 2021 at 4:00 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/1)
+- (April 12, 2021 at 2:49 PM) [OpenGraph: question and issue (?)](https://discourse.gohugo.io/t/opengraph-question-and-issue/27396/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
