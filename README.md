@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 13, 2021 at 11:56 AM) [How To Remove Word Wrap In Code Chunk](https://discourse.gohugo.io/t/how-to-remove-word-wrap-in-code-chunk/32336/4)
-- (April 12, 2021 at 5:22 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/4)
-- (April 12, 2021 at 4:56 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/3)
-- (April 12, 2021 at 4:00 PM) [Print ordinal date suffixes (st/nd/rd/th)](https://discourse.gohugo.io/t/print-ordinal-date-suffixes-st-nd-rd-th/32327/1)<!-- DISCOURSE:END -->
+- (April 13, 2021 at 3:03 PM) [Where .Pages ".Params.foo" OR where .Pages "Params.foo"](https://discourse.gohugo.io/t/where-pages-params-foo-or-where-pages-params-foo/32348/2)
+- (April 13, 2021 at 2:28 PM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/23)
+- (April 13, 2021 at 2:00 PM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/19)
+- (April 13, 2021 at 11:56 AM) [How To Remove Word Wrap In Code Chunk](https://discourse.gohugo.io/t/how-to-remove-word-wrap-in-code-chunk/32336/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
