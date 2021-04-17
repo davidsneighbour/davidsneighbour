@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 16, 2021 at 3:27 PM) [How Do I Return A Selected Option As Text With Markdownify?](https://discourse.gohugo.io/t/how-do-i-return-a-selected-option-as-text-with-markdownify/32395/4)
+- (April 16, 2021 at 1:22 PM) [How Do I Return A Selected Option As Text With Markdownify?](https://discourse.gohugo.io/t/how-do-i-return-a-selected-option-as-text-with-markdownify/32395/2)
 - (April 16, 2021 at 11:20 AM) [Is it possible to add plugins to ESBuild for JS in Hugo?](https://discourse.gohugo.io/t/is-it-possible-to-add-plugins-to-esbuild-for-js-in-hugo/32391/3)
-- (April 16, 2021 at 7:48 AM) [Is it possible to add plugins to ESBuild for JS in Hugo?](https://discourse.gohugo.io/t/is-it-possible-to-add-plugins-to-esbuild-for-js-in-hugo/32391/2)
-- (April 14, 2021 at 1:42 PM) [Hugo Multilingual Multihost and Netlify](https://discourse.gohugo.io/t/hugo-multilingual-multihost-and-netlify/32306/27)
-- (April 14, 2021 at 12:17 PM) [How to make Pagination in a single html with varaible in a single toml file](https://discourse.gohugo.io/t/how-to-make-pagination-in-a-single-html-with-varaible-in-a-single-toml-file/32361/3)<!-- DISCOURSE:END -->
+- (April 16, 2021 at 7:48 AM) [Is it possible to add plugins to ESBuild for JS in Hugo?](https://discourse.gohugo.io/t/is-it-possible-to-add-plugins-to-esbuild-for-js-in-hugo/32391/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
