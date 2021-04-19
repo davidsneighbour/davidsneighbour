@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 19, 2021 at 11:18 AM) [How to get a specific translation?](https://discourse.gohugo.io/t/how-to-get-a-specific-translation/32433/2)
+- (April 19, 2021 at 11:13 AM) [relLangURL prepends unnecessary slash on build but not on server](https://discourse.gohugo.io/t/rellangurl-prepends-unnecessary-slash-on-build-but-not-on-server/32436/2)
 - (April 18, 2021 at 3:12 PM) [Properly formatting EXIF data tag "Exposure time"](https://discourse.gohugo.io/t/properly-formatting-exif-data-tag-exposure-time/32415/7)
-- (April 18, 2021 at 1:49 PM) [Properly formatting EXIF data tag "Exposure time"](https://discourse.gohugo.io/t/properly-formatting-exif-data-tag-exposure-time/32415/5)
-- (April 17, 2021 at 2:49 PM) [Front matter for nested menu does not work](https://discourse.gohugo.io/t/front-matter-for-nested-menu-does-not-work/32413/4)
-- (April 17, 2021 at 2:37 PM) [Front matter for nested menu does not work](https://discourse.gohugo.io/t/front-matter-for-nested-menu-does-not-work/32413/2)<!-- DISCOURSE:END -->
+- (April 18, 2021 at 1:49 PM) [Properly formatting EXIF data tag "Exposure time"](https://discourse.gohugo.io/t/properly-formatting-exif-data-tag-exposure-time/32415/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
