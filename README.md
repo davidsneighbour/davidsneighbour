@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 19, 2021 at 11:18 AM) [How to get a specific translation?](https://discourse.gohugo.io/t/how-to-get-a-specific-translation/32433/2)
-- (April 19, 2021 at 11:13 AM) [relLangURL prepends unnecessary slash on build but not on server](https://discourse.gohugo.io/t/rellangurl-prepends-unnecessary-slash-on-build-but-not-on-server/32436/2)
-- (April 18, 2021 at 3:12 PM) [Properly formatting EXIF data tag "Exposure time"](https://discourse.gohugo.io/t/properly-formatting-exif-data-tag-exposure-time/32415/7)
-- (April 18, 2021 at 1:49 PM) [Properly formatting EXIF data tag "Exposure time"](https://discourse.gohugo.io/t/properly-formatting-exif-data-tag-exposure-time/32415/5)<!-- DISCOURSE:END -->
+- (April 19, 2021 at 12:58 PM) [Get variable by string parameter](https://discourse.gohugo.io/t/get-variable-by-string-parameter/32412/3)
+- (April 19, 2021 at 12:33 PM) [How to set not to generate tags and categories](https://discourse.gohugo.io/t/how-to-set-not-to-generate-tags-and-categories/32438/2)
+- (April 19, 2021 at 12:24 PM) [How to get a specific translation?](https://discourse.gohugo.io/t/how-to-get-a-specific-translation/32433/4)
+- (April 19, 2021 at 11:18 AM) [How to get a specific translation?](https://discourse.gohugo.io/t/how-to-get-a-specific-translation/32433/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
