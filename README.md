@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 25, 2021 at 5:36 AM) [Is this the right static dir?](https://discourse.gohugo.io/t/is-this-the-right-static-dir/32517/3)
 - (April 24, 2021 at 10:26 AM) [Is it possible to get template filename from template?](https://discourse.gohugo.io/t/is-it-possible-to-get-template-filename-from-template/32504/2)
 - (April 19, 2021 at 12:58 PM) [Get variable by string parameter](https://discourse.gohugo.io/t/get-variable-by-string-parameter/32412/3)
-- (April 19, 2021 at 12:33 PM) [How to set not to generate tags and categories](https://discourse.gohugo.io/t/how-to-set-not-to-generate-tags-and-categories/32438/2)
-- (April 19, 2021 at 12:24 PM) [How to get a specific translation?](https://discourse.gohugo.io/t/how-to-get-a-specific-translation/32433/4)<!-- DISCOURSE:END -->
+- (April 19, 2021 at 12:33 PM) [How to set not to generate tags and categories](https://discourse.gohugo.io/t/how-to-set-not-to-generate-tags-and-categories/32438/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
