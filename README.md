@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 27, 2021 at 2:48 PM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/5)
+- (April 27, 2021 at 1:29 PM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/3)
 - (April 27, 2021 at 1:14 AM) [Dual hosting hugo module git repositories](https://discourse.gohugo.io/t/dual-hosting-hugo-module-git-repositories/32554/2)
-- (April 27, 2021 at 1:08 AM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/2)
-- (April 25, 2021 at 5:36 AM) [Is this the right static dir?](https://discourse.gohugo.io/t/is-this-the-right-static-dir/32517/3)
-- (April 24, 2021 at 10:26 AM) [Is it possible to get template filename from template?](https://discourse.gohugo.io/t/is-it-possible-to-get-template-filename-from-template/32504/2)<!-- DISCOURSE:END -->
+- (April 27, 2021 at 1:08 AM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
