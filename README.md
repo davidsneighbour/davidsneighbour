@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 27, 2021 at 2:48 PM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/5)
-- (April 27, 2021 at 1:29 PM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/3)
-- (April 27, 2021 at 1:14 AM) [Dual hosting hugo module git repositories](https://discourse.gohugo.io/t/dual-hosting-hugo-module-git-repositories/32554/2)
-- (April 27, 2021 at 1:08 AM) [PostCSS and classes in contentDir](https://discourse.gohugo.io/t/postcss-and-classes-in-contentdir/32558/2)<!-- DISCOURSE:END -->
+- (April 28, 2021 at 4:17 PM) [Minify lowercases CSS font-family declaration](https://discourse.gohugo.io/t/minify-lowercases-css-font-family-declaration/32581/12)
+- (April 28, 2021 at 2:27 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/7)
+- (April 28, 2021 at 2:21 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/6)
+- (April 28, 2021 at 1:25 PM) [Semi-OT: Header to Block FLoc](https://discourse.gohugo.io/t/semi-ot-header-to-block-floc/32589/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
