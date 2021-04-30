@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 28, 2021 at 4:17 PM) [Minify lowercases CSS font-family declaration](https://discourse.gohugo.io/t/minify-lowercases-css-font-family-declaration/32581/12)
-- (April 28, 2021 at 2:27 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/7)
-- (April 28, 2021 at 2:21 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/6)
-- (April 28, 2021 at 1:25 PM) [Semi-OT: Header to Block FLoc](https://discourse.gohugo.io/t/semi-ot-header-to-block-floc/32589/2)<!-- DISCOURSE:END -->
+- (April 29, 2021 at 2:23 PM) [resources.Get not works in shortcodes with .Get 0](https://discourse.gohugo.io/t/resources-get-not-works-in-shortcodes-with-get-0/32618/2)
+- (April 29, 2021 at 2:22 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/9)
+- (April 29, 2021 at 12:53 PM) [Opengraph template help](https://discourse.gohugo.io/t/opengraph-template-help/32613/2)
+- (April 29, 2021 at 12:47 PM) [Opengraph template](https://discourse.gohugo.io/t/opengraph-template/32616/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
