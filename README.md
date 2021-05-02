@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 30, 2021 at 2:48 PM) [Opengraph template](https://discourse.gohugo.io/t/opengraph-template/32616/5)
-- (April 30, 2021 at 2:46 PM) [Opengraph template](https://discourse.gohugo.io/t/opengraph-template/32616/4)
-- (April 29, 2021 at 2:23 PM) [resources.Get not works in shortcodes with .Get 0](https://discourse.gohugo.io/t/resources-get-not-works-in-shortcodes-with-get-0/32618/2)
-- (April 29, 2021 at 2:22 PM) [Hugo fails, but Netlify deploys](https://discourse.gohugo.io/t/hugo-fails-but-netlify-deploys/32588/9)<!-- DISCOURSE:END -->
+- (May 2, 2021 at 10:24 AM) [Is it possible to generate Mermaid images in the Hugo build process](https://discourse.gohugo.io/t/is-it-possible-to-generate-mermaid-images-in-the-hugo-build-process/32662/3)
+- (May 2, 2021 at 10:23 AM) [Is it possible to generate Mermaid images in the Hugo build process](https://discourse.gohugo.io/t/is-it-possible-to-generate-mermaid-images-in-the-hugo-build-process/32662/2)
+- (May 2, 2021 at 10:14 AM) [Hugo Quickstart simply doesn't work, renders blank page](https://discourse.gohugo.io/t/hugo-quickstart-simply-doesnt-work-renders-blank-page/32659/3)
+- (April 30, 2021 at 2:48 PM) [Opengraph template](https://discourse.gohugo.io/t/opengraph-template/32616/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
