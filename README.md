@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (May 3, 2021 at 4:25 AM) [Hugo server - serve multiple hugo projects in different web paths of same server](https://discourse.gohugo.io/t/hugo-server-serve-multiple-hugo-projects-in-different-web-paths-of-same-server/32678/2)
-- (May 3, 2021 at 2:30 AM) [Get current .Position outside of a shortcode](https://discourse.gohugo.io/t/get-current-position-outside-of-a-shortcode/32677/1)
-- (May 2, 2021 at 10:24 AM) [Is it possible to generate Mermaid images in the Hugo build process](https://discourse.gohugo.io/t/is-it-possible-to-generate-mermaid-images-in-the-hugo-build-process/32662/3)
-- (May 2, 2021 at 10:23 AM) [Is it possible to generate Mermaid images in the Hugo build process](https://discourse.gohugo.io/t/is-it-possible-to-generate-mermaid-images-in-the-hugo-build-process/32662/2)<!-- DISCOURSE:END -->
+- (May 3, 2021 at 2:41 PM) [Automated Side Menu](https://discourse.gohugo.io/t/automated-side-menu/32686/2)
+- (May 3, 2021 at 2:02 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/4)
+- (May 3, 2021 at 1:48 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/2)
+- (May 3, 2021 at 1:42 PM) [vendorInfo usage](https://discourse.gohugo.io/t/vendorinfo-usage/32683/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
