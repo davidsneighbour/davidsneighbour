@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 4, 2021 at 8:33 AM) [Bad character U+002D '-'](https://discourse.gohugo.io/t/bad-character-u-002d/32694/4)
 - (May 3, 2021 at 2:41 PM) [Automated Side Menu](https://discourse.gohugo.io/t/automated-side-menu/32686/2)
 - (May 3, 2021 at 2:02 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/4)
-- (May 3, 2021 at 1:48 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/2)
-- (May 3, 2021 at 1:42 PM) [vendorInfo usage](https://discourse.gohugo.io/t/vendorinfo-usage/32683/2)<!-- DISCOURSE:END -->
+- (May 3, 2021 at 1:48 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
