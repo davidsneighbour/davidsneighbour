@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (May 5, 2021 at 11:54 AM) [Can we add homepage resources in a folder?](https://discourse.gohugo.io/t/can-we-add-homepage-resources-in-a-folder/32711/2)
-- (May 4, 2021 at 8:33 AM) [Bad character U+002D '-'](https://discourse.gohugo.io/t/bad-character-u-002d/32694/4)
-- (May 3, 2021 at 2:41 PM) [Automated Side Menu](https://discourse.gohugo.io/t/automated-side-menu/32686/2)
-- (May 3, 2021 at 2:02 PM) [Exif failed to find exif intro marker in {{with .Exif}}](https://discourse.gohugo.io/t/exif-failed-to-find-exif-intro-marker-in-with-exif/32684/4)<!-- DISCOURSE:END -->
+- (May 6, 2021 at 12:15 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/6)
+- (May 6, 2021 at 12:11 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/4)
+- (May 6, 2021 at 12:04 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/2)
+- (May 6, 2021 at 11:33 AM) [Code blocks without title](https://discourse.gohugo.io/t/code-blocks-without-title/32727/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
