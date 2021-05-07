@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (May 6, 2021 at 12:15 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/6)
-- (May 6, 2021 at 12:11 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/4)
-- (May 6, 2021 at 12:04 PM) [PostCSS Error On Build (Tailwind CSS)](https://discourse.gohugo.io/t/postcss-error-on-build-tailwind-css/32728/2)
-- (May 6, 2021 at 11:33 AM) [Code blocks without title](https://discourse.gohugo.io/t/code-blocks-without-title/32727/4)<!-- DISCOURSE:END -->
+- (May 6, 2021 at 3:52 PM) [--cleanDestinationDir and hidden files](https://discourse.gohugo.io/t/cleandestinationdir-and-hidden-files/32716/6)
+- (May 6, 2021 at 2:00 PM) [Non-breaking dash in menu?](https://discourse.gohugo.io/t/non-breaking-dash-in-menu/32733/4)
+- (May 6, 2021 at 1:52 PM) [Shortcodes <!-- raw HTML omitted -->](https://discourse.gohugo.io/t/shortcodes-raw-html-omitted/32735/2)
+- (May 6, 2021 at 1:51 PM) [Non-breaking dash in menu?](https://discourse.gohugo.io/t/non-breaking-dash-in-menu/32733/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
