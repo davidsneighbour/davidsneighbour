@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 9, 2021 at 11:47 AM) [Hugo failing on asciidoctor INFO](https://discourse.gohugo.io/t/hugo-failing-on-asciidoctor-info/32783/2)
+- (May 9, 2021 at 3:20 AM) [Upgrading from bootstrap4 to bootstrap5 breaks ToCSS when using hugo serve](https://discourse.gohugo.io/t/upgrading-from-bootstrap4-to-bootstrap5-breaks-tocss-when-using-hugo-serve/32779/2)
 - (May 8, 2021 at 8:28 AM) [GitInfo fails if there is an umlaut in the folder path](https://discourse.gohugo.io/t/gitinfo-fails-if-there-is-an-umlaut-in-the-folder-path/32746/6)
-- (May 7, 2021 at 1:06 PM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/7)
-- (May 7, 2021 at 11:49 AM) [Caveat: using PostCSS with dynamically generated content (JavaScript)](https://discourse.gohugo.io/t/caveat-using-postcss-with-dynamically-generated-content-javascript/32748/3)
-- (May 7, 2021 at 8:28 AM) [GitInfo fails if there is an umlaut in the folder path](https://discourse.gohugo.io/t/gitinfo-fails-if-there-is-an-umlaut-in-the-folder-path/32746/4)<!-- DISCOURSE:END -->
+- (May 7, 2021 at 1:06 PM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/7)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
