@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 13, 2021 at 12:32 PM) [Load a random file](https://discourse.gohugo.io/t/load-a-random-file/32871/2)
 - (May 12, 2021 at 3:38 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/10)
 - (May 12, 2021 at 3:24 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/8)
-- (May 12, 2021 at 3:14 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/6)
-- (May 12, 2021 at 3:02 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/4)<!-- DISCOURSE:END -->
+- (May 12, 2021 at 3:14 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
