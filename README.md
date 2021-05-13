@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (May 12, 2021 at 10:28 AM) [Build timeout Jpeg vs Webp processing](https://discourse.gohugo.io/t/build-timeout-jpeg-vs-webp-processing/32821/9)
-- (May 12, 2021 at 10:17 AM) [Pictures are not shown on the main page](https://discourse.gohugo.io/t/pictures-are-not-shown-on-the-main-page/32822/3)
-- (May 12, 2021 at 10:10 AM) [Themes color change in theme Hello friend ng](https://discourse.gohugo.io/t/themes-color-change-in-theme-hello-friend-ng/32823/4)
-- (May 12, 2021 at 10:04 AM) [Build timeout Jpeg vs Webp processing](https://discourse.gohugo.io/t/build-timeout-jpeg-vs-webp-processing/32821/7)<!-- DISCOURSE:END -->
+- (May 12, 2021 at 3:38 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/10)
+- (May 12, 2021 at 3:24 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/8)
+- (May 12, 2021 at 3:14 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/6)
+- (May 12, 2021 at 3:02 PM) [Build error with netlify](https://discourse.gohugo.io/t/build-error-with-netlify/32832/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
