@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 16, 2021 at 3:09 PM) [How to change code block background color](https://discourse.gohugo.io/t/how-to-change-code-block-background-color/32915/2)
 - (May 15, 2021 at 9:33 AM) [Is it possible to change the light exposition of a photo by using Hugo image filters?](https://discourse.gohugo.io/t/is-it-possible-to-change-the-light-exposition-of-a-photo-by-using-hugo-image-filters/32889/7)
 - (May 13, 2021 at 3:34 PM) [Custom Html inside the INDEX](https://discourse.gohugo.io/t/custom-html-inside-the-index/32874/2)
-- (May 13, 2021 at 2:20 PM) [Access page data in a pager?](https://discourse.gohugo.io/t/access-page-data-in-a-pager/32842/8)
-- (May 13, 2021 at 1:46 PM) [Access page data in a pager?](https://discourse.gohugo.io/t/access-page-data-in-a-pager/32842/6)<!-- DISCOURSE:END -->
+- (May 13, 2021 at 2:20 PM) [Access page data in a pager?](https://discourse.gohugo.io/t/access-page-data-in-a-pager/32842/8)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
