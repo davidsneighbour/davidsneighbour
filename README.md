@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 21, 2021 at 11:03 AM) [Poll 2021. Which code editors do you use when writing Hugo's files (markdown and templates)?](https://discourse.gohugo.io/t/poll-2021-which-code-editors-do-you-use-when-writing-hugos-files-markdown-and-templates/32827/20)
 - (May 21, 2021 at 1:16 AM) [Partial inside of shortcode not renering as expected](https://discourse.gohugo.io/t/partial-inside-of-shortcode-not-renering-as-expected/32987/5)
 - (May 18, 2021 at 1:46 PM) [Poll 2021. Which code editors do you use when writing Hugo's files (markdown and templates)?](https://discourse.gohugo.io/t/poll-2021-which-code-editors-do-you-use-when-writing-hugos-files-markdown-and-templates/32827/11)
-- (May 18, 2021 at 11:08 AM) [OT: Making Bootstrap Card Issues](https://discourse.gohugo.io/t/ot-making-bootstrap-card-issues/32950/3)
-- (May 16, 2021 at 3:09 PM) [How to change code block background color](https://discourse.gohugo.io/t/how-to-change-code-block-background-color/32915/2)<!-- DISCOURSE:END -->
+- (May 18, 2021 at 11:08 AM) [OT: Making Bootstrap Card Issues](https://discourse.gohugo.io/t/ot-making-bootstrap-card-issues/32950/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
