@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 27, 2021 at 1:45 AM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/19)
 - (May 23, 2021 at 12:10 PM) [Functions dealing with french accent](https://discourse.gohugo.io/t/functions-dealing-with-french-accent/33035/2)
 - (May 23, 2021 at 12:10 PM) [Random 5 posts on every visit on webpage - JavaScript](https://discourse.gohugo.io/t/random-5-posts-on-every-visit-on-webpage-javascript/33037/4)
-- (May 23, 2021 at 12:00 PM) [Random 5 posts on every visit on webpage - JavaScript](https://discourse.gohugo.io/t/random-5-posts-on-every-visit-on-webpage-javascript/33037/2)
-- (May 21, 2021 at 11:03 AM) [Poll 2021. Which code editors do you use when writing Hugo's files (markdown and templates)?](https://discourse.gohugo.io/t/poll-2021-which-code-editors-do-you-use-when-writing-hugos-files-markdown-and-templates/32827/20)<!-- DISCOURSE:END -->
+- (May 23, 2021 at 12:00 PM) [Random 5 posts on every visit on webpage - JavaScript](https://discourse.gohugo.io/t/random-5-posts-on-every-visit-on-webpage-javascript/33037/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
