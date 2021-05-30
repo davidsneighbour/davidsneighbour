@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 30, 2021 at 2:45 AM) [Website not updating simultaneously](https://discourse.gohugo.io/t/website-not-updating-simultaneously/33151/2)
+- (May 30, 2021 at 2:42 AM) [Multilingual and i18n](https://discourse.gohugo.io/t/multilingual-and-i18n/33147/3)
 - (May 27, 2021 at 5:35 AM) [Update module to > v2](https://discourse.gohugo.io/t/update-module-to-v2/25843/2)
-- (May 27, 2021 at 1:45 AM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/19)
-- (May 23, 2021 at 12:10 PM) [Functions dealing with french accent](https://discourse.gohugo.io/t/functions-dealing-with-french-accent/33035/2)
-- (May 23, 2021 at 12:10 PM) [Random 5 posts on every visit on webpage - JavaScript](https://discourse.gohugo.io/t/random-5-posts-on-every-visit-on-webpage-javascript/33037/4)<!-- DISCOURSE:END -->
+- (May 27, 2021 at 1:45 AM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/19)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
