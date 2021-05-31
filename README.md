@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (May 31, 2021 at 10:36 AM) [Can't load Page Frontmatter When Using Range](https://discourse.gohugo.io/t/cant-load-page-frontmatter-when-using-range/33166/2)
+- (May 31, 2021 at 10:32 AM) [sectionPagesMenu default weight](https://discourse.gohugo.io/t/sectionpagesmenu-default-weight/33164/2)
 - (May 30, 2021 at 2:45 AM) [Website not updating simultaneously](https://discourse.gohugo.io/t/website-not-updating-simultaneously/33151/2)
-- (May 30, 2021 at 2:42 AM) [Multilingual and i18n](https://discourse.gohugo.io/t/multilingual-and-i18n/33147/3)
-- (May 27, 2021 at 5:35 AM) [Update module to > v2](https://discourse.gohugo.io/t/update-module-to-v2/25843/2)
-- (May 27, 2021 at 1:45 AM) [Slow build](https://discourse.gohugo.io/t/slow-build/32745/19)<!-- DISCOURSE:END -->
+- (May 30, 2021 at 2:42 AM) [Multilingual and i18n](https://discourse.gohugo.io/t/multilingual-and-i18n/33147/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
