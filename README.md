@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 2, 2021 at 11:40 AM) [Hugo crashes when there's a data file with no data in it](https://discourse.gohugo.io/t/hugo-crashes-when-theres-a-data-file-with-no-data-in-it/33189/6)
-- (May 31, 2021 at 10:36 AM) [Can't load Page Frontmatter When Using Range](https://discourse.gohugo.io/t/cant-load-page-frontmatter-when-using-range/33166/2)
-- (May 31, 2021 at 10:32 AM) [sectionPagesMenu default weight](https://discourse.gohugo.io/t/sectionpagesmenu-default-weight/33164/2)
-- (May 30, 2021 at 2:45 AM) [Website not updating simultaneously](https://discourse.gohugo.io/t/website-not-updating-simultaneously/33151/2)<!-- DISCOURSE:END -->
+- (June 2, 2021 at 3:45 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/8)
+- (June 2, 2021 at 2:58 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/6)
+- (June 2, 2021 at 2:46 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/4)
+- (June 2, 2021 at 2:14 PM) [Is it possible to change Page Variables?](https://discourse.gohugo.io/t/is-it-possible-to-change-page-variables/33205/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
