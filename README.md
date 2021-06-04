@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 3, 2021 at 2:58 PM) [Feature request: SitemapIndex for sitemaps with >50K links](https://discourse.gohugo.io/t/feature-request-sitemapindex-for-sitemaps-with-50k-links/33214/3)
+- (June 3, 2021 at 2:29 PM) [Feature request: SitemapIndex for sitemaps with >50K links](https://discourse.gohugo.io/t/feature-request-sitemapindex-for-sitemaps-with-50k-links/33214/2)
 - (June 2, 2021 at 3:45 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/8)
-- (June 2, 2021 at 2:58 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/6)
-- (June 2, 2021 at 2:46 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/4)
-- (June 2, 2021 at 2:14 PM) [Is it possible to change Page Variables?](https://discourse.gohugo.io/t/is-it-possible-to-change-page-variables/33205/2)<!-- DISCOURSE:END -->
+- (June 2, 2021 at 2:58 PM) [.Site.Theme?](https://discourse.gohugo.io/t/site-theme/33200/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
