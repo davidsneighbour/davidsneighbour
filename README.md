@@ -25,8 +25,8 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 6, 2021 at 2:16 PM) [Site Variables from API request](https://discourse.gohugo.io/t/site-variables-from-api-request/33253/4)
 - (June 6, 2021 at 12:43 PM) [Site Variables from API request](https://discourse.gohugo.io/t/site-variables-from-api-request/33253/2)
-- (June 6, 2021 at 12:40 PM) [Markdown utilization of render hooks and i18n/languages](https://discourse.gohugo.io/t/markdown-utilization-of-render-hooks-and-i18n-languages/33238/2)
 - (June 6, 2021 at 12:33 PM) [Importing from node_modules with js.Build uses "require" / CommonJS](https://discourse.gohugo.io/t/importing-from-node-modules-with-js-build-uses-require-commonjs/33254/2)
 - (June 6, 2021 at 12:30 PM) [Hosting on Github: Why github actions needed?](https://discourse.gohugo.io/t/hosting-on-github-why-github-actions-needed/33250/2)<!-- DISCOURSE:END -->
 
