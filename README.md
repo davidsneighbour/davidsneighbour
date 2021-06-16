@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 10, 2021 at 12:21 PM) [Semi OT: Recovery of content/ directory. public/ directory is available](https://discourse.gohugo.io/t/semi-ot-recovery-of-content-directory-public-directory-is-available/33320/3)
-- (June 9, 2021 at 10:28 AM) [Module gets updated during build](https://discourse.gohugo.io/t/module-gets-updated-during-build/33303/3)
-- (June 9, 2021 at 9:16 AM) [Get line number from raw file](https://discourse.gohugo.io/t/get-line-number-from-raw-file/33297/2)
-- (June 9, 2021 at 9:04 AM) [Tree structure for testing themes?](https://discourse.gohugo.io/t/tree-structure-for-testing-themes/33295/4)<!-- DISCOURSE:END -->
+- (June 15, 2021 at 2:27 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/7)
+- (June 15, 2021 at 1:50 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/5)
+- (June 15, 2021 at 1:49 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/4)
+- (June 15, 2021 at 1:24 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
