@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 16, 2021 at 8:33 AM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/12)
+- (June 16, 2021 at 8:26 AM) [Separate tag/category page for different Hugo type](https://discourse.gohugo.io/t/separate-tag-category-page-for-different-hugo-type/33394/4)
 - (June 15, 2021 at 2:27 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/7)
-- (June 15, 2021 at 1:50 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/5)
-- (June 15, 2021 at 1:49 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/4)
-- (June 15, 2021 at 1:24 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/2)<!-- DISCOURSE:END -->
+- (June 15, 2021 at 1:50 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
