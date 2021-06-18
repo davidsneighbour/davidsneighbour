@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 18, 2021 at 6:54 AM) [Understanding .Page.Data.Term vs .Page.Title](https://discourse.gohugo.io/t/understanding-page-data-term-vs-page-title/33431/2)
 - (June 17, 2021 at 3:40 PM) [Use two themes on one site](https://discourse.gohugo.io/t/use-two-themes-on-one-site/33426/2)
 - (June 17, 2021 at 3:36 PM) [P-wrapping bug, still alive, opt-out would be good](https://discourse.gohugo.io/t/p-wrapping-bug-still-alive-opt-out-would-be-good/33417/4)
-- (June 17, 2021 at 2:10 PM) [Menu from Page Matter (not config) when (index) Pages (and PDFs) are in Folders](https://discourse.gohugo.io/t/menu-from-page-matter-not-config-when-index-pages-and-pdfs-are-in-folders/33401/13)
-- (June 17, 2021 at 1:56 PM) [Menu from Page Matter (not config) when (index) Pages (and PDFs) are in Folders](https://discourse.gohugo.io/t/menu-from-page-matter-not-config-when-index-pages-and-pdfs-are-in-folders/33401/11)<!-- DISCOURSE:END -->
+- (June 17, 2021 at 2:10 PM) [Menu from Page Matter (not config) when (index) Pages (and PDFs) are in Folders](https://discourse.gohugo.io/t/menu-from-page-matter-not-config-when-index-pages-and-pdfs-are-in-folders/33401/13)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
