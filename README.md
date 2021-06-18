@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 17, 2021 at 12:16 PM) [Custom slug encoding rules for tags, titles, taxonomies](https://discourse.gohugo.io/t/custom-slug-encoding-rules-for-tags-titles-taxonomies/33421/2)
-- (June 17, 2021 at 12:12 PM) [/content/about.md doesn't work with /layouts/_default/about/single.html](https://discourse.gohugo.io/t/content-about-md-doesnt-work-with-layouts-default-about-single-html/33420/2)
-- (June 17, 2021 at 12:10 PM) [P-wrapping bug, still alive, opt-out would be good](https://discourse.gohugo.io/t/p-wrapping-bug-still-alive-opt-out-would-be-good/33417/2)
-- (June 16, 2021 at 1:46 PM) [Debug/print Hugo's composed virtual filesystem](https://discourse.gohugo.io/t/debug-print-hugos-composed-virtual-filesystem/33383/16)<!-- DISCOURSE:END -->
+- (June 17, 2021 at 3:40 PM) [Use two themes on one site](https://discourse.gohugo.io/t/use-two-themes-on-one-site/33426/2)
+- (June 17, 2021 at 3:36 PM) [P-wrapping bug, still alive, opt-out would be good](https://discourse.gohugo.io/t/p-wrapping-bug-still-alive-opt-out-would-be-good/33417/4)
+- (June 17, 2021 at 2:10 PM) [Menu from Page Matter (not config) when (index) Pages (and PDFs) are in Folders](https://discourse.gohugo.io/t/menu-from-page-matter-not-config-when-index-pages-and-pdfs-are-in-folders/33401/13)
+- (June 17, 2021 at 1:56 PM) [Menu from Page Matter (not config) when (index) Pages (and PDFs) are in Folders](https://discourse.gohugo.io/t/menu-from-page-matter-not-config-when-index-pages-and-pdfs-are-in-folders/33401/11)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
