@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 19, 2021 at 9:56 AM) [Reset a themes layout folder](https://discourse.gohugo.io/t/reset-a-themes-layout-folder/33448/3)
+- (June 19, 2021 at 9:53 AM) [How do I use a theme as a Hugo module?](https://discourse.gohugo.io/t/how-do-i-use-a-theme-as-a-hugo-module/33449/3)
 - (June 18, 2021 at 2:35 PM) [I18n with custom language code - max 8-character limit for language name](https://discourse.gohugo.io/t/i18n-with-custom-language-code-max-8-character-limit-for-language-name/33437/3)
-- (June 18, 2021 at 6:54 AM) [Understanding .Page.Data.Term vs .Page.Title](https://discourse.gohugo.io/t/understanding-page-data-term-vs-page-title/33431/2)
-- (June 17, 2021 at 3:40 PM) [Use two themes on one site](https://discourse.gohugo.io/t/use-two-themes-on-one-site/33426/2)
-- (June 17, 2021 at 3:36 PM) [P-wrapping bug, still alive, opt-out would be good](https://discourse.gohugo.io/t/p-wrapping-bug-still-alive-opt-out-would-be-good/33417/4)<!-- DISCOURSE:END -->
+- (June 18, 2021 at 6:54 AM) [Understanding .Page.Data.Term vs .Page.Title](https://discourse.gohugo.io/t/understanding-page-data-term-vs-page-title/33431/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
