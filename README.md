@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 19, 2021 at 9:56 AM) [Reset a themes layout folder](https://discourse.gohugo.io/t/reset-a-themes-layout-folder/33448/3)
-- (June 19, 2021 at 9:53 AM) [How do I use a theme as a Hugo module?](https://discourse.gohugo.io/t/how-do-i-use-a-theme-as-a-hugo-module/33449/3)
-- (June 18, 2021 at 2:35 PM) [I18n with custom language code - max 8-character limit for language name](https://discourse.gohugo.io/t/i18n-with-custom-language-code-max-8-character-limit-for-language-name/33437/3)
-- (June 18, 2021 at 6:54 AM) [Understanding .Page.Data.Term vs .Page.Title](https://discourse.gohugo.io/t/understanding-page-data-term-vs-page-title/33431/2)<!-- DISCOURSE:END -->
+- (June 20, 2021 at 11:58 AM) [When is a Hugo Module a Hugo Module?](https://discourse.gohugo.io/t/when-is-a-hugo-module-a-hugo-module/33472/1)
+- (June 20, 2021 at 10:49 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/4)
+- (June 20, 2021 at 8:11 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/2)
+- (June 20, 2021 at 7:48 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/1)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
