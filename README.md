@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 20, 2021 at 12:35 PM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/5)
 - (June 20, 2021 at 11:58 AM) [When is a Hugo Module a Hugo Module?](https://discourse.gohugo.io/t/when-is-a-hugo-module-a-hugo-module/33472/1)
 - (June 20, 2021 at 10:49 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/4)
-- (June 20, 2021 at 8:11 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/2)
-- (June 20, 2021 at 7:48 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/1)<!-- DISCOURSE:END -->
+- (June 20, 2021 at 8:11 AM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
