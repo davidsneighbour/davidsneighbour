@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 22, 2021 at 1:21 PM) [Error when trying to deploy Wowchemy website repository using GitHub pages (while running "hugo")](https://discourse.gohugo.io/t/error-when-trying-to-deploy-wowchemy-website-repository-using-github-pages-while-running-hugo/33504/3)
+- (June 22, 2021 at 1:19 PM) [Error when trying to deploy Wowchemy website repository using GitHub pages (while running "hugo")](https://discourse.gohugo.io/t/error-when-trying-to-deploy-wowchemy-website-repository-using-github-pages-while-running-hugo/33504/2)
 - (June 21, 2021 at 4:47 PM) [Low Quality Image Placeholder (LQIP) Pipes](https://discourse.gohugo.io/t/low-quality-image-placeholder-lqip-pipes/20259/20)
-- (June 21, 2021 at 12:15 PM) [Partials not working as per docs](https://discourse.gohugo.io/t/partials-not-working-as-per-docs/33491/2)
-- (June 21, 2021 at 9:59 AM) [Custom slug encoding rules for tags, titles, taxonomies](https://discourse.gohugo.io/t/custom-slug-encoding-rules-for-tags-titles-taxonomies/33421/6)
-- (June 20, 2021 at 12:35 PM) [New config merging loads Bootstrap site config into mine :)](https://discourse.gohugo.io/t/new-config-merging-loads-bootstrap-site-config-into-mine/33468/5)<!-- DISCOURSE:END -->
+- (June 21, 2021 at 12:15 PM) [Partials not working as per docs](https://discourse.gohugo.io/t/partials-not-working-as-per-docs/33491/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
