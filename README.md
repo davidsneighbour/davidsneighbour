@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 23, 2021 at 4:30 PM) [Custom slug encoding rules for tags, titles, taxonomies](https://discourse.gohugo.io/t/custom-slug-encoding-rules-for-tags-titles-taxonomies/33421/9)
-- (June 23, 2021 at 4:27 PM) [Can't access .Site.Menus from index template?](https://discourse.gohugo.io/t/cant-access-site-menus-from-index-template/33523/2)
-- (June 23, 2021 at 4:18 PM) [More config-merge issues](https://discourse.gohugo.io/t/more-config-merge-issues/33516/4)
-- (June 23, 2021 at 9:05 AM) [More config-merge issues](https://discourse.gohugo.io/t/more-config-merge-issues/33516/2)<!-- DISCOURSE:END -->
+- (June 26, 2021 at 9:18 AM) [IF is not failing on first of three false](https://discourse.gohugo.io/t/if-is-not-failing-on-first-of-three-false/33563/2)
+- (June 26, 2021 at 8:37 AM) [IF is not failing on first of three false](https://discourse.gohugo.io/t/if-is-not-failing-on-first-of-three-false/33563/1)
+- (June 26, 2021 at 5:09 AM) [Add class to heading](https://discourse.gohugo.io/t/add-class-to-heading/33547/4)
+- (June 23, 2021 at 4:30 PM) [Custom slug encoding rules for tags, titles, taxonomies](https://discourse.gohugo.io/t/custom-slug-encoding-rules-for-tags-titles-taxonomies/33421/9)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
