@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (June 27, 2021 at 12:54 PM) [Imagesize (bits and bytes) after processing](https://discourse.gohugo.io/t/imagesize-bits-and-bytes-after-processing/33575/3)
-- (June 27, 2021 at 12:26 PM) [Imagesize (bits and bytes) after processing](https://discourse.gohugo.io/t/imagesize-bits-and-bytes-after-processing/33575/1)
-- (June 27, 2021 at 12:07 PM) [Very large website can not be generated - no space left on device](https://discourse.gohugo.io/t/very-large-website-can-not-be-generated-no-space-left-on-device/33573/3)
-- (June 27, 2021 at 11:59 AM) [Install Hugo into your repository](https://discourse.gohugo.io/t/install-hugo-into-your-repository/33564/6)<!-- DISCOURSE:END -->
+- (June 28, 2021 at 11:29 AM) [How to check if file exists using {{ .Page.Title }} in fileExists?](https://discourse.gohugo.io/t/how-to-check-if-file-exists-using-page-title-in-fileexists/33587/3)
+- (June 28, 2021 at 11:24 AM) [Socket-activate development server (maybe via systemd)?](https://discourse.gohugo.io/t/socket-activate-development-server-maybe-via-systemd/33571/4)
+- (June 28, 2021 at 11:20 AM) [Very large website can not be generated - no space left on device](https://discourse.gohugo.io/t/very-large-website-can-not-be-generated-no-space-left-on-device/33573/5)
+- (June 28, 2021 at 11:18 AM) [Code working on local hugo server but not remote](https://discourse.gohugo.io/t/code-working-on-local-hugo-server-but-not-remote/33144/7)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
