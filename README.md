@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 27, 2021 at 12:54 PM) [Imagesize (bits and bytes) after processing](https://discourse.gohugo.io/t/imagesize-bits-and-bytes-after-processing/33575/3)
 - (June 27, 2021 at 12:26 PM) [Imagesize (bits and bytes) after processing](https://discourse.gohugo.io/t/imagesize-bits-and-bytes-after-processing/33575/1)
 - (June 27, 2021 at 12:07 PM) [Very large website can not be generated - no space left on device](https://discourse.gohugo.io/t/very-large-website-can-not-be-generated-no-space-left-on-device/33573/3)
-- (June 27, 2021 at 11:59 AM) [Install Hugo into your repository](https://discourse.gohugo.io/t/install-hugo-into-your-repository/33564/6)
-- (June 27, 2021 at 7:52 AM) [Section not loading in Eddie Webb Resume theme](https://discourse.gohugo.io/t/section-not-loading-in-eddie-webb-resume-theme/33567/6)<!-- DISCOURSE:END -->
+- (June 27, 2021 at 11:59 AM) [Install Hugo into your repository](https://discourse.gohugo.io/t/install-hugo-into-your-repository/33564/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
