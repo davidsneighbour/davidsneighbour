@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (June 28, 2021 at 2:53 PM) [I18n inside of printf returns empty string](https://discourse.gohugo.io/t/i18n-inside-of-printf-returns-empty-string/33589/1)
+- (June 28, 2021 at 12:52 PM) [How to add assets from 3rd party Hugo module](https://discourse.gohugo.io/t/how-to-add-assets-from-3rd-party-hugo-module/33338/14)
 - (June 28, 2021 at 11:29 AM) [How to check if file exists using {{ .Page.Title }} in fileExists?](https://discourse.gohugo.io/t/how-to-check-if-file-exists-using-page-title-in-fileexists/33587/3)
-- (June 28, 2021 at 11:24 AM) [Socket-activate development server (maybe via systemd)?](https://discourse.gohugo.io/t/socket-activate-development-server-maybe-via-systemd/33571/4)
-- (June 28, 2021 at 11:20 AM) [Very large website can not be generated - no space left on device](https://discourse.gohugo.io/t/very-large-website-can-not-be-generated-no-space-left-on-device/33573/5)
-- (June 28, 2021 at 11:18 AM) [Code working on local hugo server but not remote](https://discourse.gohugo.io/t/code-working-on-local-hugo-server-but-not-remote/33144/7)<!-- DISCOURSE:END -->
+- (June 28, 2021 at 11:24 AM) [Socket-activate development server (maybe via systemd)?](https://discourse.gohugo.io/t/socket-activate-development-server-maybe-via-systemd/33571/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
