@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 1, 2021 at 9:06 AM) [Dart-sass-embedded path quandary](https://discourse.gohugo.io/t/dart-sass-embedded-path-quandary/33639/2)
 - (June 29, 2021 at 4:10 PM) [How to describe issues](https://discourse.gohugo.io/t/how-to-describe-issues/33613/1)
 - (June 29, 2021 at 3:55 PM) [Change Title in SEO](https://discourse.gohugo.io/t/change-title-in-seo/33612/2)
-- (June 29, 2021 at 1:17 PM) [How to check if module provides a layout](https://discourse.gohugo.io/t/how-to-check-if-module-provides-a-layout/33607/6)
-- (June 29, 2021 at 1:06 PM) [How to check if module provides a layout](https://discourse.gohugo.io/t/how-to-check-if-module-provides-a-layout/33607/4)<!-- DISCOURSE:END -->
+- (June 29, 2021 at 1:17 PM) [How to check if module provides a layout](https://discourse.gohugo.io/t/how-to-check-if-module-provides-a-layout/33607/6)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
