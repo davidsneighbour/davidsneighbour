@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (July 2, 2021 at 1:40 AM) [Hugo Visual Identity package / grafical logo](https://discourse.gohugo.io/t/hugo-visual-identity-package-grafical-logo/33637/5)
-- (July 2, 2021 at 1:35 AM) [Accessing JS files in a subfolder of my content folder](https://discourse.gohugo.io/t/accessing-js-files-in-a-subfolder-of-my-content-folder/33655/2)
-- (July 1, 2021 at 9:06 AM) [Dart-sass-embedded path quandary](https://discourse.gohugo.io/t/dart-sass-embedded-path-quandary/33639/2)
-- (June 29, 2021 at 4:10 PM) [How to describe issues](https://discourse.gohugo.io/t/how-to-describe-issues/33613/1)<!-- DISCOURSE:END -->
+- (July 2, 2021 at 2:09 PM) [Contact forms on a static site](https://discourse.gohugo.io/t/contact-forms-on-a-static-site/33460/16)
+- (July 2, 2021 at 2:04 PM) [Question about template lookup order](https://discourse.gohugo.io/t/question-about-template-lookup-order/33664/2)
+- (July 2, 2021 at 2:02 PM) [Accessing JS files in a subfolder of my content folder](https://discourse.gohugo.io/t/accessing-js-files-in-a-subfolder-of-my-content-folder/33655/4)
+- (July 2, 2021 at 1:40 AM) [Hugo Visual Identity package / grafical logo](https://discourse.gohugo.io/t/hugo-visual-identity-package-grafical-logo/33637/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
