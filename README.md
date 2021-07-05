@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 4, 2021 at 1:02 PM) [Override canonifyURLs in outputFormats?](https://discourse.gohugo.io/t/override-canonifyurls-in-outputformats/28946/15)
 - (July 4, 2021 at 6:50 AM) [Permalink for taxonomy list page](https://discourse.gohugo.io/t/permalink-for-taxonomy-list-page/25149/3)
 - (July 2, 2021 at 2:09 PM) [Contact forms on a static site](https://discourse.gohugo.io/t/contact-forms-on-a-static-site/33460/16)
-- (July 2, 2021 at 2:04 PM) [Question about template lookup order](https://discourse.gohugo.io/t/question-about-template-lookup-order/33664/2)
-- (July 2, 2021 at 2:02 PM) [Accessing JS files in a subfolder of my content folder](https://discourse.gohugo.io/t/accessing-js-files-in-a-subfolder-of-my-content-folder/33655/4)<!-- DISCOURSE:END -->
+- (July 2, 2021 at 2:04 PM) [Question about template lookup order](https://discourse.gohugo.io/t/question-about-template-lookup-order/33664/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
