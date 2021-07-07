@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (July 5, 2021 at 3:31 PM) [How to create a "Location" attribute for travelogue posts](https://discourse.gohugo.io/t/how-to-create-a-location-attribute-for-travelogue-posts/33694/2)
-- (July 5, 2021 at 3:28 PM) [Error faced while starting the server](https://discourse.gohugo.io/t/error-faced-while-starting-the-server/33698/2)
-- (July 4, 2021 at 1:02 PM) [Override canonifyURLs in outputFormats?](https://discourse.gohugo.io/t/override-canonifyurls-in-outputformats/28946/15)
-- (July 4, 2021 at 6:50 AM) [Permalink for taxonomy list page](https://discourse.gohugo.io/t/permalink-for-taxonomy-list-page/25149/3)<!-- DISCOURSE:END -->
+- (July 6, 2021 at 5:18 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/11)
+- (July 6, 2021 at 4:26 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/9)
+- (July 6, 2021 at 12:47 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/2)
+- (July 5, 2021 at 3:31 PM) [How to create a "Location" attribute for travelogue posts](https://discourse.gohugo.io/t/how-to-create-a-location-attribute-for-travelogue-posts/33694/2)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
