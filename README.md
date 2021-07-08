@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 8, 2021 at 9:18 AM) [Proper way to translate a theme](https://discourse.gohugo.io/t/proper-way-to-translate-a-theme/33718/6)
+- (July 8, 2021 at 9:10 AM) [Setting a Parameter in a Theme](https://discourse.gohugo.io/t/setting-a-parameter-in-a-theme/33724/2)
 - (July 7, 2021 at 12:41 PM) [Proper way to translate a theme](https://discourse.gohugo.io/t/proper-way-to-translate-a-theme/33718/2)
-- (July 6, 2021 at 5:18 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/11)
-- (July 6, 2021 at 4:26 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/9)
-- (July 6, 2021 at 12:47 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/2)<!-- DISCOURSE:END -->
+- (July 6, 2021 at 5:18 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/11)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
