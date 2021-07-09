@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (July 8, 2021 at 9:18 AM) [Proper way to translate a theme](https://discourse.gohugo.io/t/proper-way-to-translate-a-theme/33718/6)
-- (July 8, 2021 at 9:10 AM) [Setting a Parameter in a Theme](https://discourse.gohugo.io/t/setting-a-parameter-in-a-theme/33724/2)
-- (July 7, 2021 at 12:41 PM) [Proper way to translate a theme](https://discourse.gohugo.io/t/proper-way-to-translate-a-theme/33718/2)
-- (July 6, 2021 at 5:18 PM) [WEBP transparency around my .png's becomes black for some reason](https://discourse.gohugo.io/t/webp-transparency-around-my-pngs-becomes-black-for-some-reason/33710/11)<!-- DISCOURSE:END -->
+- (July 8, 2021 at 5:26 PM) [{{ .URL }} is blank inside partials template](https://discourse.gohugo.io/t/url-is-blank-inside-partials-template/33745/9)
+- (July 8, 2021 at 4:53 PM) [Can we modify frontmatter cascade values via config?](https://discourse.gohugo.io/t/can-we-modify-frontmatter-cascade-values-via-config/33740/4)
+- (July 8, 2021 at 4:49 PM) [{{ .URL }} is blank inside partials template](https://discourse.gohugo.io/t/url-is-blank-inside-partials-template/33745/4)
+- (July 8, 2021 at 4:25 PM) [Transform a string variable into the variable itself](https://discourse.gohugo.io/t/transform-a-string-variable-into-the-variable-itself/33741/3)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
