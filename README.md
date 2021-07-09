@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 9, 2021 at 12:23 PM) [Splitting .Content into sections based on header level](https://discourse.gohugo.io/t/splitting-content-into-sections-based-on-header-level/33749/5)
+- (July 9, 2021 at 12:17 PM) [Slow rendering (work) but without much static files](https://discourse.gohugo.io/t/slow-rendering-work-but-without-much-static-files/33737/4)
 - (July 8, 2021 at 5:26 PM) [{{ .URL }} is blank inside partials template](https://discourse.gohugo.io/t/url-is-blank-inside-partials-template/33745/9)
-- (July 8, 2021 at 4:53 PM) [Can we modify frontmatter cascade values via config?](https://discourse.gohugo.io/t/can-we-modify-frontmatter-cascade-values-via-config/33740/4)
-- (July 8, 2021 at 4:49 PM) [{{ .URL }} is blank inside partials template](https://discourse.gohugo.io/t/url-is-blank-inside-partials-template/33745/4)
-- (July 8, 2021 at 4:25 PM) [Transform a string variable into the variable itself](https://discourse.gohugo.io/t/transform-a-string-variable-into-the-variable-itself/33741/3)<!-- DISCOURSE:END -->
+- (July 8, 2021 at 4:53 PM) [Can we modify frontmatter cascade values via config?](https://discourse.gohugo.io/t/can-we-modify-frontmatter-cascade-values-via-config/33740/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
