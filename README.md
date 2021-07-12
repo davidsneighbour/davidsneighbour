@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 11, 2021 at 1:32 PM) [How to Do SEO for Taxonomies?](https://discourse.gohugo.io/t/how-to-do-seo-for-taxonomies/33785/2)
+- (July 11, 2021 at 12:58 PM) [How do you see all the methods from a template?](https://discourse.gohugo.io/t/how-do-you-see-all-the-methods-from-a-template/33773/4)
 - (July 9, 2021 at 12:35 PM) [Slow rendering (work) but without much static files](https://discourse.gohugo.io/t/slow-rendering-work-but-without-much-static-files/33737/6)
-- (July 9, 2021 at 12:23 PM) [Splitting .Content into sections based on header level](https://discourse.gohugo.io/t/splitting-content-into-sections-based-on-header-level/33749/5)
-- (July 9, 2021 at 12:17 PM) [Slow rendering (work) but without much static files](https://discourse.gohugo.io/t/slow-rendering-work-but-without-much-static-files/33737/4)
-- (July 8, 2021 at 5:26 PM) [{{ .URL }} is blank inside partials template](https://discourse.gohugo.io/t/url-is-blank-inside-partials-template/33745/9)<!-- DISCOURSE:END -->
+- (July 9, 2021 at 12:23 PM) [Splitting .Content into sections based on header level](https://discourse.gohugo.io/t/splitting-content-into-sections-based-on-header-level/33749/5)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
