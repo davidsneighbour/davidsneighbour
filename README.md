@@ -25,10 +25,10 @@ It is in action in more than half of all websites I am working on (my own and my
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (July 12, 2021 at 1:41 PM) [Error building site that utilizes Hugo's image processing](https://discourse.gohugo.io/t/error-building-site-that-utilizes-hugos-image-processing/33792/4)
 - (July 12, 2021 at 10:54 AM) [Error building site that utilizes Hugo's image processing](https://discourse.gohugo.io/t/error-building-site-that-utilizes-hugos-image-processing/33792/2)
 - (July 12, 2021 at 10:51 AM) [Multicountry + multilanguage](https://discourse.gohugo.io/t/multicountry-multilanguage/33788/2)
-- (July 12, 2021 at 10:47 AM) [How to Do SEO for Taxonomies?](https://discourse.gohugo.io/t/how-to-do-seo-for-taxonomies/33785/4)
-- (July 11, 2021 at 1:32 PM) [How to Do SEO for Taxonomies?](https://discourse.gohugo.io/t/how-to-do-seo-for-taxonomies/33785/2)<!-- DISCOURSE:END -->
+- (July 12, 2021 at 10:47 AM) [How to Do SEO for Taxonomies?](https://discourse.gohugo.io/t/how-to-do-seo-for-taxonomies/33785/4)<!-- DISCOURSE:END -->
 
 ## [Brainstorm](https://github.com/davidsneighbour/davidsneighbour/issues)
 
