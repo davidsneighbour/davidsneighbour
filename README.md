@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (October 23, 2020 	 4:51 PM) [HTML is not rendered](https://discourse.gohugo.io/t/html-is-not-rendered/28997/2)
-- (October 23, 2020 	 4:49 PM) [Hugo generates page/1 directory in output for page bundles](https://discourse.gohugo.io/t/hugo-generates-page-1-directory-in-output-for-page-bundles/28996/2)
-- (October 23, 2020 	 3:44 PM) [Gitlab CI + Hugo module : error](https://discourse.gohugo.io/t/gitlab-ci-hugo-module-error/28956/10)
-- (October 23, 2020 	 12:24 PM) [Related Content - Custom Index](https://discourse.gohugo.io/t/related-content-custom-index/28990/2)<!-- DISCOURSE:END -->
+- (November 16, 2021 at 2:20 PM) [Archetype rework in 0.89&lpar;.0/2/3&rpar; breaks hugo new](https://discourse.gohugo.io/t/archetype-rework-in-0-89-0-2-3-breaks-hugo-new/35610/1)
+- (November 15, 2021 at 3:41 PM) [How to make relative Hyperlinks work the GitHub way](https://discourse.gohugo.io/t/how-to-make-relative-hyperlinks-work-the-github-way/35601/2)
+- (November 15, 2021 at 3:22 PM) [Changed theme; works on localhost, not on production](https://discourse.gohugo.io/t/changed-theme-works-on-localhost-not-on-production/35596/5)
+- (November 15, 2021 at 3:19 PM) [Changed theme; works on localhost, not on production](https://discourse.gohugo.io/t/changed-theme-works-on-localhost-not-on-production/35596/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
