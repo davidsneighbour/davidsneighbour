@@ -8,6 +8,10 @@
 - I am collaborating on [Colossus](https://github.com/colossus-wp)
 - Ask me about Vue.js, web technologies and website optimization
 
+# Recent blog posts
+<!-- KOLLITSCH:START -->
+<!-- KOLLITSCH:END -->
+
 ## Corona Sucks!
 
 I had a very early insight into what Corona will do to businesses around the world. In late December 2019 I read about a weird new virus that came up on a wet market somewhere in China and immediately felt like the movie "Contagion" came true. Some weeks later in late January I felt that this was slightly bigger than assumed before. Turn your clocks to now and you will know, how this little bat-induced virus affected us all. 
