@@ -10,6 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Hyper Shell](https://kollitsch.de/blog/2021/hyper-shell/)
+- [You got to...](https://kollitsch.de/blog/2021/you-got-to/)
+- [.gitignore for GoHugo](https://kollitsch.de/blog/2021/gitignore-for-gohugo/)
+- [Converting frontmatter in GoHugo](https://kollitsch.de/blog/2021/converting-frontmatter-in-gohugo/)
+- [Learning to git with git](https://kollitsch.de/blog/2021/learning-to-git-with-git/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
