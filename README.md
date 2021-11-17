@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 17, 2021 at 2:20 PM) [Hugo 0.89.4 Released](https://discourse.gohugo.io/t/hugo-0-89-4-released/35622/4)
 - (November 17, 2021 at 9:12 AM) [Configure HUGO server for .htm files](https://discourse.gohugo.io/t/configure-hugo-server-for-htm-files/35621/2)
 - (November 16, 2021 at 2:20 PM) [Archetype rework in 0.89&lpar;.0/2/3&rpar; breaks hugo new](https://discourse.gohugo.io/t/archetype-rework-in-0-89-0-2-3-breaks-hugo-new/35610/1)
-- (November 15, 2021 at 3:41 PM) [How to make relative Hyperlinks work the GitHub way](https://discourse.gohugo.io/t/how-to-make-relative-hyperlinks-work-the-github-way/35601/2)
-- (November 15, 2021 at 3:22 PM) [Changed theme; works on localhost, not on production](https://discourse.gohugo.io/t/changed-theme-works-on-localhost-not-on-production/35596/5)<!-- DISCOURSE:END -->
+- (November 15, 2021 at 3:41 PM) [How to make relative Hyperlinks work the GitHub way](https://discourse.gohugo.io/t/how-to-make-relative-hyperlinks-work-the-github-way/35601/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
