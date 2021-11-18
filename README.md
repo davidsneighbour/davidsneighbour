@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 18, 2021 at 12:14 PM) [Language Dropdown menu options](https://discourse.gohugo.io/t/language-dropdown-menu-options/35638/4)
+- (November 18, 2021 at 12:01 PM) [Language Dropdown menu options](https://discourse.gohugo.io/t/language-dropdown-menu-options/35638/2)
 - (November 18, 2021 at 6:49 AM) [Merge array tables from module into project](https://discourse.gohugo.io/t/merge-array-tables-from-module-into-project/35629/2)
-- (November 17, 2021 at 2:20 PM) [Hugo 0.89.4 Released](https://discourse.gohugo.io/t/hugo-0-89-4-released/35622/4)
-- (November 17, 2021 at 9:12 AM) [Configure HUGO server for .htm files](https://discourse.gohugo.io/t/configure-hugo-server-for-htm-files/35621/2)
-- (November 16, 2021 at 2:20 PM) [Archetype rework in 0.89&lpar;.0/2/3&rpar; breaks hugo new](https://discourse.gohugo.io/t/archetype-rework-in-0-89-0-2-3-breaks-hugo-new/35610/1)<!-- DISCOURSE:END -->
+- (November 17, 2021 at 2:20 PM) [Hugo 0.89.4 Released](https://discourse.gohugo.io/t/hugo-0-89-4-released/35622/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
