@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 19, 2021 at 3:36 PM) [Error: Error building site: failed to render pages: render of &quot;home&quot; failed:](https://discourse.gohugo.io/t/error-error-building-site-failed-to-render-pages-render-of-home-failed/35652/2)
 - (November 18, 2021 at 12:14 PM) [Language Dropdown menu options](https://discourse.gohugo.io/t/language-dropdown-menu-options/35638/4)
 - (November 18, 2021 at 12:01 PM) [Language Dropdown menu options](https://discourse.gohugo.io/t/language-dropdown-menu-options/35638/2)
-- (November 18, 2021 at 6:49 AM) [Merge array tables from module into project](https://discourse.gohugo.io/t/merge-array-tables-from-module-into-project/35629/2)
-- (November 17, 2021 at 2:20 PM) [Hugo 0.89.4 Released](https://discourse.gohugo.io/t/hugo-0-89-4-released/35622/4)<!-- DISCOURSE:END -->
+- (November 18, 2021 at 6:49 AM) [Merge array tables from module into project](https://discourse.gohugo.io/t/merge-array-tables-from-module-into-project/35629/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
