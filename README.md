@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 21, 2021 at 2:29 PM) [Rotate array](https://discourse.gohugo.io/t/rotate-array/35691/2)
+- (November 21, 2021 at 2:23 PM) [Weird issue: changing an SVG background image reloads `hugo server` but leads to white page](https://discourse.gohugo.io/t/weird-issue-changing-an-svg-background-image-reloads-hugo-server-but-leads-to-white-page/35692/1)
 - (November 20, 2021 at 11:28 PM) [Web components in Hugo](https://discourse.gohugo.io/t/web-components-in-hugo/35675/2)
-- (November 20, 2021 at 7:18 AM) [Hugo + TailwindCSS purging too aggressively](https://discourse.gohugo.io/t/hugo-tailwindcss-purging-too-aggressively/35668/2)
-- (November 19, 2021 at 3:36 PM) [Error: Error building site: failed to render pages: render of &quot;home&quot; failed:](https://discourse.gohugo.io/t/error-error-building-site-failed-to-render-pages-render-of-home-failed/35652/2)
-- (November 18, 2021 at 12:14 PM) [Language Dropdown menu options](https://discourse.gohugo.io/t/language-dropdown-menu-options/35638/4)<!-- DISCOURSE:END -->
+- (November 20, 2021 at 7:18 AM) [Hugo + TailwindCSS purging too aggressively](https://discourse.gohugo.io/t/hugo-tailwindcss-purging-too-aggressively/35668/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
