@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 22, 2021 at 11:58 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/5)
+- (November 22, 2021 at 11:53 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/4)
 - (November 22, 2021 at 11:48 AM) [I&#39;m looking for a theme that shows one full post/article after another on the homepage... keep scrolling and see more full articles](https://discourse.gohugo.io/t/im-looking-for-a-theme-that-shows-one-full-post-article-after-another-on-the-homepage-keep-scrolling-and-see-more-full-articles/35703/7)
-- (November 22, 2021 at 6:39 AM) [I&#39;m looking for a theme that shows one full post/article after another on the homepage... keep scrolling and see more full articles](https://discourse.gohugo.io/t/im-looking-for-a-theme-that-shows-one-full-post-article-after-another-on-the-homepage-keep-scrolling-and-see-more-full-articles/35703/2)
-- (November 22, 2021 at 6:36 AM) [Weird issue: changing an SVG background image reloads `hugo server` but leads to white page](https://discourse.gohugo.io/t/weird-issue-changing-an-svg-background-image-reloads-hugo-server-but-leads-to-white-page/35692/3)
-- (November 21, 2021 at 2:29 PM) [Rotate array](https://discourse.gohugo.io/t/rotate-array/35691/2)<!-- DISCOURSE:END -->
+- (November 22, 2021 at 6:39 AM) [I&#39;m looking for a theme that shows one full post/article after another on the homepage... keep scrolling and see more full articles](https://discourse.gohugo.io/t/im-looking-for-a-theme-that-shows-one-full-post-article-after-another-on-the-homepage-keep-scrolling-and-see-more-full-articles/35703/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
