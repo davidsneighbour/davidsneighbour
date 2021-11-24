@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 24, 2021 at 1:34 PM) [Using --source results in public and resources below --source](https://discourse.gohugo.io/t/using-source-results-in-public-and-resources-below-source/35723/2)
 - (November 23, 2021 at 11:31 PM) [How to point to a specific commit in my fork of a Hugo module?](https://discourse.gohugo.io/t/how-to-point-to-a-specific-commit-in-my-fork-of-a-hugo-module/35720/2)
 - (November 22, 2021 at 11:58 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/5)
-- (November 22, 2021 at 11:53 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/4)
-- (November 22, 2021 at 11:48 AM) [I&#39;m looking for a theme that shows one full post/article after another on the homepage... keep scrolling and see more full articles](https://discourse.gohugo.io/t/im-looking-for-a-theme-that-shows-one-full-post-article-after-another-on-the-homepage-keep-scrolling-and-see-more-full-articles/35703/7)<!-- DISCOURSE:END -->
+- (November 22, 2021 at 11:53 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
