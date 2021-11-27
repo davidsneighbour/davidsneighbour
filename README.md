@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 27, 2021 at 9:46 AM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/2)
 - (November 27, 2021 at 9:10 AM) [Greediness in `hugo convert toYAML`](https://discourse.gohugo.io/t/greediness-in-hugo-convert-toyaml/35782/1)
 - (November 24, 2021 at 1:34 PM) [Using --source results in public and resources below --source](https://discourse.gohugo.io/t/using-source-results-in-public-and-resources-below-source/35723/2)
-- (November 23, 2021 at 11:31 PM) [How to point to a specific commit in my fork of a Hugo module?](https://discourse.gohugo.io/t/how-to-point-to-a-specific-commit-in-my-fork-of-a-hugo-module/35720/2)
-- (November 22, 2021 at 11:58 AM) [Masking download links](https://discourse.gohugo.io/t/masking-download-links/35709/5)<!-- DISCOURSE:END -->
+- (November 23, 2021 at 11:31 PM) [How to point to a specific commit in my fork of a Hugo module?](https://discourse.gohugo.io/t/how-to-point-to-a-specific-commit-in-my-fork-of-a-hugo-module/35720/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
