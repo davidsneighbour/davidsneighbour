@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 28, 2021 at 12:28 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/7)
 - (November 28, 2021 at 7:50 AM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/3)
 - (November 28, 2021 at 1:09 AM) [Embedding Youtube in a privacy friendly way](https://discourse.gohugo.io/t/embedding-youtube-in-a-privacy-friendly-way/35784/4)
-- (November 28, 2021 at 12:12 AM) [Embedding Youtube in a privacy friendly way](https://discourse.gohugo.io/t/embedding-youtube-in-a-privacy-friendly-way/35784/2)
-- (November 27, 2021 at 9:46 AM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/2)<!-- DISCOURSE:END -->
+- (November 28, 2021 at 12:12 AM) [Embedding Youtube in a privacy friendly way](https://discourse.gohugo.io/t/embedding-youtube-in-a-privacy-friendly-way/35784/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
