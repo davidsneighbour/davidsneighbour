@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 30, 2021 at 11:01 AM) [Unable to compare dates stored in front matter](https://discourse.gohugo.io/t/unable-to-compare-dates-stored-in-front-matter/35823/4)
 - (November 30, 2021 at 2:04 AM) [Github actions runs but fails to create the public folder](https://discourse.gohugo.io/t/github-actions-runs-but-fails-to-create-the-public-folder/35828/2)
 - (November 28, 2021 at 12:49 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/8)
-- (November 28, 2021 at 12:28 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/7)
-- (November 28, 2021 at 7:50 AM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/3)<!-- DISCOURSE:END -->
+- (November 28, 2021 at 12:28 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/7)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
