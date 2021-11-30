@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (November 30, 2021 at 2:04 AM) [Github actions runs but fails to create the public folder](https://discourse.gohugo.io/t/github-actions-runs-but-fails-to-create-the-public-folder/35828/2)
 - (November 28, 2021 at 12:49 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/8)
 - (November 28, 2021 at 12:28 PM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/7)
-- (November 28, 2021 at 7:50 AM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/3)
-- (November 28, 2021 at 1:09 AM) [Embedding Youtube in a privacy friendly way](https://discourse.gohugo.io/t/embedding-youtube-in-a-privacy-friendly-way/35784/4)<!-- DISCOURSE:END -->
+- (November 28, 2021 at 7:50 AM) [Making replaceRE substitutions lowercase? For an implementation of wikilinks](https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
