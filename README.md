@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 12, 2021 at 10:34 AM) [How to use front matter parameter that contains markdown or HTML and turn it into HTML in partials?](https://discourse.gohugo.io/t/how-to-use-front-matter-parameter-that-contains-markdown-or-html-and-turn-it-into-html-in-partials/36020/3)
 - (December 12, 2021 at 10:12 AM) [Running JS before build](https://discourse.gohugo.io/t/running-js-before-build/35996/2)
 - (November 30, 2021 at 11:22 AM) [Unable to compare dates stored in front matter](https://discourse.gohugo.io/t/unable-to-compare-dates-stored-in-front-matter/35823/8)
-- (November 30, 2021 at 11:13 AM) [Unable to compare dates stored in front matter](https://discourse.gohugo.io/t/unable-to-compare-dates-stored-in-front-matter/35823/6)
-- (November 30, 2021 at 11:01 AM) [Unable to compare dates stored in front matter](https://discourse.gohugo.io/t/unable-to-compare-dates-stored-in-front-matter/35823/4)<!-- DISCOURSE:END -->
+- (November 30, 2021 at 11:13 AM) [Unable to compare dates stored in front matter](https://discourse.gohugo.io/t/unable-to-compare-dates-stored-in-front-matter/35823/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
