@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 15, 2021 at 12:38 PM) [Hugo environment issues &lpar;filenames&rpar;](https://discourse.gohugo.io/t/hugo-environment-issues-filenames/36057/2)
+- (December 15, 2021 at 12:28 PM) [hugo compiles &lpar;sass &rpar; file very slow on mac os system](https://discourse.gohugo.io/t/hugo-compiles-sass-file-very-slow-on-mac-os-system/36061/2)
 - (December 12, 2021 at 10:55 AM) [How to use front matter parameter that contains markdown or HTML and turn it into HTML in partials?](https://discourse.gohugo.io/t/how-to-use-front-matter-parameter-that-contains-markdown-or-html-and-turn-it-into-html-in-partials/36020/8)
-- (December 12, 2021 at 10:47 AM) [How to use front matter parameter that contains markdown or HTML and turn it into HTML in partials?](https://discourse.gohugo.io/t/how-to-use-front-matter-parameter-that-contains-markdown-or-html-and-turn-it-into-html-in-partials/36020/5)
-- (December 12, 2021 at 10:34 AM) [How to use front matter parameter that contains markdown or HTML and turn it into HTML in partials?](https://discourse.gohugo.io/t/how-to-use-front-matter-parameter-that-contains-markdown-or-html-and-turn-it-into-html-in-partials/36020/3)
-- (December 12, 2021 at 10:12 AM) [Running JS before build](https://discourse.gohugo.io/t/running-js-before-build/35996/2)<!-- DISCOURSE:END -->
+- (December 12, 2021 at 10:47 AM) [How to use front matter parameter that contains markdown or HTML and turn it into HTML in partials?](https://discourse.gohugo.io/t/how-to-use-front-matter-parameter-that-contains-markdown-or-html-and-turn-it-into-html-in-partials/36020/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
