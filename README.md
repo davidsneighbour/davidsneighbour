@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 18, 2021 at 9:13 AM) [Tailwind, prose, markdown - code samples show the: ` character](https://discourse.gohugo.io/t/tailwind-prose-markdown-code-samples-show-the-character/36106/4)
 - (December 16, 2021 at 3:06 PM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/8)
 - (December 16, 2021 at 1:59 PM) [hugo compiles &lpar;sass &rpar; file very slow on mac os system](https://discourse.gohugo.io/t/hugo-compiles-sass-file-very-slow-on-mac-os-system/36061/5)
-- (December 16, 2021 at 1:30 PM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/6)
-- (December 15, 2021 at 12:57 PM) [Custom Sitemap Structure](https://discourse.gohugo.io/t/custom-sitemap-structure/36068/2)<!-- DISCOURSE:END -->
+- (December 16, 2021 at 1:30 PM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
