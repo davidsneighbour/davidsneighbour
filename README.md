@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 20, 2021 at 2:30 PM) [PostCSS error with snap install](https://discourse.gohugo.io/t/postcss-error-with-snap-install/36136/2)
 - (December 20, 2021 at 1:19 PM) [Moving to hugo - GitHub and image management guidelines please](https://discourse.gohugo.io/t/moving-to-hugo-github-and-image-management-guidelines-please/36121/5)
 - (December 19, 2021 at 3:07 AM) [About htmlEscape: transform https into https%3A%2F%2F](https://discourse.gohugo.io/t/about-htmlescape-transform-https-into-https-3a-2f-2f/36116/2)
-- (December 18, 2021 at 9:13 AM) [Tailwind, prose, markdown - code samples show the: ` character](https://discourse.gohugo.io/t/tailwind-prose-markdown-code-samples-show-the-character/36106/4)
-- (December 16, 2021 at 3:06 PM) [Discreet Drafts](https://discourse.gohugo.io/t/discreet-drafts/35779/8)<!-- DISCOURSE:END -->
+- (December 18, 2021 at 9:13 AM) [Tailwind, prose, markdown - code samples show the: ` character](https://discourse.gohugo.io/t/tailwind-prose-markdown-code-samples-show-the-character/36106/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
