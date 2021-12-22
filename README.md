@@ -42,9 +42,9 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 22, 2021 at 3:19 PM) [[Semi-OT]: Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/semi-ot-possible-explanations-for-stuck-hugo-builds-on-netlify/36166/6)
+- (December 22, 2021 at 3:19 PM) [Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/possible-explanations-for-stuck-hugo-builds-on-netlify/36166/6)
 - (December 22, 2021 at 3:15 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/3)
-- (December 22, 2021 at 3:14 PM) [[Semi-OT]: Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/semi-ot-possible-explanations-for-stuck-hugo-builds-on-netlify/36166/4)
+- (December 22, 2021 at 3:14 PM) [Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/possible-explanations-for-stuck-hugo-builds-on-netlify/36166/4)
 - (December 22, 2021 at 2:51 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
