@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 22, 2021 at 2:51 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/1)
-- (December 20, 2021 at 2:30 PM) [PostCSS error with snap install](https://discourse.gohugo.io/t/postcss-error-with-snap-install/36136/2)
-- (December 20, 2021 at 1:19 PM) [Moving to hugo - GitHub and image management guidelines please](https://discourse.gohugo.io/t/moving-to-hugo-github-and-image-management-guidelines-please/36121/5)
-- (December 19, 2021 at 3:07 AM) [About htmlEscape: transform https into https%3A%2F%2F](https://discourse.gohugo.io/t/about-htmlescape-transform-https-into-https-3a-2f-2f/36116/2)<!-- DISCOURSE:END -->
+- (December 22, 2021 at 3:19 PM) [[Semi-OT]: Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/semi-ot-possible-explanations-for-stuck-hugo-builds-on-netlify/36166/6)
+- (December 22, 2021 at 3:15 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/3)
+- (December 22, 2021 at 3:14 PM) [[Semi-OT]: Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/semi-ot-possible-explanations-for-stuck-hugo-builds-on-netlify/36166/4)
+- (December 22, 2021 at 2:51 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
