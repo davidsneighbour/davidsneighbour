@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-discourse:
     name: Update this repo's README with latest posts on gohugo
     runs-on: ubuntu-latest
     steps:
@@ -19,14 +19,13 @@ jobs:
           template: "$newline- ($date) [$title]($url)"
           date_format: "mmmm d, yyyy 'at' h:MM TT"
           commit_message: "chore: update README.md with latest gohugo.io posts"
-  update-readme-with-blog2:
-    name: Update this repo's README with latest blog posts
+  update-kollitsch:
+    name: Update this repo's README with latest blog posts on kollitsch.de
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "KOLLITSCH"
-          feed_list: "https://kollitsch.de/index.xml"
+          feed_list: "https://kollitsch.de/rss.xml"
