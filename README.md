@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 23, 2021 at 1:40 PM) [Error with item defined config file](https://discourse.gohugo.io/t/error-with-item-defined-config-file/36184/2)
+- (December 23, 2021 at 1:34 PM) [Possible? First list page showing 9 items, following showing 10 items](https://discourse.gohugo.io/t/possible-first-list-page-showing-9-items-following-showing-10-items/36186/1)
 - (December 22, 2021 at 3:19 PM) [Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/possible-explanations-for-stuck-hugo-builds-on-netlify/36166/6)
-- (December 22, 2021 at 3:15 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/3)
-- (December 22, 2021 at 3:14 PM) [Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/possible-explanations-for-stuck-hugo-builds-on-netlify/36166/4)
-- (December 22, 2021 at 2:51 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/1)<!-- DISCOURSE:END -->
+- (December 22, 2021 at 3:15 PM) [Hugo module updates go un-recognised](https://discourse.gohugo.io/t/hugo-module-updates-go-un-recognised/36167/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
