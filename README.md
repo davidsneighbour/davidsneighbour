@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 23, 2021 at 2:41 PM) [What is the best approach for sorting and grouping by custom field?](https://discourse.gohugo.io/t/what-is-the-best-approach-for-sorting-and-grouping-by-custom-field/36189/2)
 - (December 23, 2021 at 1:47 PM) [Web Server is available at //localhost:24439?](https://discourse.gohugo.io/t/web-server-is-available-at-localhost-24439/36177/3)
 - (December 23, 2021 at 1:40 PM) [Error with item defined config file](https://discourse.gohugo.io/t/error-with-item-defined-config-file/36184/2)
-- (December 23, 2021 at 1:34 PM) [Possible? First list page showing 9 items, following showing 10 items](https://discourse.gohugo.io/t/possible-first-list-page-showing-9-items-following-showing-10-items/36186/1)
-- (December 22, 2021 at 3:19 PM) [Possible explanations for &quot;stuck Hugo builds&quot; on Netlify](https://discourse.gohugo.io/t/possible-explanations-for-stuck-hugo-builds-on-netlify/36166/6)<!-- DISCOURSE:END -->
+- (December 23, 2021 at 1:34 PM) [Possible? First list page showing 9 items, following showing 10 items](https://discourse.gohugo.io/t/possible-first-list-page-showing-9-items-following-showing-10-items/36186/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
