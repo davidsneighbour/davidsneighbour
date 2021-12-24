@@ -11,10 +11,10 @@
 # Recent blog posts
 <!-- KOLLITSCH:START -->
 - [Earth&#39;s Black Box](https://kollitsch.de/blog/2021/earths-black-box/)
+- [Contact me now](https://kollitsch.de/contact/)
+- [Page not found](https://kollitsch.de/404/)
 - [Hyper Shell](https://kollitsch.de/blog/2021/hyper-shell/)
 - [You got to...](https://kollitsch.de/blog/2021/you-got-to/)
-- [.gitignore for GoHugo](https://kollitsch.de/blog/2021/gitignore-for-gohugo/)
-- [Converting frontmatter in GoHugo](https://kollitsch.de/blog/2021/converting-frontmatter-in-gohugo/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
