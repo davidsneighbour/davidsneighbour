@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 24, 2021 at 2:41 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/2)
+- (December 24, 2021 at 2:41 PM) [I&#39;m wondering few things about route Hugo in Production as static files server](https://discourse.gohugo.io/t/im-wondering-few-things-about-route-hugo-in-production-as-static-files-server/36207/2)
 - (December 24, 2021 at 2:38 PM) [Permalink with directory structure](https://discourse.gohugo.io/t/permalink-with-directory-structure/36203/2)
-- (December 24, 2021 at 2:34 PM) [Minification template tags for shortcodes](https://discourse.gohugo.io/t/minification-template-tags-for-shortcodes/36209/1)
-- (December 24, 2021 at 7:58 AM) [Shortcode supporting both closing and non-closing mode](https://discourse.gohugo.io/t/shortcode-supporting-both-closing-and-non-closing-mode/36196/2)
-- (December 24, 2021 at 7:54 AM) [Web Server is available at //localhost:24439?](https://discourse.gohugo.io/t/web-server-is-available-at-localhost-24439/36177/5)<!-- DISCOURSE:END -->
+- (December 24, 2021 at 2:34 PM) [Minification template tags for shortcodes](https://discourse.gohugo.io/t/minification-template-tags-for-shortcodes/36209/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
