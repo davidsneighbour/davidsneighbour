@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 25, 2021 at 1:20 PM) [Images don&#39;t load when site is deployed](https://discourse.gohugo.io/t/images-dont-load-when-site-is-deployed/36214/3)
 - (December 24, 2021 at 3:32 PM) [Minification template tags for shortcodes](https://discourse.gohugo.io/t/minification-template-tags-for-shortcodes/36209/3)
 - (December 24, 2021 at 2:54 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/4)
-- (December 24, 2021 at 2:41 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/2)
-- (December 24, 2021 at 2:41 PM) [I&#39;m wondering few things about route Hugo in Production as static files server](https://discourse.gohugo.io/t/im-wondering-few-things-about-route-hugo-in-production-as-static-files-server/36207/2)<!-- DISCOURSE:END -->
+- (December 24, 2021 at 2:41 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
