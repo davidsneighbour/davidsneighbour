@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 26, 2021 at 5:48 PM) [Table of Content won&#39;t jump to the section](https://discourse.gohugo.io/t/table-of-content-wont-jump-to-the-section/36223/4)
 - (December 26, 2021 at 12:51 PM) [Logical &quot;and&quot; in &quot;where&quot; query](https://discourse.gohugo.io/t/logical-and-in-where-query/3889/4)
 - (December 26, 2021 at 4:35 AM) [Table of Content won&#39;t jump to the section](https://discourse.gohugo.io/t/table-of-content-wont-jump-to-the-section/36223/2)
-- (December 25, 2021 at 1:20 PM) [Images don&#39;t load when site is deployed](https://discourse.gohugo.io/t/images-dont-load-when-site-is-deployed/36214/3)
-- (December 24, 2021 at 3:32 PM) [Minification template tags for shortcodes](https://discourse.gohugo.io/t/minification-template-tags-for-shortcodes/36209/3)<!-- DISCOURSE:END -->
+- (December 25, 2021 at 1:20 PM) [Images don&#39;t load when site is deployed](https://discourse.gohugo.io/t/images-dont-load-when-site-is-deployed/36214/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
