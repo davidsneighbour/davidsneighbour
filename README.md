@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 27, 2021 at 8:48 AM) [Hugo deployment failed in cloudflare](https://discourse.gohugo.io/t/hugo-deployment-failed-in-cloudflare/36231/2)
 - (December 27, 2021 at 8:44 AM) [Need help picking up issues for contributing to Hugo Development](https://discourse.gohugo.io/t/need-help-picking-up-issues-for-contributing-to-hugo-development/36230/2)
 - (December 26, 2021 at 5:48 PM) [Table of Content won&#39;t jump to the section](https://discourse.gohugo.io/t/table-of-content-wont-jump-to-the-section/36223/4)
-- (December 26, 2021 at 12:51 PM) [Logical &quot;and&quot; in &quot;where&quot; query](https://discourse.gohugo.io/t/logical-and-in-where-query/3889/4)
-- (December 26, 2021 at 4:35 AM) [Table of Content won&#39;t jump to the section](https://discourse.gohugo.io/t/table-of-content-wont-jump-to-the-section/36223/2)<!-- DISCOURSE:END -->
+- (December 26, 2021 at 12:51 PM) [Logical &quot;and&quot; in &quot;where&quot; query](https://discourse.gohugo.io/t/logical-and-in-where-query/3889/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
