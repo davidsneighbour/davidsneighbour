@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 28, 2021 at 5:21 PM) [Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/install-hugo-warning-message-and-permission-denied/36244/4)
 - (December 28, 2021 at 2:21 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/6)
 - (December 28, 2021 at 2:06 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/4)
-- (December 28, 2021 at 1:30 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/2)
-- (December 28, 2021 at 12:40 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/4)<!-- DISCOURSE:END -->
+- (December 28, 2021 at 1:30 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
