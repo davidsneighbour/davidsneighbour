@@ -42,7 +42,7 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 28, 2021 at 5:21 PM) [Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/install-hugo-warning-message-and-permission-denied/36244/4)
+- (December 28, 2021 at 5:21 PM) [Rstudio/blogdown: Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/rstudio-blogdown-install-hugo-warning-message-and-permission-denied/36244/4)
 - (December 28, 2021 at 2:21 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/6)
 - (December 28, 2021 at 2:06 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/4)
 - (December 28, 2021 at 1:30 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/2)<!-- DISCOURSE:END -->
