@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 28, 2021 at 12:40 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/4)
+- (December 28, 2021 at 12:29 PM) [Great Theme But Missing Certain Pages](https://discourse.gohugo.io/t/great-theme-but-missing-certain-pages/36241/2)
 - (December 28, 2021 at 12:24 PM) [Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/install-hugo-warning-message-and-permission-denied/36244/2)
-- (December 28, 2021 at 12:21 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/2)
-- (December 28, 2021 at 12:19 PM) [Why: Blackfriday will eventually be deprecated?](https://discourse.gohugo.io/t/why-blackfriday-will-eventually-be-deprecated/36247/2)
-- (December 28, 2021 at 12:17 PM) [Issue with posting a new .md](https://discourse.gohugo.io/t/issue-with-posting-a-new-md/36233/9)<!-- DISCOURSE:END -->
+- (December 28, 2021 at 12:21 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
