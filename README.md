@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 29, 2021 at 5:38 AM) [WARN 2021/12/28 23:49:11 Page.URL is deprecated and will be removed in a future release. Use .Permalink or .RelPermalink. If what you want is the front matter URL value, use .Params.url](https://discourse.gohugo.io/t/warn-2021-12-28-2311-page-url-is-deprecated-and-will-be-removed-in-a-future-release-use-permalink-or-relpermalink-if-what-you-want-is-the-front-matter-url-value-use-params-url/36254/2)
 - (December 28, 2021 at 5:21 PM) [Rstudio/blogdown: Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/rstudio-blogdown-install-hugo-warning-message-and-permission-denied/36244/4)
 - (December 28, 2021 at 2:21 PM) [Sorting sitemap.xml pages &lpar;?&rpar;](https://discourse.gohugo.io/t/sorting-sitemap-xml-pages/36245/6)
-- (December 28, 2021 at 2:06 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/4)
-- (December 28, 2021 at 1:30 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/2)<!-- DISCOURSE:END -->
+- (December 28, 2021 at 2:06 PM) [Using archetypes](https://discourse.gohugo.io/t/using-archetypes/36250/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
