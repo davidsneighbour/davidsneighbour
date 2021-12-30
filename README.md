@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (December 30, 2021 at 8:44 AM) [Shortcode rendering `.Content` not updating on page change](https://discourse.gohugo.io/t/shortcode-rendering-content-not-updating-on-page-change/36273/2)
 - (December 29, 2021 at 12:59 PM) [Show taxonomy content if defined](https://discourse.gohugo.io/t/show-taxonomy-content-if-defined/36257/4)
 - (December 29, 2021 at 9:02 AM) [Show taxonomy content if defined](https://discourse.gohugo.io/t/show-taxonomy-content-if-defined/36257/1)
-- (December 29, 2021 at 5:38 AM) [Console warning: Page.URL is deprecated](https://discourse.gohugo.io/t/console-warning-page-url-is-deprecated/36254/2)
-- (December 28, 2021 at 5:21 PM) [Rstudio/blogdown: Install_hugo&lpar;&rpar; warning message and permission denied](https://discourse.gohugo.io/t/rstudio-blogdown-install-hugo-warning-message-and-permission-denied/36244/4)<!-- DISCOURSE:END -->
+- (December 29, 2021 at 5:38 AM) [Console warning: Page.URL is deprecated](https://discourse.gohugo.io/t/console-warning-page-url-is-deprecated/36254/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
