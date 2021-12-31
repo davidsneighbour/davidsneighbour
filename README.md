@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (December 30, 2021 at 10:31 AM) [Tags Within Sections](https://discourse.gohugo.io/t/tags-within-sections/36276/2)
-- (December 30, 2021 at 8:44 AM) [Shortcode rendering `.Content` not updating on page change](https://discourse.gohugo.io/t/shortcode-rendering-content-not-updating-on-page-change/36273/2)
-- (December 29, 2021 at 12:59 PM) [Show taxonomy content if defined](https://discourse.gohugo.io/t/show-taxonomy-content-if-defined/36257/4)
-- (December 29, 2021 at 9:02 AM) [Show taxonomy content if defined](https://discourse.gohugo.io/t/show-taxonomy-content-if-defined/36257/1)<!-- DISCOURSE:END -->
+- (December 31, 2021 at 2:03 AM) [Fotnotes in orgmode: The anchors seem wrong](https://discourse.gohugo.io/t/fotnotes-in-orgmode-the-anchors-seem-wrong/36283/4)
+- (December 31, 2021 at 2:00 AM) [[QUESTION] subset possibilities per font](https://discourse.gohugo.io/t/question-subset-possibilities-per-font/36284/2)
+- (December 31, 2021 at 1:52 AM) [Fotnotes in orgmode: The anchors seem wrong](https://discourse.gohugo.io/t/fotnotes-in-orgmode-the-anchors-seem-wrong/36283/2)
+- (December 31, 2021 at 1:48 AM) [How to add this script to Hugo?](https://discourse.gohugo.io/t/how-to-add-this-script-to-hugo/36281/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
