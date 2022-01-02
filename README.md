@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 2, 2022 at 5:47 AM) [Why is site description not a site variable?](https://discourse.gohugo.io/t/why-is-site-description-not-a-site-variable/36310/2)
 - (January 2, 2022 at 1:46 AM) [Configuring params.toml](https://discourse.gohugo.io/t/configuring-params-toml/36312/3)
 - (December 31, 2021 at 2:03 AM) [Fotnotes in orgmode: The anchors seem wrong](https://discourse.gohugo.io/t/fotnotes-in-orgmode-the-anchors-seem-wrong/36283/4)
-- (December 31, 2021 at 2:00 AM) [[QUESTION] subset possibilities per font](https://discourse.gohugo.io/t/question-subset-possibilities-per-font/36284/2)
-- (December 31, 2021 at 1:52 AM) [Fotnotes in orgmode: The anchors seem wrong](https://discourse.gohugo.io/t/fotnotes-in-orgmode-the-anchors-seem-wrong/36283/2)<!-- DISCOURSE:END -->
+- (December 31, 2021 at 2:00 AM) [[QUESTION] subset possibilities per font](https://discourse.gohugo.io/t/question-subset-possibilities-per-font/36284/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
