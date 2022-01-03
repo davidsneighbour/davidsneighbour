@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 3, 2022 at 3:23 PM) [Problem loading character ½ when using getJSON](https://discourse.gohugo.io/t/problem-loading-character-when-using-getjson/36339/2)
 - (January 3, 2022 at 1:32 PM) [Recursion in hugo](https://discourse.gohugo.io/t/recursion-in-hugo/36337/2)
 - (January 2, 2022 at 10:12 AM) [Why is site description not a site variable?](https://discourse.gohugo.io/t/why-is-site-description-not-a-site-variable/36310/4)
-- (January 2, 2022 at 8:18 AM) [Configuring params.toml](https://discourse.gohugo.io/t/configuring-params-toml/36312/5)
-- (January 2, 2022 at 5:47 AM) [Why is site description not a site variable?](https://discourse.gohugo.io/t/why-is-site-description-not-a-site-variable/36310/2)<!-- DISCOURSE:END -->
+- (January 2, 2022 at 8:18 AM) [Configuring params.toml](https://discourse.gohugo.io/t/configuring-params-toml/36312/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
