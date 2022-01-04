@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Just another New Year](https://kollitsch.de/blog/2022/just-another-new-year/)
 - [Music for the New Year](https://kollitsch.de/blog/2021/music-for-the-new-year/)
 - [Earth&#39;s Black Box](https://kollitsch.de/blog/2021/earths-black-box/)
 - [Hyper Shell](https://kollitsch.de/blog/2021/hyper-shell/)
 - [You got to...](https://kollitsch.de/blog/2021/you-got-to/)
-- [.gitignore for GoHugo](https://kollitsch.de/blog/2021/gitignore-for-gohugo/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
