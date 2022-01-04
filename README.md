@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 4, 2022 at 1:02 PM) [Automatic anchor links for paragraphs?](https://discourse.gohugo.io/t/automatic-anchor-links-for-paragraphs/36358/4)
 - (January 4, 2022 at 12:00 PM) [Automatic anchor links for paragraphs?](https://discourse.gohugo.io/t/automatic-anchor-links-for-paragraphs/36358/2)
 - (January 4, 2022 at 11:57 AM) [Get resource from page bundle OR the assets dir?](https://discourse.gohugo.io/t/get-resource-from-page-bundle-or-the-assets-dir/36340/15)
-- (January 4, 2022 at 11:45 AM) [Why &#39;slug&#39; and not &#39;permalink&#39;](https://discourse.gohugo.io/t/why-slug-and-not-permalink/36359/2)
-- (January 3, 2022 at 3:23 PM) [Problem loading character ½ when using getJSON](https://discourse.gohugo.io/t/problem-loading-character-when-using-getjson/36339/2)<!-- DISCOURSE:END -->
+- (January 4, 2022 at 11:45 AM) [Why &#39;slug&#39; and not &#39;permalink&#39;](https://discourse.gohugo.io/t/why-slug-and-not-permalink/36359/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
