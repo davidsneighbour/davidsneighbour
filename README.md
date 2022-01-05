@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 5, 2022 at 4:14 PM) [Disable redirect pages or add my own template](https://discourse.gohugo.io/t/disable-redirect-pages-or-add-my-own-template/36379/3)
 - (January 5, 2022 at 3:03 PM) [Disable redirect pages or add my own template](https://discourse.gohugo.io/t/disable-redirect-pages-or-add-my-own-template/36379/1)
 - (January 5, 2022 at 7:45 AM) [Why &#39;slug&#39; and not &#39;permalink&#39;](https://discourse.gohugo.io/t/why-slug-and-not-permalink/36359/6)
-- (January 4, 2022 at 4:31 PM) [Why &#39;slug&#39; and not &#39;permalink&#39;](https://discourse.gohugo.io/t/why-slug-and-not-permalink/36359/4)
-- (January 4, 2022 at 1:43 PM) [Automatic anchor links for paragraphs?](https://discourse.gohugo.io/t/automatic-anchor-links-for-paragraphs/36358/6)<!-- DISCOURSE:END -->
+- (January 4, 2022 at 4:31 PM) [Why &#39;slug&#39; and not &#39;permalink&#39;](https://discourse.gohugo.io/t/why-slug-and-not-permalink/36359/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
