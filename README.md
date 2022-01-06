@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 6, 2022 at 1:34 PM) [How do I set the max-height of the syntax highlighter code block?](https://discourse.gohugo.io/t/how-do-i-set-the-max-height-of-the-syntax-highlighter-code-block/36395/4)
 - (January 6, 2022 at 1:26 PM) [How do I set the max-height of the syntax highlighter code block?](https://discourse.gohugo.io/t/how-do-i-set-the-max-height-of-the-syntax-highlighter-code-block/36395/2)
 - (January 6, 2022 at 1:21 PM) [Is it possible to use Hugo mounts within `postcss.config.js`?](https://discourse.gohugo.io/t/is-it-possible-to-use-hugo-mounts-within-postcss-config-js/36388/2)
-- (January 6, 2022 at 1:11 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/9)
-- (January 6, 2022 at 4:27 AM) [Do not redirect to 404, when subpage is missing?](https://discourse.gohugo.io/t/do-not-redirect-to-404-when-subpage-is-missing/36385/2)<!-- DISCOURSE:END -->
+- (January 6, 2022 at 1:11 PM) [Table of Content - How do you exclude it from picking Blogquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blogquotes-heading/36208/9)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
