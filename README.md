@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 7, 2022 at 1:36 PM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/3)
 - (January 7, 2022 at 12:45 PM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/1)
 - (January 6, 2022 at 3:17 PM) [Table of Content - How do you exclude it from picking Blockquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blockquotes-heading/36208/13)
-- (January 6, 2022 at 3:04 PM) [Using .GetRemote on image puts the resource in root](https://discourse.gohugo.io/t/using-getremote-on-image-puts-the-resource-in-root/36397/2)
-- (January 6, 2022 at 3:02 PM) [Table of Content - How do you exclude it from picking Blockquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blockquotes-heading/36208/11)<!-- DISCOURSE:END -->
+- (January 6, 2022 at 3:04 PM) [Using .GetRemote on image puts the resource in root](https://discourse.gohugo.io/t/using-getremote-on-image-puts-the-resource-in-root/36397/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
