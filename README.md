@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 8, 2022 at 9:28 AM) [Shortcode failing with nested {{ if }}](https://discourse.gohugo.io/t/shortcode-failing-with-nested-if/36424/2)
 - (January 8, 2022 at 3:12 AM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/6)
 - (January 7, 2022 at 1:36 PM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/3)
-- (January 7, 2022 at 12:45 PM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/1)
-- (January 6, 2022 at 3:17 PM) [Table of Content - How do you exclude it from picking Blockquotes heading](https://discourse.gohugo.io/t/table-of-content-how-do-you-exclude-it-from-picking-blockquotes-heading/36208/13)<!-- DISCOURSE:END -->
+- (January 7, 2022 at 12:45 PM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/1)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
