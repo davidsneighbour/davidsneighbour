@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 10, 2022 at 11:27 AM) [Custom AM/PM output question on .LastMod.Format](https://discourse.gohugo.io/t/custom-am-pm-output-question-on-lastmod-format/36487/3)
+- (January 10, 2022 at 11:22 AM) [How to trigger PostCSS build on every detected change?](https://discourse.gohugo.io/t/how-to-trigger-postcss-build-on-every-detected-change/36485/4)
 - (January 10, 2022 at 11:13 AM) [How to write tests for a Hugo website?](https://discourse.gohugo.io/t/how-to-write-tests-for-a-hugo-website/36477/2)
-- (January 9, 2022 at 1:34 AM) [Leaf Bundle Resources in Templates](https://discourse.gohugo.io/t/leaf-bundle-resources-in-templates/36458/2)
-- (January 8, 2022 at 9:28 AM) [Shortcode failing with nested {{ if }}](https://discourse.gohugo.io/t/shortcode-failing-with-nested-if/36424/2)
-- (January 8, 2022 at 3:12 AM) [Pagination returns pages NOT in mainSections](https://discourse.gohugo.io/t/pagination-returns-pages-not-in-mainsections/36406/6)<!-- DISCOURSE:END -->
+- (January 9, 2022 at 1:34 AM) [Leaf Bundle Resources in Templates](https://discourse.gohugo.io/t/leaf-bundle-resources-in-templates/36458/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
