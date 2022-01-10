@@ -44,7 +44,7 @@ I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 <!-- DISCOURSE:START -->
 - (January 10, 2022 at 11:31 AM) [Private hugo modules not working even though go get works fine](https://discourse.gohugo.io/t/private-hugo-modules-not-working-even-though-go-get-works-fine/36474/3)
 - (January 10, 2022 at 11:27 AM) [Custom AM/PM output question on .LastMod.Format](https://discourse.gohugo.io/t/custom-am-pm-output-question-on-lastmod-format/36487/3)
-- (January 10, 2022 at 11:22 AM) [How to trigger a PostCSS build through Hugo Pipes on every detected change?](https://discourse.gohugo.io/t/how-to-trigger-a-postcss-build-through-hugo-pipes-on-every-detected-change/36485/4)
+- (January 10, 2022 at 11:22 AM) [How to trigger a Hugo Pipes&#39; PostCSS build on every change/server reload in development?](https://discourse.gohugo.io/t/how-to-trigger-a-hugo-pipes-postcss-build-on-every-change-server-reload-in-development/36485/4)
 - (January 10, 2022 at 11:13 AM) [How to write tests for a Hugo website?](https://discourse.gohugo.io/t/how-to-write-tests-for-a-hugo-website/36477/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
