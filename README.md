@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 11, 2022 at 12:34 PM) [How would you add a javascript Ressource &lpar;Branch Bundle&rpar; that requires type=&quot;module&quot;](https://discourse.gohugo.io/t/how-would-you-add-a-javascript-ressource-branch-bundle-that-requires-type-module/36503/2)
 - (January 11, 2022 at 9:22 AM) [Question about implementation](https://discourse.gohugo.io/t/question-about-implementation/36499/4)
 - (January 10, 2022 at 11:31 AM) [Private hugo modules not working even though go get works fine](https://discourse.gohugo.io/t/private-hugo-modules-not-working-even-though-go-get-works-fine/36474/3)
-- (January 10, 2022 at 11:27 AM) [Custom AM/PM output question on .LastMod.Format](https://discourse.gohugo.io/t/custom-am-pm-output-question-on-lastmod-format/36487/3)
-- (January 10, 2022 at 11:22 AM) [How to trigger a resource re-build on every change/server reload in development?](https://discourse.gohugo.io/t/how-to-trigger-a-resource-re-build-on-every-change-server-reload-in-development/36485/4)<!-- DISCOURSE:END -->
+- (January 10, 2022 at 11:27 AM) [Custom AM/PM output question on .LastMod.Format](https://discourse.gohugo.io/t/custom-am-pm-output-question-on-lastmod-format/36487/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
