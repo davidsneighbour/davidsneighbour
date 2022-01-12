@@ -23,4 +23,4 @@ jobs:
         name: Load latest blog posts on kollitsch.de
         with:
           comment_tag_name: "KOLLITSCH"
-          feed_list: "https://kollitsch.de/index.xml"
+          feed_list: "https://kollitsch.de/rss.xml"
