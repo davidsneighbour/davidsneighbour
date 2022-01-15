@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 13, 2022 at 3:43 AM) [Dark theme issues](https://discourse.gohugo.io/t/dark-theme-issues/36532/4)
-- (January 12, 2022 at 7:26 AM) [Ordering both .RegularPages and .Sections](https://discourse.gohugo.io/t/ordering-both-regularpages-and-sections/36514/2)
-- (January 11, 2022 at 12:34 PM) [How would you add a javascript Ressource &lpar;Branch Bundle&rpar; that requires type=&quot;module&quot;](https://discourse.gohugo.io/t/how-would-you-add-a-javascript-ressource-branch-bundle-that-requires-type-module/36503/2)
-- (January 11, 2022 at 9:22 AM) [Question about implementation](https://discourse.gohugo.io/t/question-about-implementation/36499/4)<!-- DISCOURSE:END -->
+- (January 14, 2022 at 2:28 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/8)
+- (January 14, 2022 at 2:27 PM) [Future date](https://discourse.gohugo.io/t/future-date/36561/12)
+- (January 14, 2022 at 2:20 PM) [Future date](https://discourse.gohugo.io/t/future-date/36561/10)
+- (January 14, 2022 at 2:19 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
