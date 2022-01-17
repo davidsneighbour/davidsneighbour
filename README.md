@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 14, 2022 at 2:28 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/8)
-- (January 14, 2022 at 2:27 PM) [Future date](https://discourse.gohugo.io/t/future-date/36561/12)
-- (January 14, 2022 at 2:20 PM) [Future date](https://discourse.gohugo.io/t/future-date/36561/10)
-- (January 14, 2022 at 2:19 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/6)<!-- DISCOURSE:END -->
+- (January 16, 2022 at 12:28 PM) [Convert i18n/*.toml -&gt; *.json](https://discourse.gohugo.io/t/convert-i18n-toml-json/36598/5)
+- (January 16, 2022 at 7:16 AM) [Hugo new command](https://discourse.gohugo.io/t/hugo-new-command/36591/3)
+- (January 16, 2022 at 7:14 AM) [Invalid timeZone for language &quot;en&quot;](https://discourse.gohugo.io/t/invalid-timezone-for-language-en/36583/5)
+- (January 14, 2022 at 2:28 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/8)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
