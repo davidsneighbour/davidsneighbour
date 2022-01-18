@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 16, 2022 at 12:28 PM) [Convert i18n/*.toml -&gt; *.json](https://discourse.gohugo.io/t/convert-i18n-toml-json/36598/5)
-- (January 16, 2022 at 7:16 AM) [Hugo new command](https://discourse.gohugo.io/t/hugo-new-command/36591/3)
-- (January 16, 2022 at 7:14 AM) [Invalid timeZone for language &quot;en&quot;](https://discourse.gohugo.io/t/invalid-timezone-for-language-en/36583/5)
-- (January 14, 2022 at 2:28 PM) [Multilingual website with two different home pages &lpar;one for each language&rpar;](https://discourse.gohugo.io/t/multilingual-website-with-two-different-home-pages-one-for-each-language/36562/8)<!-- DISCOURSE:END -->
+- (January 17, 2022 at 1:44 PM) [Hugo new command](https://discourse.gohugo.io/t/hugo-new-command/36591/7)
+- (January 17, 2022 at 12:36 PM) [Render Hooks Doesn&#39;t work in Frontmatter](https://discourse.gohugo.io/t/render-hooks-doesnt-work-in-frontmatter/36614/3)
+- (January 17, 2022 at 12:23 PM) [Launching editor upon content creation with v0.90.0 and later](https://discourse.gohugo.io/t/launching-editor-upon-content-creation-with-v0-90-0-and-later/36421/5)
+- (January 17, 2022 at 12:19 PM) [How to identify source of minification error?](https://discourse.gohugo.io/t/how-to-identify-source-of-minification-error/36604/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
