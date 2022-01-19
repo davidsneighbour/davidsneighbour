@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 18, 2022 at 11:08 AM) [Guidance on translations](https://discourse.gohugo.io/t/guidance-on-translations/36627/2)
+- (January 18, 2022 at 5:55 AM) [Turning a theme &lpar;with dependencies&rpar; into a module while maintaining compatibility](https://discourse.gohugo.io/t/turning-a-theme-with-dependencies-into-a-module-while-maintaining-compatibility/36615/2)
 - (January 17, 2022 at 1:44 PM) [Hugo new command](https://discourse.gohugo.io/t/hugo-new-command/36591/7)
-- (January 17, 2022 at 12:36 PM) [Render Hooks Doesn&#39;t work in Frontmatter](https://discourse.gohugo.io/t/render-hooks-doesnt-work-in-frontmatter/36614/3)
-- (January 17, 2022 at 12:23 PM) [Launching editor upon content creation with v0.90.0 and later](https://discourse.gohugo.io/t/launching-editor-upon-content-creation-with-v0-90-0-and-later/36421/5)
-- (January 17, 2022 at 12:19 PM) [How to identify source of minification error?](https://discourse.gohugo.io/t/how-to-identify-source-of-minification-error/36604/2)<!-- DISCOURSE:END -->
+- (January 17, 2022 at 12:36 PM) [Render Hooks Doesn&#39;t work in Frontmatter](https://discourse.gohugo.io/t/render-hooks-doesnt-work-in-frontmatter/36614/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
