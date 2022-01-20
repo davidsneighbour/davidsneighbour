@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Google&#39;s new &lpar;?&rpar; Not Found animation](https://kollitsch.de/blog/2022/googles-new-not-found-animation/)
 - [Music to program to &lpar;Part II&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-2/)
 - [Just another New Year](https://kollitsch.de/blog/2022/just-another-new-year/)
 - [Music for the New Year](https://kollitsch.de/blog/2021/music-for-the-new-year/)
 - [Earth&#39;s Black Box](https://kollitsch.de/blog/2021/earths-black-box/)
-- [Hyper Shell](https://kollitsch.de/blog/2021/hyper-shell/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
