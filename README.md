@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 19, 2022 at 12:14 PM) [Live Reload not working for assets](https://discourse.gohugo.io/t/live-reload-not-working-for-assets/36633/6)
-- (January 19, 2022 at 8:59 AM) [Use Windi Css](https://discourse.gohugo.io/t/use-windi-css/36646/5)
-- (January 19, 2022 at 8:41 AM) [Guidance on translations](https://discourse.gohugo.io/t/guidance-on-translations/36627/7)
-- (January 19, 2022 at 5:55 AM) [Render Hooks Doesn&#39;t work in Frontmatter](https://discourse.gohugo.io/t/render-hooks-doesnt-work-in-frontmatter/36614/6)<!-- DISCOURSE:END -->
+- (January 20, 2022 at 3:05 PM) [Need help with replacing &#39;theme&#39; with module imports](https://discourse.gohugo.io/t/need-help-with-replacing-theme-with-module-imports/36677/5)
+- (January 20, 2022 at 2:00 PM) [HUGO Acronym](https://discourse.gohugo.io/t/hugo-acronym/36668/3)
+- (January 20, 2022 at 1:58 PM) [Printful Integration](https://discourse.gohugo.io/t/printful-integration/36664/2)
+- (January 20, 2022 at 1:55 PM) [Exclude section from sitemap](https://discourse.gohugo.io/t/exclude-section-from-sitemap/36675/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
