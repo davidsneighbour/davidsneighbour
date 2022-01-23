@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 20, 2022 at 3:05 PM) [Need help with replacing &#39;theme&#39; with module imports](https://discourse.gohugo.io/t/need-help-with-replacing-theme-with-module-imports/36677/5)
-- (January 20, 2022 at 2:00 PM) [HUGO Acronym](https://discourse.gohugo.io/t/hugo-acronym/36668/3)
-- (January 20, 2022 at 1:58 PM) [Printful Integration](https://discourse.gohugo.io/t/printful-integration/36664/2)
-- (January 20, 2022 at 1:55 PM) [Exclude section from sitemap](https://discourse.gohugo.io/t/exclude-section-from-sitemap/36675/2)<!-- DISCOURSE:END -->
+- (January 22, 2022 at 7:31 PM) [Best way to create modals and populate them with data](https://discourse.gohugo.io/t/best-way-to-create-modals-and-populate-them-with-data/36730/2)
+- (January 22, 2022 at 1:05 PM) [Double quotes in params breaking build](https://discourse.gohugo.io/t/double-quotes-in-params-breaking-build/36728/7)
+- (January 22, 2022 at 12:25 PM) [[Hugo][Netlify] How can i add &quot;last modified&quot; line to my article if i edit the published posts with Netlify CMS?](https://discourse.gohugo.io/t/hugo-netlify-how-can-i-add-last-modified-line-to-my-article-if-i-edit-the-published-posts-with-netlify-cms/36726/4)
+- (January 22, 2022 at 12:15 PM) [Double quotes in params breaking build](https://discourse.gohugo.io/t/double-quotes-in-params-breaking-build/36728/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
