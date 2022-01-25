@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 24, 2022 at 11:56 AM) [Run PostCSS only when Markdown file changes](https://discourse.gohugo.io/t/run-postcss-only-when-markdown-file-changes/36740/3)
+- (January 24, 2022 at 11:52 AM) [Syntax highlighting seems to fail on some languages](https://discourse.gohugo.io/t/syntax-highlighting-seems-to-fail-on-some-languages/36737/4)
 - (January 23, 2022 at 11:25 AM) [\config.toml:4:9&quot;: unmarshal failed: toml: incomplete number](https://discourse.gohugo.io/t/config-toml9-unmarshal-failed-toml-incomplete-number/36733/3)
-- (January 22, 2022 at 7:31 PM) [Best way to create modals and populate them with data](https://discourse.gohugo.io/t/best-way-to-create-modals-and-populate-them-with-data/36730/2)
-- (January 22, 2022 at 1:05 PM) [Double quotes in params breaking build](https://discourse.gohugo.io/t/double-quotes-in-params-breaking-build/36728/7)
-- (January 22, 2022 at 12:25 PM) [[Hugo][Netlify] How can i add &quot;last modified&quot; line to my article if i edit the published posts with Netlify CMS?](https://discourse.gohugo.io/t/hugo-netlify-how-can-i-add-last-modified-line-to-my-article-if-i-edit-the-published-posts-with-netlify-cms/36726/4)<!-- DISCOURSE:END -->
+- (January 22, 2022 at 7:31 PM) [Best way to create modals and populate them with data](https://discourse.gohugo.io/t/best-way-to-create-modals-and-populate-them-with-data/36730/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
