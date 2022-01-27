@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 24, 2022 at 11:56 AM) [Run PostCSS only when Markdown file changes](https://discourse.gohugo.io/t/run-postcss-only-when-markdown-file-changes/36740/3)
-- (January 24, 2022 at 11:52 AM) [Syntax highlighting seems to fail on some languages](https://discourse.gohugo.io/t/syntax-highlighting-seems-to-fail-on-some-languages/36737/4)
-- (January 23, 2022 at 11:25 AM) [\config.toml:4:9&quot;: unmarshal failed: toml: incomplete number](https://discourse.gohugo.io/t/config-toml9-unmarshal-failed-toml-incomplete-number/36733/3)
-- (January 22, 2022 at 7:31 PM) [Best way to create modals and populate them with data](https://discourse.gohugo.io/t/best-way-to-create-modals-and-populate-them-with-data/36730/2)<!-- DISCOURSE:END -->
+- (January 26, 2022 at 8:15 AM) [Execute script at end of build?](https://discourse.gohugo.io/t/execute-script-at-end-of-build/36780/2)
+- (January 26, 2022 at 8:14 AM) [Page Resources vs Netlify Transform images](https://discourse.gohugo.io/t/page-resources-vs-netlify-transform-images/36783/3)
+- (January 26, 2022 at 1:23 AM) [Run PostCSS only when Markdown file changes](https://discourse.gohugo.io/t/run-postcss-only-when-markdown-file-changes/36740/10)
+- (January 26, 2022 at 1:14 AM) [Render Nested JSON Array into a YAML template](https://discourse.gohugo.io/t/render-nested-json-array-into-a-yaml-template/36776/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
