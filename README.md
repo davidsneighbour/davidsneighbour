@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (January 27, 2022 at 2:23 PM) [How can I change the default language in Educenter?](https://discourse.gohugo.io/t/how-can-i-change-the-default-language-in-educenter/36801/4)
 - (January 26, 2022 at 8:15 AM) [Execute script at end of build?](https://discourse.gohugo.io/t/execute-script-at-end-of-build/36780/2)
 - (January 26, 2022 at 8:14 AM) [Page Resources vs Netlify Transform images](https://discourse.gohugo.io/t/page-resources-vs-netlify-transform-images/36783/3)
-- (January 26, 2022 at 1:23 AM) [Run PostCSS only when Markdown file changes](https://discourse.gohugo.io/t/run-postcss-only-when-markdown-file-changes/36740/10)
-- (January 26, 2022 at 1:14 AM) [Render Nested JSON Array into a YAML template](https://discourse.gohugo.io/t/render-nested-json-array-into-a-yaml-template/36776/2)<!-- DISCOURSE:END -->
+- (January 26, 2022 at 1:23 AM) [Run PostCSS only when Markdown file changes](https://discourse.gohugo.io/t/run-postcss-only-when-markdown-file-changes/36740/10)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
