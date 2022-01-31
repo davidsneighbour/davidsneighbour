@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (January 28, 2022 at 1:27 PM) [Cool sites that run Hugo](https://discourse.gohugo.io/t/cool-sites-that-run-hugo/36815/5)
-- (January 27, 2022 at 2:23 PM) [How can I change the default language in Educenter?](https://discourse.gohugo.io/t/how-can-i-change-the-default-language-in-educenter/36801/4)
-- (January 26, 2022 at 8:15 AM) [Execute script at end of build?](https://discourse.gohugo.io/t/execute-script-at-end-of-build/36780/2)
-- (January 26, 2022 at 8:14 AM) [Page Resources vs Netlify Transform images](https://discourse.gohugo.io/t/page-resources-vs-netlify-transform-images/36783/3)<!-- DISCOURSE:END -->
+- (January 30, 2022 at 3:48 PM) [Frontmatter dynamic date](https://discourse.gohugo.io/t/frontmatter-dynamic-date/36867/6)
+- (January 30, 2022 at 3:45 PM) [Filtering pages based on a page param in Hugo](https://discourse.gohugo.io/t/filtering-pages-based-on-a-page-param-in-hugo/36863/5)
+- (January 30, 2022 at 3:32 PM) [Frontmatter dynamic date](https://discourse.gohugo.io/t/frontmatter-dynamic-date/36867/4)
+- (January 30, 2022 at 1:46 PM) [Recommended Practices when building themes](https://discourse.gohugo.io/t/recommended-practices-when-building-themes/36858/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
