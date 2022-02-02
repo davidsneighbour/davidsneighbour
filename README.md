@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 1, 2022 at 9:23 AM) [Recommended Practices when building themes](https://discourse.gohugo.io/t/recommended-practices-when-building-themes/36858/5)
 - (January 31, 2022 at 9:05 AM) [Simpler way to cut this string?](https://discourse.gohugo.io/t/simpler-way-to-cut-this-string/36871/5)
 - (January 31, 2022 at 8:52 AM) [Module found, but does not contain package](https://discourse.gohugo.io/t/module-found-but-does-not-contain-package/36873/3)
-- (January 30, 2022 at 3:48 PM) [Frontmatter dynamic date](https://discourse.gohugo.io/t/frontmatter-dynamic-date/36867/6)
-- (January 30, 2022 at 3:45 PM) [Filtering pages based on a page param in Hugo](https://discourse.gohugo.io/t/filtering-pages-based-on-a-page-param-in-hugo/36863/5)<!-- DISCOURSE:END -->
+- (January 30, 2022 at 3:48 PM) [Frontmatter dynamic date](https://discourse.gohugo.io/t/frontmatter-dynamic-date/36867/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
