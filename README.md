@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 2, 2022 at 3:16 PM) [First stable release of dart-sass-embedded](https://discourse.gohugo.io/t/first-stable-release-of-dart-sass-embedded/36911/4)
-- (February 1, 2022 at 9:23 AM) [Recommended Practices when building themes](https://discourse.gohugo.io/t/recommended-practices-when-building-themes/36858/5)
-- (January 31, 2022 at 9:05 AM) [Simpler way to cut this string?](https://discourse.gohugo.io/t/simpler-way-to-cut-this-string/36871/5)
-- (January 31, 2022 at 8:52 AM) [Module found, but does not contain package](https://discourse.gohugo.io/t/module-found-but-does-not-contain-package/36873/3)<!-- DISCOURSE:END -->
+- (February 3, 2022 at 3:58 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/11)
+- (February 3, 2022 at 3:20 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/4)
+- (February 3, 2022 at 3:11 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/2)
+- (February 3, 2022 at 10:28 AM) [Grouping pages by parameter when parameter is not set](https://discourse.gohugo.io/t/grouping-pages-by-parameter-when-parameter-is-not-set/36946/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
