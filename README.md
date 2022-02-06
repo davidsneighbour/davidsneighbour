@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 3, 2022 at 3:58 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/11)
-- (February 3, 2022 at 3:20 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/4)
-- (February 3, 2022 at 3:11 PM) [Wrong URL: how to correct it?](https://discourse.gohugo.io/t/wrong-url-how-to-correct-it/36955/2)
-- (February 3, 2022 at 10:28 AM) [Grouping pages by parameter when parameter is not set](https://discourse.gohugo.io/t/grouping-pages-by-parameter-when-parameter-is-not-set/36946/6)<!-- DISCOURSE:END -->
+- (February 5, 2022 at 1:08 PM) [No existing content directory configured for this project](https://discourse.gohugo.io/t/no-existing-content-directory-configured-for-this-project/36995/2)
+- (February 5, 2022 at 1:05 PM) [Retrieve filename from readDir result](https://discourse.gohugo.io/t/retrieve-filename-from-readdir-result/36997/2)
+- (February 5, 2022 at 11:30 AM) [What is the best way to set up a one-off template?](https://discourse.gohugo.io/t/what-is-the-best-way-to-set-up-a-one-off-template/36990/4)
+- (February 5, 2022 at 11:21 AM) [Rendering Presentations made with Go&#39;s present tool](https://discourse.gohugo.io/t/rendering-presentations-made-with-gos-present-tool/8704/17)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
