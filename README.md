@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 6, 2022 at 4:43 AM) [Sitexml is broken](https://discourse.gohugo.io/t/sitexml-is-broken/36989/7)
+- (February 6, 2022 at 4:41 AM) [Defining a variant of a cached partial](https://discourse.gohugo.io/t/defining-a-variant-of-a-cached-partial/37008/2)
 - (February 5, 2022 at 1:08 PM) [No existing content directory configured for this project](https://discourse.gohugo.io/t/no-existing-content-directory-configured-for-this-project/36995/2)
-- (February 5, 2022 at 1:05 PM) [Retrieve filename from readDir result](https://discourse.gohugo.io/t/retrieve-filename-from-readdir-result/36997/2)
-- (February 5, 2022 at 11:30 AM) [What is the best way to set up a one-off template?](https://discourse.gohugo.io/t/what-is-the-best-way-to-set-up-a-one-off-template/36990/4)
-- (February 5, 2022 at 11:21 AM) [Rendering Presentations made with Go&#39;s present tool](https://discourse.gohugo.io/t/rendering-presentations-made-with-gos-present-tool/8704/17)<!-- DISCOURSE:END -->
+- (February 5, 2022 at 1:05 PM) [Retrieve filename from readDir result](https://discourse.gohugo.io/t/retrieve-filename-from-readdir-result/36997/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
