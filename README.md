@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 6, 2022 at 4:43 AM) [Sitexml is broken](https://discourse.gohugo.io/t/sitexml-is-broken/36989/7)
-- (February 6, 2022 at 4:41 AM) [Defining a variant of a cached partial](https://discourse.gohugo.io/t/defining-a-variant-of-a-cached-partial/37008/2)
-- (February 5, 2022 at 1:08 PM) [No existing content directory configured for this project](https://discourse.gohugo.io/t/no-existing-content-directory-configured-for-this-project/36995/2)
-- (February 5, 2022 at 1:05 PM) [Retrieve filename from readDir result](https://discourse.gohugo.io/t/retrieve-filename-from-readdir-result/36997/2)<!-- DISCOURSE:END -->
+- (February 7, 2022 at 1:07 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/6)
+- (February 7, 2022 at 12:19 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/3)
+- (February 7, 2022 at 12:17 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/2)
+- (February 7, 2022 at 11:51 AM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
