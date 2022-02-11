@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 7, 2022 at 1:07 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/6)
-- (February 7, 2022 at 12:19 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/3)
-- (February 7, 2022 at 12:17 PM) [Parsing dates yields different results](https://discourse.gohugo.io/t/parsing-dates-yields-different-results/37031/2)
-- (February 7, 2022 at 11:51 AM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/3)<!-- DISCOURSE:END -->
+- (February 10, 2022 at 2:25 PM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/25)
+- (February 10, 2022 at 2:06 PM) [Finding Count on a set of files with specific Front Matter](https://discourse.gohugo.io/t/finding-count-on-a-set-of-files-with-specific-front-matter/37089/4)
+- (February 10, 2022 at 1:41 PM) [Finding Count on a set of files with specific Front Matter](https://discourse.gohugo.io/t/finding-count-on-a-set-of-files-with-specific-front-matter/37089/2)
+- (February 10, 2022 at 1:13 PM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/22)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
