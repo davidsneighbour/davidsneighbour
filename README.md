@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 10, 2022 at 2:25 PM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/25)
-- (February 10, 2022 at 2:06 PM) [Finding Count on a set of files with specific Front Matter](https://discourse.gohugo.io/t/finding-count-on-a-set-of-files-with-specific-front-matter/37089/4)
-- (February 10, 2022 at 1:41 PM) [Finding Count on a set of files with specific Front Matter](https://discourse.gohugo.io/t/finding-count-on-a-set-of-files-with-specific-front-matter/37089/2)
-- (February 10, 2022 at 1:13 PM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/22)<!-- DISCOURSE:END -->
+- (February 12, 2022 at 3:52 PM) [DRY out this range?](https://discourse.gohugo.io/t/dry-out-this-range/37125/2)
+- (February 12, 2022 at 2:32 PM) [0.92.2 config parsing regression?](https://discourse.gohugo.io/t/0-92-2-config-parsing-regression/37117/8)
+- (February 12, 2022 at 1:01 PM) [Optimize .svg from asstets with svgo](https://discourse.gohugo.io/t/optimize-svg-from-asstets-with-svgo/37122/4)
+- (February 12, 2022 at 12:55 PM) [How do I set module cache directory to `~/.local/share/hugo` globally?](https://discourse.gohugo.io/t/how-do-i-set-module-cache-directory-to-local-share-hugo-globally/37118/13)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
