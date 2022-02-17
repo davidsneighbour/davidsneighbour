@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 16, 2022 at 10:39 AM) [Unexpected behaviour fetching a list of tags vs a single tag](https://discourse.gohugo.io/t/unexpected-behaviour-fetching-a-list-of-tags-vs-a-single-tag/37189/2)
 - (February 15, 2022 at 2:51 PM) [Suggested workflow for theme developers](https://discourse.gohugo.io/t/suggested-workflow-for-theme-developers/37172/2)
 - (February 15, 2022 at 2:48 PM) [[SOLVED] If ne &lpar;.Scratch.Get &quot;field&quot;&rpar; - not work&lpar;](https://discourse.gohugo.io/t/solved-if-ne-scratch-get-field-not-work/37174/8)
-- (February 15, 2022 at 2:46 PM) [Selecting a post by output format](https://discourse.gohugo.io/t/selecting-a-post-by-output-format/37175/2)
-- (February 15, 2022 at 2:42 PM) [Excluding taxonomies from sitemaps in multilingual sites](https://discourse.gohugo.io/t/excluding-taxonomies-from-sitemaps-in-multilingual-sites/37173/4)<!-- DISCOURSE:END -->
+- (February 15, 2022 at 2:46 PM) [Selecting a post by output format](https://discourse.gohugo.io/t/selecting-a-post-by-output-format/37175/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
