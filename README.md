@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 21, 2022 at 5:43 PM) [I don&#39;t want the blog to be the first page that opens on my website](https://discourse.gohugo.io/t/i-dont-want-the-blog-to-be-the-first-page-that-opens-on-my-website/37304/2)
-- (February 21, 2022 at 4:52 PM) [My thumbnail image and summary doesn&#39;t show up in links](https://discourse.gohugo.io/t/my-thumbnail-image-and-summary-doesnt-show-up-in-links/37296/7)
-- (February 21, 2022 at 4:50 PM) [Add overlay which spreads to full image](https://discourse.gohugo.io/t/add-overlay-which-spreads-to-full-image/37297/4)
-- (February 21, 2022 at 4:47 PM) [Hugo panic due to missing write permissions on /tmp/hugo_cache](https://discourse.gohugo.io/t/hugo-panic-due-to-missing-write-permissions-on-tmp-hugo-cache/37294/10)<!-- DISCOURSE:END -->
+- (February 22, 2022 at 6:59 PM) [generating URLs when blanks or capital letters in path](https://discourse.gohugo.io/t/generating-urls-when-blanks-or-capital-letters-in-path/37323/2)
+- (February 22, 2022 at 6:58 PM) [New to Hugo/Git - Cloudfare build Fails](https://discourse.gohugo.io/t/new-to-hugo-git-cloudfare-build-fails/37319/4)
+- (February 22, 2022 at 5:23 PM) [Beginners question: How to build the site correctly](https://discourse.gohugo.io/t/beginners-question-how-to-build-the-site-correctly/37320/5)
+- (February 22, 2022 at 4:53 PM) [Beginners question: How to build the site correctly](https://discourse.gohugo.io/t/beginners-question-how-to-build-the-site-correctly/37320/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
