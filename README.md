@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 22, 2022 at 6:59 PM) [generating URLs when blanks or capital letters in path](https://discourse.gohugo.io/t/generating-urls-when-blanks-or-capital-letters-in-path/37323/2)
-- (February 22, 2022 at 6:58 PM) [New to Hugo/Git - Cloudfare build Fails](https://discourse.gohugo.io/t/new-to-hugo-git-cloudfare-build-fails/37319/4)
-- (February 22, 2022 at 5:23 PM) [Beginners question: How to build the site correctly](https://discourse.gohugo.io/t/beginners-question-how-to-build-the-site-correctly/37320/5)
-- (February 22, 2022 at 4:53 PM) [Beginners question: How to build the site correctly](https://discourse.gohugo.io/t/beginners-question-how-to-build-the-site-correctly/37320/2)<!-- DISCOURSE:END -->
+- (February 23, 2022 at 12:31 PM) [Great community management](https://discourse.gohugo.io/t/great-community-management/37334/1)
+- (February 23, 2022 at 10:32 AM) [Failed to transform - path not found](https://discourse.gohugo.io/t/failed-to-transform-path-not-found/37309/10)
+- (February 23, 2022 at 10:11 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/1)
+- (February 23, 2022 at 10:00 AM) [New to Hugo/Git - Cloudfare build Fails](https://discourse.gohugo.io/t/new-to-hugo-git-cloudfare-build-fails/37319/22)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
