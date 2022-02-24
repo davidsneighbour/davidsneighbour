@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Creating a GPG Key for Github/Gitlab Deployment](https://kollitsch.de/blog/2022/creating-a-gpg-key-for-github-gitlab-deployment/)
 - [/uses](https://kollitsch.de/uses/)
 - [Notes from the Laboratory: January 2022](https://kollitsch.de/blog/2022/notes-from-the-laboratory-january-2022/)
 - [Google&#39;s new &lpar;?&rpar; Not Found animation](https://kollitsch.de/blog/2022/googles-new-not-found-animation/)
 - [Music to program to &lpar;Part II&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-2/)
-- [Just another New Year](https://kollitsch.de/blog/2022/just-another-new-year/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
