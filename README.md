@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 23, 2022 at 12:31 PM) [Great community management](https://discourse.gohugo.io/t/great-community-management/37334/1)
-- (February 23, 2022 at 10:32 AM) [Failed to transform - path not found](https://discourse.gohugo.io/t/failed-to-transform-path-not-found/37309/10)
-- (February 23, 2022 at 10:11 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/1)
-- (February 23, 2022 at 10:00 AM) [New to Hugo/Git - Cloudfare build Fails](https://discourse.gohugo.io/t/new-to-hugo-git-cloudfare-build-fails/37319/22)<!-- DISCOURSE:END -->
+- (February 24, 2022 at 7:38 AM) [String ending stops replaceRE from working](https://discourse.gohugo.io/t/string-ending-stops-replacere-from-working/37343/14)
+- (February 24, 2022 at 2:48 AM) [Off-Topic: Disable adblock in hugo](https://discourse.gohugo.io/t/off-topic-disable-adblock-in-hugo/37347/2)
+- (February 24, 2022 at 2:45 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/5)
+- (February 24, 2022 at 2:44 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
