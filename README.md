@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (February 26, 2022 at 2:37 AM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/35)
+- (February 26, 2022 at 2:33 AM) [Front matter using yaml get the type wrong](https://discourse.gohugo.io/t/front-matter-using-yaml-get-the-type-wrong/37363/6)
 - (February 24, 2022 at 7:38 AM) [String ending stops replaceRE from working](https://discourse.gohugo.io/t/string-ending-stops-replacere-from-working/37343/14)
-- (February 24, 2022 at 2:48 AM) [Off-Topic: Disable adblock in hugo](https://discourse.gohugo.io/t/off-topic-disable-adblock-in-hugo/37347/2)
-- (February 24, 2022 at 2:45 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/5)
-- (February 24, 2022 at 2:44 AM) [VSCode plugin frontmatter](https://discourse.gohugo.io/t/vscode-plugin-frontmatter/37331/4)<!-- DISCOURSE:END -->
+- (February 24, 2022 at 2:48 AM) [Off-Topic: Disable adblock in hugo](https://discourse.gohugo.io/t/off-topic-disable-adblock-in-hugo/37347/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
