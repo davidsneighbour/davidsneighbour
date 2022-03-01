@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 26, 2022 at 2:37 AM) [Cloudflare vs Netlify for Hugo](https://discourse.gohugo.io/t/cloudflare-vs-netlify-for-hugo/37018/35)
-- (February 26, 2022 at 2:33 AM) [Front matter using yaml get the type wrong](https://discourse.gohugo.io/t/front-matter-using-yaml-get-the-type-wrong/37363/6)
-- (February 24, 2022 at 7:38 AM) [String ending stops replaceRE from working](https://discourse.gohugo.io/t/string-ending-stops-replacere-from-working/37343/14)
-- (February 24, 2022 at 2:48 AM) [Off-Topic: Disable adblock in hugo](https://discourse.gohugo.io/t/off-topic-disable-adblock-in-hugo/37347/2)<!-- DISCOURSE:END -->
+- (February 28, 2022 at 3:21 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/10)
+- (February 28, 2022 at 3:11 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/8)
+- (February 28, 2022 at 2:51 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/6)
+- (February 28, 2022 at 2:40 PM) [Developers: What do you do to make your layout files &quot;debuggable&quot;](https://discourse.gohugo.io/t/developers-what-do-you-do-to-make-your-layout-files-debuggable/37403/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
