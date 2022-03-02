@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (February 28, 2022 at 3:21 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/10)
-- (February 28, 2022 at 3:11 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/8)
-- (February 28, 2022 at 2:51 PM) [Access params does not work in if condition](https://discourse.gohugo.io/t/access-params-does-not-work-in-if-condition/37404/6)
-- (February 28, 2022 at 2:40 PM) [Developers: What do you do to make your layout files &quot;debuggable&quot;](https://discourse.gohugo.io/t/developers-what-do-you-do-to-make-your-layout-files-debuggable/37403/5)<!-- DISCOURSE:END -->
+- (March 1, 2022 at 4:48 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/7)
+- (March 1, 2022 at 4:36 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/4)
+- (March 1, 2022 at 4:35 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/3)
+- (March 1, 2022 at 4:11 PM) [Preserve the #some anchor](https://discourse.gohugo.io/t/preserve-the-some-anchor/37413/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
