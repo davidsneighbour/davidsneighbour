@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Create a Branch From Within an Issue on Github](https://kollitsch.de/blog/2022/create-a-branch-from-within-an-issue-on-github/)
+- [Ubuntu, EFI and Acer](https://kollitsch.de/blog/2022/ubuntu-efi-and-acer/)
 - [Hugo Shortcode: Taglist](https://kollitsch.de/blog/2022/hugo-shortcode-taglist/)
 - [Notes from the Laboratory: February 2022](https://kollitsch.de/blog/2022/notes-from-the-laboratory-february-2022/)
 - [Creating a GPG Key for Github/Gitlab Deployment](https://kollitsch.de/blog/2022/creating-a-gpg-key-for-github-gitlab-deployment/)
-- [/uses](https://kollitsch.de/uses/)
-- [Notes from the Laboratory: January 2022](https://kollitsch.de/blog/2022/notes-from-the-laboratory-january-2022/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
