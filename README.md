@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 1, 2022 at 4:48 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/7)
-- (March 1, 2022 at 4:36 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/4)
-- (March 1, 2022 at 4:35 PM) [Add &lt;html lang=&quot;&quot;&gt; to META redirect pages &lpar;layout\alias.html&rpar;](https://discourse.gohugo.io/t/add-html-lang-to-meta-redirect-pages-layout-alias-html/37433/3)
-- (March 1, 2022 at 4:11 PM) [Preserve the #some anchor](https://discourse.gohugo.io/t/preserve-the-some-anchor/37413/5)<!-- DISCOURSE:END -->
+- (March 2, 2022 at 5:02 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/11)
+- (March 2, 2022 at 4:42 PM) [Can I get a page parameter from within a nested shortcode?](https://discourse.gohugo.io/t/can-i-get-a-page-parameter-from-within-a-nested-shortcode/37456/2)
+- (March 2, 2022 at 4:30 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/8)
+- (March 2, 2022 at 4:23 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/6)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
