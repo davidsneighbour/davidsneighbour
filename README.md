@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 2, 2022 at 5:02 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/11)
-- (March 2, 2022 at 4:42 PM) [Can I get a page parameter from within a nested shortcode?](https://discourse.gohugo.io/t/can-i-get-a-page-parameter-from-within-a-nested-shortcode/37456/2)
-- (March 2, 2022 at 4:30 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/8)
-- (March 2, 2022 at 4:23 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/6)<!-- DISCOURSE:END -->
+- (March 3, 2022 at 3:47 PM) [First and Last in category](https://discourse.gohugo.io/t/first-and-last-in-category/37474/6)
+- (March 3, 2022 at 3:36 PM) [First and Last in category](https://discourse.gohugo.io/t/first-and-last-in-category/37474/4)
+- (March 3, 2022 at 3:18 PM) [First and Last in category](https://discourse.gohugo.io/t/first-and-last-in-category/37474/2)
+- (March 3, 2022 at 2:12 PM) [Shortcode param &quot;override&quot; when rendering from list instead of page; how to find correct scope&lpar;?&rpar;](https://discourse.gohugo.io/t/shortcode-param-override-when-rendering-from-list-instead-of-page-how-to-find-correct-scope/37468/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
