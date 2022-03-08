@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 7, 2022 at 2:40 PM) [Need help in getting &quot;page&quot; heights to the right size](https://discourse.gohugo.io/t/need-help-in-getting-page-heights-to-the-right-size/37535/2)
+- (March 7, 2022 at 1:03 PM) [--renderToDisk: does it use less RAM on `hugo server`?](https://discourse.gohugo.io/t/rendertodisk-does-it-use-less-ram-on-hugo-server/37532/1)
 - (March 6, 2022 at 1:55 PM) [The compact view does not show links](https://discourse.gohugo.io/t/the-compact-view-does-not-show-links/37522/2)
-- (March 6, 2022 at 12:51 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/36)
-- (March 6, 2022 at 4:55 AM) [Closing old topics without bumping them up the list](https://discourse.gohugo.io/t/closing-old-topics-without-bumping-them-up-the-list/37512/3)
-- (March 3, 2022 at 3:47 PM) [First and Last in category](https://discourse.gohugo.io/t/first-and-last-in-category/37474/6)<!-- DISCOURSE:END -->
+- (March 6, 2022 at 12:51 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/36)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
