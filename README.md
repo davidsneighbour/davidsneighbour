@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 7, 2022 at 2:40 PM) [Need help in getting &quot;page&quot; heights to the right size](https://discourse.gohugo.io/t/need-help-in-getting-page-heights-to-the-right-size/37535/2)
-- (March 7, 2022 at 1:03 PM) [--renderToDisk: does it use less RAM on `hugo server`?](https://discourse.gohugo.io/t/rendertodisk-does-it-use-less-ram-on-hugo-server/37532/1)
-- (March 6, 2022 at 1:55 PM) [The compact view does not show links](https://discourse.gohugo.io/t/the-compact-view-does-not-show-links/37522/2)
-- (March 6, 2022 at 12:51 PM) [Hacker News is discussing Hugos documentation, pain points](https://discourse.gohugo.io/t/hacker-news-is-discussing-hugos-documentation-pain-points/37455/36)<!-- DISCOURSE:END -->
+- (March 8, 2022 at 3:31 PM) [Force Partial to respect document indentation](https://discourse.gohugo.io/t/force-partial-to-respect-document-indentation/37551/6)
+- (March 8, 2022 at 3:25 PM) [Proposal: Phase out `partial` lookup without suffix](https://discourse.gohugo.io/t/proposal-phase-out-partial-lookup-without-suffix/37556/3)
+- (March 8, 2022 at 3:20 PM) [Do you set `unsafe = true` in `[markup.goldmark.renderer]`?](https://discourse.gohugo.io/t/do-you-set-unsafe-true-in-markup-goldmark-renderer/37555/5)
+- (March 8, 2022 at 2:59 PM) [Do you set `unsafe = true` in `[markup.goldmark.renderer]`?](https://discourse.gohugo.io/t/do-you-set-unsafe-true-in-markup-goldmark-renderer/37555/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
