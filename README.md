@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 9, 2022 at 1:30 PM) [How to hide the footer or edit the url](https://discourse.gohugo.io/t/how-to-hide-the-footer-or-edit-the-url/37568/2)
+- (March 9, 2022 at 5:47 AM) [How to add content/posts on public folder?](https://discourse.gohugo.io/t/how-to-add-content-posts-on-public-folder/37559/2)
 - (March 8, 2022 at 3:31 PM) [Force Partial to respect document indentation](https://discourse.gohugo.io/t/force-partial-to-respect-document-indentation/37551/6)
-- (March 8, 2022 at 3:25 PM) [Proposal: Phase out `partial` lookup without suffix](https://discourse.gohugo.io/t/proposal-phase-out-partial-lookup-without-suffix/37556/3)
-- (March 8, 2022 at 3:20 PM) [Do you set `unsafe = true` in `[markup.goldmark.renderer]`?](https://discourse.gohugo.io/t/do-you-set-unsafe-true-in-markup-goldmark-renderer/37555/5)
-- (March 8, 2022 at 2:59 PM) [Do you set `unsafe = true` in `[markup.goldmark.renderer]`?](https://discourse.gohugo.io/t/do-you-set-unsafe-true-in-markup-goldmark-renderer/37555/3)<!-- DISCOURSE:END -->
+- (March 8, 2022 at 3:25 PM) [Proposal: Phase out `partial` lookup without suffix](https://discourse.gohugo.io/t/proposal-phase-out-partial-lookup-without-suffix/37556/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
