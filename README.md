@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 9, 2022 at 1:30 PM) [How to hide the footer or edit the url](https://discourse.gohugo.io/t/how-to-hide-the-footer-or-edit-the-url/37568/2)
-- (March 9, 2022 at 5:47 AM) [How to add content/posts on public folder?](https://discourse.gohugo.io/t/how-to-add-content-posts-on-public-folder/37559/2)
-- (March 8, 2022 at 3:31 PM) [Force Partial to respect document indentation](https://discourse.gohugo.io/t/force-partial-to-respect-document-indentation/37551/6)
-- (March 8, 2022 at 3:25 PM) [Proposal: Phase out `partial` lookup without suffix](https://discourse.gohugo.io/t/proposal-phase-out-partial-lookup-without-suffix/37556/3)<!-- DISCOURSE:END -->
+- (March 10, 2022 at 4:12 PM) [How to define layout in frontmatter](https://discourse.gohugo.io/t/how-to-define-layout-in-frontmatter/37405/7)
+- (March 10, 2022 at 4:04 PM) [What user cases are there for `noMounts` in module config?](https://discourse.gohugo.io/t/what-user-cases-are-there-for-nomounts-in-module-config/37587/2)
+- (March 10, 2022 at 3:59 PM) [Error building site - hugo server --renderStaticToDisk](https://discourse.gohugo.io/t/error-building-site-hugo-server-renderstatictodisk/37592/3)
+- (March 10, 2022 at 2:00 PM) [How does the routing in templates work?](https://discourse.gohugo.io/t/how-does-the-routing-in-templates-work/37586/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
