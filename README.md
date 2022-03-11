@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Hiding UpdraftPlus nagging screens after your subscription ran out](https://kollitsch.de/blog/2022/hiding-updraft-plus-nagging-screens-after-your-subscription-ran-out/)
 - [Music to program to &lpar;Part 3&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-3/)
 - [Create a Branch From Within an Issue on Github](https://kollitsch.de/blog/2022/create-a-branch-from-within-an-issue-on-github/)
 - [Ubuntu, EFI and Acer](https://kollitsch.de/blog/2022/ubuntu-efi-and-acer/)
 - [Hugo Shortcode: Taglist](https://kollitsch.de/blog/2022/hugo-shortcode-taglist/)
-- [Notes from the Laboratory: February 2022](https://kollitsch.de/blog/2022/notes-from-the-laboratory-february-2022/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
