@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 10, 2022 at 4:12 PM) [How to define layout in frontmatter](https://discourse.gohugo.io/t/how-to-define-layout-in-frontmatter/37405/7)
-- (March 10, 2022 at 4:04 PM) [What user cases are there for `noMounts` in module config?](https://discourse.gohugo.io/t/what-user-cases-are-there-for-nomounts-in-module-config/37587/2)
-- (March 10, 2022 at 3:59 PM) [Error building site - hugo server --renderStaticToDisk](https://discourse.gohugo.io/t/error-building-site-hugo-server-renderstatictodisk/37592/3)
-- (March 10, 2022 at 2:00 PM) [How does the routing in templates work?](https://discourse.gohugo.io/t/how-does-the-routing-in-templates-work/37586/2)<!-- DISCOURSE:END -->
+- (March 11, 2022 at 3:28 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/12)
+- (March 11, 2022 at 3:27 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/11)
+- (March 11, 2022 at 3:22 PM) [What user cases are there for `noMounts` in module config?](https://discourse.gohugo.io/t/what-user-cases-are-there-for-nomounts-in-module-config/37587/5)
+- (March 11, 2022 at 3:01 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/9)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
