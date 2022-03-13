@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 12, 2022 at 10:31 AM) [Unable to print Count of Entries using substr or hasPrefix](https://discourse.gohugo.io/t/unable-to-print-count-of-entries-using-substr-or-hasprefix/37615/2)
+- (March 12, 2022 at 10:28 AM) [&lt;.RSSLink&gt;: can&#39;t evaluate field RSSLink in type *hugolib.pageState after version upgrade 0.91.2 -&gt; v0.94.0+extended linux/amd64](https://discourse.gohugo.io/t/rsslink-cant-evaluate-field-rsslink-in-type-hugolib-pagestate-after-version-upgrade-0-91-2-v0-94-0-extended-linux-amd64/37617/2)
 - (March 11, 2022 at 3:28 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/12)
-- (March 11, 2022 at 3:27 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/11)
-- (March 11, 2022 at 3:22 PM) [What user cases are there for `noMounts` in module config?](https://discourse.gohugo.io/t/what-user-cases-are-there-for-nomounts-in-module-config/37587/5)
-- (March 11, 2022 at 3:01 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/9)<!-- DISCOURSE:END -->
+- (March 11, 2022 at 3:27 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/11)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
