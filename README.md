@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 12, 2022 at 10:31 AM) [Unable to print Count of Entries using substr or hasPrefix](https://discourse.gohugo.io/t/unable-to-print-count-of-entries-using-substr-or-hasprefix/37615/2)
-- (March 12, 2022 at 10:28 AM) [&lt;.RSSLink&gt;: can&#39;t evaluate field RSSLink in type *hugolib.pageState after version upgrade 0.91.2 -&gt; v0.94.0+extended linux/amd64](https://discourse.gohugo.io/t/rsslink-cant-evaluate-field-rsslink-in-type-hugolib-pagestate-after-version-upgrade-0-91-2-v0-94-0-extended-linux-amd64/37617/2)
-- (March 11, 2022 at 3:28 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/12)
-- (March 11, 2022 at 3:27 PM) [Use Hugo `.GetRemote` to update Algolia/Meili indice during build](https://discourse.gohugo.io/t/use-hugo-getremote-to-update-algolia-meili-indice-during-build/37597/11)<!-- DISCOURSE:END -->
+- (March 14, 2022 at 5:01 PM) [Define Params in baseof.html](https://discourse.gohugo.io/t/define-params-in-baseof-html/37643/10)
+- (March 14, 2022 at 4:33 PM) [Hugo static site forms backend](https://discourse.gohugo.io/t/hugo-static-site-forms-backend/37655/2)
+- (March 14, 2022 at 4:17 PM) [Define Params in baseof.html](https://discourse.gohugo.io/t/define-params-in-baseof-html/37643/7)
+- (March 14, 2022 at 3:11 PM) [How to get Google Images to pick up image titles from Hugo website when using Shortcodes?](https://discourse.gohugo.io/t/how-to-get-google-images-to-pick-up-image-titles-from-hugo-website-when-using-shortcodes/37649/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
