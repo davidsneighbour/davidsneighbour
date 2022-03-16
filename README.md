@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 14, 2022 at 5:01 PM) [Define Params in baseof.html](https://discourse.gohugo.io/t/define-params-in-baseof-html/37643/10)
-- (March 14, 2022 at 4:33 PM) [Hugo static site forms backend](https://discourse.gohugo.io/t/hugo-static-site-forms-backend/37655/2)
-- (March 14, 2022 at 4:17 PM) [Define Params in baseof.html](https://discourse.gohugo.io/t/define-params-in-baseof-html/37643/7)
-- (March 14, 2022 at 3:11 PM) [How to get Google Images to pick up image titles from Hugo website when using Shortcodes?](https://discourse.gohugo.io/t/how-to-get-google-images-to-pick-up-image-titles-from-hugo-website-when-using-shortcodes/37649/2)<!-- DISCOURSE:END -->
+- (March 15, 2022 at 5:12 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/16)
+- (March 15, 2022 at 5:06 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/14)
+- (March 15, 2022 at 4:45 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/12)
+- (March 15, 2022 at 4:42 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/10)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
