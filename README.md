@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 15, 2022 at 5:12 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/16)
-- (March 15, 2022 at 5:06 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/14)
-- (March 15, 2022 at 4:45 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/12)
-- (March 15, 2022 at 4:42 PM) [And now ... Hugo 0.94.2 Released](https://discourse.gohugo.io/t/and-now-hugo-0-94-2-released/37620/10)<!-- DISCOURSE:END -->
+- (March 16, 2022 at 7:31 PM) [Add text over image](https://discourse.gohugo.io/t/add-text-over-image/37701/3)
+- (March 16, 2022 at 7:09 PM) [Hugo 0.95.0 Released](https://discourse.gohugo.io/t/hugo-0-95-0-released/37697/10)
+- (March 16, 2022 at 6:41 PM) [Hugo 0.95.0 Released](https://discourse.gohugo.io/t/hugo-0-95-0-released/37697/8)
+- (March 16, 2022 at 11:13 AM) [Merge config.json and site.json](https://discourse.gohugo.io/t/merge-config-json-and-site-json/37687/3)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
