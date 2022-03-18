@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 16, 2022 at 7:31 PM) [Add text over image](https://discourse.gohugo.io/t/add-text-over-image/37701/3)
-- (March 16, 2022 at 7:09 PM) [Hugo 0.95.0 Released](https://discourse.gohugo.io/t/hugo-0-95-0-released/37697/10)
-- (March 16, 2022 at 6:41 PM) [Hugo 0.95.0 Released](https://discourse.gohugo.io/t/hugo-0-95-0-released/37697/8)
-- (March 16, 2022 at 11:13 AM) [Merge config.json and site.json](https://discourse.gohugo.io/t/merge-config-json-and-site-json/37687/3)<!-- DISCOURSE:END -->
+- (March 17, 2022 at 4:32 PM) [Confessing a Sin - GitHub HTTPS not rendering](https://discourse.gohugo.io/t/confessing-a-sin-github-https-not-rendering/37719/3)
+- (March 17, 2022 at 12:38 PM) [Markdown](https://discourse.gohugo.io/t/markdown/37677/6)
+- (March 17, 2022 at 12:35 PM) [JSON schema is being created for Hugo](https://discourse.gohugo.io/t/json-schema-is-being-created-for-hugo/37714/2)
+- (March 17, 2022 at 12:30 PM) [Best courses for Hugo](https://discourse.gohugo.io/t/best-courses-for-hugo/37711/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
