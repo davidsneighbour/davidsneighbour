@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 20, 2022 at 2:07 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/5)
 - (March 19, 2022 at 4:20 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/3)
 - (March 19, 2022 at 2:10 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/1)
-- (March 19, 2022 at 2:05 PM) [Enhance Hugo with a regex preprocessor](https://discourse.gohugo.io/t/enhance-hugo-with-a-regex-preprocessor/37753/2)
-- (March 18, 2022 at 1:06 PM) [Building Hugo on Fedora 35](https://discourse.gohugo.io/t/building-hugo-on-fedora-35/37738/9)<!-- DISCOURSE:END -->
+- (March 19, 2022 at 2:05 PM) [Enhance Hugo with a regex preprocessor](https://discourse.gohugo.io/t/enhance-hugo-with-a-regex-preprocessor/37753/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
