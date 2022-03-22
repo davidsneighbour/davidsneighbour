@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 20, 2022 at 2:07 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/5)
-- (March 19, 2022 at 4:20 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/3)
-- (March 19, 2022 at 2:10 PM) [Camel case to dashed case](https://discourse.gohugo.io/t/camel-case-to-dashed-case/37757/1)
-- (March 19, 2022 at 2:05 PM) [Enhance Hugo with a regex preprocessor](https://discourse.gohugo.io/t/enhance-hugo-with-a-regex-preprocessor/37753/2)<!-- DISCOURSE:END -->
+- (March 21, 2022 at 5:57 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/4)
+- (March 21, 2022 at 5:48 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/2)
+- (March 21, 2022 at 5:33 PM) [Did resizing resources with the .Fill method recently change?](https://discourse.gohugo.io/t/did-resizing-resources-with-the-fill-method-recently-change/37792/7)
+- (March 21, 2022 at 5:06 PM) [Did resizing resources with the .Fill method recently change?](https://discourse.gohugo.io/t/did-resizing-resources-with-the-fill-method-recently-change/37792/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
