@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [#100daystooffload](https://kollitsch.de/blog/2022/100daystooffload/)
+- [Shouting Alexa at a Pork Pie](https://kollitsch.de/blog/2022/shouting-alexa-at-a-pork-pie/)
 - [Music to program to &lpar;Part 4&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-4/)
 - [Hugo 0.95 - Update Notes](https://kollitsch.de/blog/2022/hugo-0-95-update-notes/)
 - [The Pentaverate](https://kollitsch.de/blog/2022/the-pentaverate/)
-- [Hiding UpdraftPlus nagging screens after your subscription ran out](https://kollitsch.de/blog/2022/hiding-updraft-plus-nagging-screens-after-your-subscription-ran-out/)
-- [Music to program to &lpar;Part 3&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-3/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
