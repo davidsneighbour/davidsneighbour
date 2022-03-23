@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 21, 2022 at 5:57 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/4)
-- (March 21, 2022 at 5:48 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/2)
-- (March 21, 2022 at 5:33 PM) [Did resizing resources with the .Fill method recently change?](https://discourse.gohugo.io/t/did-resizing-resources-with-the-fill-method-recently-change/37792/7)
-- (March 21, 2022 at 5:06 PM) [Did resizing resources with the .Fill method recently change?](https://discourse.gohugo.io/t/did-resizing-resources-with-the-fill-method-recently-change/37792/5)<!-- DISCOURSE:END -->
+- (March 22, 2022 at 5:03 PM) [Write &lpar;Hugo&rpar; HTML, the HTML Way &lpar;Not the XHTML Way&rpar;](https://discourse.gohugo.io/t/write-hugo-html-the-html-way-not-the-xhtml-way/37805/4)
+- (March 22, 2022 at 4:53 PM) [Image render hook error](https://discourse.gohugo.io/t/image-render-hook-error/37804/2)
+- (March 22, 2022 at 4:50 PM) [Write &lpar;Hugo&rpar; HTML, the HTML Way &lpar;Not the XHTML Way&rpar;](https://discourse.gohugo.io/t/write-hugo-html-the-html-way-not-the-xhtml-way/37805/2)
+- (March 21, 2022 at 5:57 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/4)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
