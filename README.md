@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 24, 2022 at 6:35 AM) [Minify options](https://discourse.gohugo.io/t/minify-options/37833/2)
+- (March 24, 2022 at 4:20 AM) [External call from user clicked link &lpar;POST to API&rpar;](https://discourse.gohugo.io/t/external-call-from-user-clicked-link-post-to-api/37827/2)
 - (March 22, 2022 at 5:03 PM) [Write &lpar;Hugo&rpar; HTML, the HTML Way &lpar;Not the XHTML Way&rpar;](https://discourse.gohugo.io/t/write-hugo-html-the-html-way-not-the-xhtml-way/37805/4)
-- (March 22, 2022 at 4:53 PM) [Image render hook error](https://discourse.gohugo.io/t/image-render-hook-error/37804/2)
-- (March 22, 2022 at 4:50 PM) [Write &lpar;Hugo&rpar; HTML, the HTML Way &lpar;Not the XHTML Way&rpar;](https://discourse.gohugo.io/t/write-hugo-html-the-html-way-not-the-xhtml-way/37805/2)
-- (March 21, 2022 at 5:57 PM) [Go.sum and hugo mod cleanup](https://discourse.gohugo.io/t/go-sum-and-hugo-mod-cleanup/37794/4)<!-- DISCOURSE:END -->
+- (March 22, 2022 at 4:53 PM) [Image render hook error](https://discourse.gohugo.io/t/image-render-hook-error/37804/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
