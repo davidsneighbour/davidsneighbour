@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (March 27, 2022 at 10:09 AM) [Page bundler with Forestry.io](https://discourse.gohugo.io/t/page-bundler-with-forestry-io/37874/2)
+- (March 27, 2022 at 7:05 AM) [How to check if an output format is declared?](https://discourse.gohugo.io/t/how-to-check-if-an-output-format-is-declared/37873/2)
 - (March 25, 2022 at 9:19 AM) [Sunset for universal analytics](https://discourse.gohugo.io/t/sunset-for-universal-analytics/37840/4)
-- (March 25, 2022 at 9:11 AM) [Sunset for universal analytics](https://discourse.gohugo.io/t/sunset-for-universal-analytics/37840/2)
-- (March 24, 2022 at 6:35 AM) [Minify options](https://discourse.gohugo.io/t/minify-options/37833/2)
-- (March 24, 2022 at 4:20 AM) [External call from user clicked link &lpar;POST to API&rpar;](https://discourse.gohugo.io/t/external-call-from-user-clicked-link-post-to-api/37827/2)<!-- DISCOURSE:END -->
+- (March 25, 2022 at 9:11 AM) [Sunset for universal analytics](https://discourse.gohugo.io/t/sunset-for-universal-analytics/37840/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
