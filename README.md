@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (March 29, 2022 at 2:59 PM) [Expectations, documentation and dividing Hugo into &#39;core&#39; and &#39;web-builder&#39;](https://discourse.gohugo.io/t/expectations-documentation-and-dividing-hugo-into-core-and-web-builder/37869/8)
-- (March 28, 2022 at 3:37 AM) [Possible bug: MST showing as +0900 instead of JST or KST](https://discourse.gohugo.io/t/possible-bug-mst-showing-as-0900-instead-of-jst-or-kst/37883/4)
-- (March 28, 2022 at 1:56 AM) [Expectations, documentation and dividing Hugo into &#39;core&#39; and &#39;web-builder&#39;](https://discourse.gohugo.io/t/expectations-documentation-and-dividing-hugo-into-core-and-web-builder/37869/6)
-- (March 28, 2022 at 1:46 AM) [Possible bug: MST showing as +0900 instead of JST or KST](https://discourse.gohugo.io/t/possible-bug-mst-showing-as-0900-instead-of-jst-or-kst/37883/2)<!-- DISCOURSE:END -->
+- (March 31, 2022 at 3:19 PM) [Catch exception for transform.Unmarshal csv](https://discourse.gohugo.io/t/catch-exception-for-transform-unmarshal-csv/37965/2)
+- (March 31, 2022 at 3:15 PM) [Image Processing in a Range](https://discourse.gohugo.io/t/image-processing-in-a-range/37968/2)
+- (March 31, 2022 at 12:37 PM) [Using PurgeCSS &lpar;From Scratch&rpar;](https://discourse.gohugo.io/t/using-purgecss-from-scratch/37954/5)
+- (March 31, 2022 at 10:26 AM) [How would i embed images as if they are emojis?](https://discourse.gohugo.io/t/how-would-i-embed-images-as-if-they-are-emojis/37959/2)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
