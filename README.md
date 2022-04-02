@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
+- (April 1, 2022 at 7:02 AM) [Bundling Material Design Node Module Components using Hugo Pipes without Webpack](https://discourse.gohugo.io/t/bundling-material-design-node-module-components-using-hugo-pipes-without-webpack/37978/2)
 - (March 31, 2022 at 3:19 PM) [Catch exception for transform.Unmarshal csv](https://discourse.gohugo.io/t/catch-exception-for-transform-unmarshal-csv/37965/2)
 - (March 31, 2022 at 3:15 PM) [Image Processing in a Range](https://discourse.gohugo.io/t/image-processing-in-a-range/37968/2)
-- (March 31, 2022 at 12:37 PM) [Using PurgeCSS &lpar;From Scratch&rpar;](https://discourse.gohugo.io/t/using-purgecss-from-scratch/37954/5)
-- (March 31, 2022 at 10:26 AM) [How would i embed images as if they are emojis?](https://discourse.gohugo.io/t/how-would-i-embed-images-as-if-they-are-emojis/37959/2)<!-- DISCOURSE:END -->
+- (March 31, 2022 at 12:37 PM) [Using PurgeCSS &lpar;From Scratch&rpar;](https://discourse.gohugo.io/t/using-purgecss-from-scratch/37954/5)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
