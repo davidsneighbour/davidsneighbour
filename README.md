@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Notes from the Laboratory: March 2022](https://kollitsch.de/blog/2022/notes-from-the-laboratory-march/)
 - [Sitemap](https://kollitsch.de/sitemap/)
 - [Hugo 0.96 update notes](https://kollitsch.de/blog/2022/hugo-0-96-update-notes/)
 - [#100daystooffload](https://kollitsch.de/blog/2022/100daystooffload/)
 - [Shouting Alexa at a Pork Pie](https://kollitsch.de/blog/2022/shouting-alexa-at-a-pork-pie/)
-- [Music to program to &lpar;Part 4&rpar;](https://kollitsch.de/blog/2022/music-to-program-to-4/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
