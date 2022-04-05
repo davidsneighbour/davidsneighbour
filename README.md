@@ -42,10 +42,10 @@ I have a long history of working with WordPress themes and plugins and recently 
 I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
 
 <!-- DISCOURSE:START -->
-- (April 1, 2022 at 7:02 AM) [Bundling Material Design Node Module Components using Hugo Pipes without Webpack](https://discourse.gohugo.io/t/bundling-material-design-node-module-components-using-hugo-pipes-without-webpack/37978/2)
-- (March 31, 2022 at 3:19 PM) [Catch exception for transform.Unmarshal csv](https://discourse.gohugo.io/t/catch-exception-for-transform-unmarshal-csv/37965/2)
-- (March 31, 2022 at 3:15 PM) [Image Processing in a Range](https://discourse.gohugo.io/t/image-processing-in-a-range/37968/2)
-- (March 31, 2022 at 12:37 PM) [Using PurgeCSS &lpar;From Scratch&rpar;](https://discourse.gohugo.io/t/using-purgecss-from-scratch/37954/5)<!-- DISCOURSE:END -->
+- (April 4, 2022 at 1:14 PM) [Breadcrum with branch section support](https://discourse.gohugo.io/t/breadcrum-with-branch-section-support/38012/6)
+- (April 4, 2022 at 1:12 PM) [Breadcrum with branch section support](https://discourse.gohugo.io/t/breadcrum-with-branch-section-support/38012/4)
+- (April 4, 2022 at 12:00 PM) [Feature worth? config/_default/params.subsection.toml for clarity](https://discourse.gohugo.io/t/feature-worth-config-default-params-subsection-toml-for-clarity/38028/1)
+- (April 4, 2022 at 11:55 AM) [Hugo minify giving different output for the same JS function](https://discourse.gohugo.io/t/hugo-minify-giving-different-output-for-the-same-js-function/38022/13)<!-- DISCOURSE:END -->
 
 _This README.md is work in progress. Testing things out ;)_
 
