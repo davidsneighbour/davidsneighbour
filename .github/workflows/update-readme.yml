@@ -11,15 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
-        name: Load latest posts on GoHugo.io
-        with:
-          max_post_count: 4
-          feed_list: "https://discourse.gohugo.io/u/davidsneighbour/activity.rss"
-          comment_tag_name: "DISCOURSE"
-          template: "$newline- ($date) [$title]($url)"
-          date_format: "mmmm d, yyyy 'at' h:MM TT"
-          commit_message: "chore: update README.md with latest gohugo.io posts"
-      - uses: gautamkrishnar/blog-post-workflow@master
         name: Load latest blog posts on kollitsch.de
         with:
           comment_tag_name: "KOLLITSCH"
