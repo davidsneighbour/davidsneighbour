@@ -33,21 +33,5 @@ I am working on a project called BooKa. It's what the Germans call "eierlegende 
 
 I have a long history of working with WordPress themes and plugins and recently took over the long abandoned Titan Framework, an options framework for WordPress. My goal is to make this library available for the latest versions of WordPress and enable everyone to add options and setup pages to their plugins and themes. 
 
-## Hugo
-
-> Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
-
-[Hugo](https://gohugo.io/) is in action in more than half of all websites I am working on (my own and my customer's). It's fast, it's flexible and it produces websites.
-
-I am pretty active on the [Hugo Discourse Forum](https://discourse.gohugo.io):
-
-<!-- DISCOURSE:START -->
-- (April 4, 2022 at 1:14 PM) [Breadcrum with branch section support](https://discourse.gohugo.io/t/breadcrum-with-branch-section-support/38012/6)
-- (April 4, 2022 at 1:12 PM) [Breadcrum with branch section support](https://discourse.gohugo.io/t/breadcrum-with-branch-section-support/38012/4)
-- (April 4, 2022 at 12:00 PM) [Feature worth? config/_default/params.subsection.toml for clarity](https://discourse.gohugo.io/t/feature-worth-config-default-params-subsection-toml-for-clarity/38028/1)
-- (April 4, 2022 at 11:55 AM) [Hugo minify giving different output for the same JS function](https://discourse.gohugo.io/t/hugo-minify-giving-different-output-for-the-same-js-function/38022/13)<!-- DISCOURSE:END -->
-
-_This README.md is work in progress. Testing things out ;)_
-
 [header1]: https://raw.githubusercontent.com/davidsneighbour/davidsneighbour/master/static/header3.jpg "Some code."
 
