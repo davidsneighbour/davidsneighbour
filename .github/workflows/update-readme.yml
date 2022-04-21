@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        name: Load latest blog posts on kollitsch.de
+      - uses: gautamkrishnar/blog-post-workflow@1.7.1
+        name: Load latest blog posts on kollitsch.dev
         with:
           comment_tag_name: "KOLLITSCH"
-          feed_list: "https://kollitsch.de/rss.xml"
+          feed_list: "https://kollitsch.dev/rss.xml"
