@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Notes from the Laboratory: April 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-april/)
 - [Autostart Development Server in Vscode](https://kollitsch.dev/blog/2022/autostart-development-server-in-vscode/)
 - [Privacy Policy](https://kollitsch.dev/privacy-policy/)
 - [Notes from the Laboratory: March 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-march/)
 - [Sitemap](https://kollitsch.dev/sitemap/)
-- [Hugo 0.96 update notes](https://kollitsch.dev/blog/2022/hugo-0-96-update-notes/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
