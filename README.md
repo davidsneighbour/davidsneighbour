@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Piping output to files in Bash](https://kollitsch.dev/blog/2022/piping-output-to-files-in-bash/)
 - [Better code highlighting for Hugo with render hooks](https://kollitsch.dev/blog/2022/better-code-highlighting-in-hugo/)
 - [Notes from the Laboratory: April 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-april/)
 - [Autostart Development Server in Vscode](https://kollitsch.dev/blog/2022/autostart-development-server-in-vscode/)
 - [Privacy Policy](https://kollitsch.dev/privacy-policy/)
-- [Notes from the Laboratory: March 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-march/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
