@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [VSCode Remote SSH plugin vs. Dreamhost shared hosting](https://kollitsch.dev/blog/2022/vscode-remote-ssh-plugin-vs-dreamhost-shared-hosting/)
 - [Contact me now](https://kollitsch.dev/contact/)
 - [Music to program to &lpar;Part 5&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-5/)
 - [Piping output to files in Bash](https://kollitsch.dev/blog/2022/piping-output-to-files-in-bash/)
 - [Better code highlighting for Hugo with render hooks](https://kollitsch.dev/blog/2022/better-code-highlighting-in-hugo/)
-- [Notes from the Laboratory: April 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-april/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
