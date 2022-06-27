@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Music to program to &lpar;Part 6&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-6/)
 - [Swapping swap](https://kollitsch.dev/blog/2022/swapping-swap/)
 - [Notes from the Laboratory: May 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-may/)
 - [VSCode Remote SSH plugin vs. Dreamhost shared hosting](https://kollitsch.dev/blog/2022/vscode-remote-ssh-plugin-vs-dreamhost-shared-hosting/)
 - [Contact me now](https://kollitsch.dev/contact/)
-- [Music to program to &lpar;Part 5&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-5/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
