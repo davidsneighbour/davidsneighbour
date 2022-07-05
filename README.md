@@ -10,7 +10,7 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
-- [Notes from the Laboratory: July 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-june/)
+- [Notes from the Laboratory: June 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-june/)
 - [Music to program to &lpar;Part 6&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-6/)
 - [Swapping swap](https://kollitsch.dev/blog/2022/swapping-swap/)
 - [Notes from the Laboratory: May 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-may/)
