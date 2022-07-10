@@ -14,7 +14,7 @@
 - [Music to program to &lpar;Part 6&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-6/)
 - [Swapping swap](https://kollitsch.dev/blog/2022/swapping-swap/)
 - [Notes from the Laboratory: May 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-may/)
-- [VSCode Remote SSH plugin vs. Dreamhost shared hosting](https://kollitsch.dev/blog/2022/vscode-remote-ssh-plugin-vs-dreamhost-shared-hosting/)
+- [Posts sorted by last changed descending](https://kollitsch.dev/index/by/last-changed-desc/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
