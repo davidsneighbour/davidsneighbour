@@ -11,10 +11,10 @@
 # Recent blog posts
 <!-- KOLLITSCH:START -->
 - [Less Clutter in Vscode](https://kollitsch.dev/blog/2022/less-clutter-in-vscode/)
+- [Music to program to &lpar;Part 7&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-7/)
 - [Notes from the Laboratory: June 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-june/)
 - [Music to program to &lpar;Part 6&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-6/)
 - [Swapping swap](https://kollitsch.dev/blog/2022/swapping-swap/)
-- [Notes from the Laboratory: May 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-may/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
