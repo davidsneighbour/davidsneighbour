@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Hugo Component / Hugo Icons](https://kollitsch.dev/components/hugo-icons/)
 - [.gitignore for GoHugo](https://kollitsch.dev/blog/2022/gitignore-gohugo/)
 - [Hugo Component / Robots](https://kollitsch.dev/components/hugo-robots/)
 - [Hugo Component / Sitemap](https://kollitsch.dev/components/hugo-sitemap/)
 - [Installation and Update](https://kollitsch.dev/components/references/installation-and-update/)
-- [Less Clutter in Vscode](https://kollitsch.dev/blog/2022/less-clutter-in-vscode/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
