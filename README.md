@@ -8,8 +8,6 @@
 - I am collaborating on [Colossus](https://github.com/colossus-wp)
 - Ask me about Vue.js, web technologies and website optimization
 
-![][header3]
-
 # Recent blog posts
 <!-- KOLLITSCH:START -->
 - [Simple multi-language pre-commit hooks](https://kollitsch.dev/blog/2022/simple-multi-language-pre-commit-hooks/)
