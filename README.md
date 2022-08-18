@@ -8,6 +8,8 @@
 - I am collaborating on [Colossus](https://github.com/colossus-wp)
 - Ask me about Vue.js, web technologies and website optimization
 
+![][header3]
+
 # Recent blog posts
 <!-- KOLLITSCH:START -->
 - [Simple multi-language pre-commit hooks](https://kollitsch.dev/blog/2022/simple-multi-language-pre-commit-hooks/)
@@ -33,5 +35,6 @@ I am working on a project called BooKa. It's what the Germans call "eierlegende 
 
 I have a long history of working with WordPress themes and plugins and recently took over the long abandoned Titan Framework, an options framework for WordPress. My goal is to make this library available for the latest versions of WordPress and enable everyone to add options and setup pages to their plugins and themes. 
 
-[header1]: https://raw.githubusercontent.com/davidsneighbour/davidsneighbour/master/static/header3.jpg "Some code."
+[header1]: https://raw.githubusercontent.com/davidsneighbour/davidsneighbour/master/static/header1.jpg "Some code."
+[header3]: https://raw.githubusercontent.com/davidsneighbour/davidsneighbour/master/static/header3.jpg "Some code."
 
