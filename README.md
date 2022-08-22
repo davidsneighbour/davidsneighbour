@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Mark word break opportunities in HTML](https://kollitsch.dev/blog/2022/mark-word-break-opportunities-in-html/)
 - [Simple multi-language pre-commit hooks](https://kollitsch.dev/blog/2022/simple-multi-language-pre-commit-hooks/)
 - [Notes from the Laboratory: July 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-july/)
 - [.gitignore for GoHugo](https://kollitsch.dev/blog/2022/gitignore-gohugo/)
 - [Less Clutter in Vscode](https://kollitsch.dev/blog/2022/less-clutter-in-vscode/)
-- [Music to program to &lpar;Part 7&rpar;](https://kollitsch.dev/blog/2022/music-to-program-to-7/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
