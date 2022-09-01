@@ -11,10 +11,10 @@
 # Recent blog posts
 <!-- KOLLITSCH:START -->
 - [A Cat and a Dog](https://kollitsch.dev/blog/2022/a-cat-and-a-dog/)
+- [Pictures](https://kollitsch.dev/components/hugo-pictures/)
 - [Mark word break opportunities in HTML](https://kollitsch.dev/blog/2022/mark-word-break-opportunities-in-html/)
+- [Giscus](https://kollitsch.dev/components/hugo-giscus/)
 - [Simple multi-language pre-commit hooks](https://kollitsch.dev/blog/2022/simple-multi-language-pre-commit-hooks/)
-- [Notes from the Laboratory: July 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-july/)
-- [.gitignore for GoHugo](https://kollitsch.dev/blog/2022/gitignore-gohugo/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
