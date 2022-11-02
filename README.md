@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Notes from the Laboratory: October 2022 &lpar;and September too&rpar;](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-october/)
 - [The problem with VSCode](https://kollitsch.dev/blog/2022/the-problem-with-vscode/)
 - [The evolution of the Rolling Stone logo](https://kollitsch.dev/blog/2022/the-evolution-of-the-rolling-stone-logo/)
 - [Notes from the Laboratory: August 2022](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-august/)
 - [A Cat and a Dog](https://kollitsch.dev/blog/2022/a-cat-and-a-dog/)
-- [Pictures](https://kollitsch.dev/components/hugo-pictures/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
