@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Notes from the Laboratory: December 2022 &lpar;and November too&rpar;](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-december/)
 - [Auditor](https://kollitsch.dev/components/hugo-auditor/)
 - [Mastodon and Me](https://kollitsch.dev/blog/2022/mastodon-and-me/)
 - [Fixing Double Ci Runs When Pushing to Gitlab Branches](https://kollitsch.dev/blog/2022/fixing-double-ci-runs-when-pushing-to-gitlab-branches/)
 - [Protected .dotfile files with Keybase](https://kollitsch.dev/blog/2022/protected-dotfiles-with-keybase/)
-- [Notes from the Laboratory: October 2022 &lpar;and September too&rpar;](https://kollitsch.dev/blog/2022/notes-from-the-laboratory-october/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
