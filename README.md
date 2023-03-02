@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Notes from the Laboratory: February 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-february/)
 - [Jetbrains Mono](https://kollitsch.dev/blog/2023/jetbrains-mono/)
 - [Notes from the Laboratory: January 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-january/)
 - [Google&#39;s new OSV scanner](https://kollitsch.dev/blog/2023/googles-new-osv-scanner/)
 - [Notes from the Laboratory: December 2022 &lpar;and November too&rpar;](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-december/)
-- [Auditor](https://kollitsch.dev/components/hugo-auditor/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
