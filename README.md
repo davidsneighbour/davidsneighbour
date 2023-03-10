@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Saving Github Access Token in Local Encrypted Storage via Gh Cli](https://kollitsch.dev/blog/2023/saving-github-access-token-in-local-encrypted-storage-via-gh-cli/)
+- [Netlify&#39;s new logo](https://kollitsch.dev/blog/2023/netlifys-new-logo/)
+- [Refactoring my screenshot script](https://kollitsch.dev/blog/2023/refactoring-my-screenshot-script/)
 - [Fixing package dependency issues on Ubuntu with APT](https://kollitsch.dev/blog/2023/fixing-package-dependency-issues-on-ubuntu-with-apt/)
 - [Notes from the Laboratory: February 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-february/)
-- [Jetbrains Mono](https://kollitsch.dev/blog/2023/jetbrains-mono/)
-- [Notes from the Laboratory: January 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-january/)
-- [Google&#39;s new OSV scanner](https://kollitsch.dev/blog/2023/googles-new-osv-scanner/)
 <!-- KOLLITSCH:END -->
 
 ## Corona Sucks!
