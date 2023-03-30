@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Safe npm commands](https://kollitsch.dev/blog/2023/safe-npm/)
 - [Sandworm security audit](https://kollitsch.dev/blog/2023/sandworm-security-audit/)
 - [Install and link Firefox Developer Edition on Ubuntu](https://kollitsch.dev/blog/2023/install-and-link-firefox-developer-edition-on-ubuntu/)
 - [Saving Github Access Token in Local Encrypted Storage via Gh Cli](https://kollitsch.dev/blog/2023/saving-github-access-token-in-local-encrypted-storage-via-gh-cli/)
 - [Netlify&#39;s new logo](https://kollitsch.dev/blog/2023/netlifys-new-logo/)
-- [Refactoring my screenshot script](https://kollitsch.dev/blog/2023/refactoring-my-screenshot-script/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
