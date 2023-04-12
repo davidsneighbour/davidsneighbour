@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [React, visualized](https://kollitsch.dev/blog/2023/react-visualized/)
 - [Notes from the Laboratory: March 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-march/)
 - [Safe npm commands](https://kollitsch.dev/blog/2023/safe-npm/)
 - [Sandworm security audit](https://kollitsch.dev/blog/2023/sandworm-security-audit/)
 - [Install and link Firefox Developer Edition on Ubuntu](https://kollitsch.dev/blog/2023/install-and-link-firefox-developer-edition-on-ubuntu/)
-- [Saving Github Access Token in Local Encrypted Storage via Gh Cli](https://kollitsch.dev/blog/2023/saving-github-access-token-in-local-encrypted-storage-via-gh-cli/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
