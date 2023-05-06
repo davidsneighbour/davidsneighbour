@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Patch Notes: Hélène Vogelsinger](https://kollitsch.dev/blog/2023/patch-notes-hlne-vogelsinger/)
 - [What if Wes Anderson... &lpar;Part 1&rpar;](https://kollitsch.dev/blog/2023/what-if-wes-anderson-1/)
 - [Notes from the Laboratory: April 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-april/)
 - [That wasn&#39;t my fault](https://kollitsch.dev/blog/2023/that-wasnt-my-fault/)
 - [React, visualized](https://kollitsch.dev/blog/2023/react-visualized/)
-- [Notes from the Laboratory: March 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-march/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
