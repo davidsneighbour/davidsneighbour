@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Changes to Hugo&#39;s debugging abilities on the CLI](https://kollitsch.dev/blog/2023/changes-to-hugos-debugging-abilities-on-cli/)
+- [npkill - cleanup heaps of node_modules](https://kollitsch.dev/blog/2023/cleanup-heaps-of-node-modules/)
+- [How to handle key issues with apt on Ubuntu](https://kollitsch.dev/blog/2023/how-to-handle-key-issues-on-ubuntu/)
 - [Switching content types in Hugo: A step-by-step guide](https://kollitsch.dev/blog/2023/switch-hugo-content-between-bundle-types/)
 - [Notes from the Laboratory: May 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-may/)
-- [What if Wes Anderson... &lpar;Part 2&rpar;](https://kollitsch.dev/blog/2023/what-if-wes-anderson-2/)
-- [Creating a Hugo site index](https://kollitsch.dev/blog/2023/creating-a-hugo-site-index/)
-- [Patch Notes: Hélène Vogelsinger](https://kollitsch.dev/blog/2023/patch-notes-hlne-vogelsinger/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
