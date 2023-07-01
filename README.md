@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Head](https://kollitsch.dev/components/hugo-head/)
 - [Sitemap](https://kollitsch.dev/components/hugo-sitemap/)
 - [Robots](https://kollitsch.dev/components/hugo-robots/)
 - [Ping Goes Poof](https://kollitsch.dev/blog/2023/ping-goes-poof/)
 - [Changes to Hugo&#39;s debugging abilities on the CLI](https://kollitsch.dev/blog/2023/changes-to-hugos-debugging-abilities-on-cli/)
-- [npkill - cleanup heaps of node_modules](https://kollitsch.dev/blog/2023/cleanup-heaps-of-node-modules/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
