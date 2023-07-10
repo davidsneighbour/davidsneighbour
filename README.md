@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Removing all local and remote tags in Git](https://kollitsch.dev/blog/2023/removing-all-local-and-remote-tags-in-git/)
 - [Notes from the Laboratory: June 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-june/)
 - [Head](https://kollitsch.dev/components/hugo-head/)
 - [Sitemap](https://kollitsch.dev/components/hugo-sitemap/)
 - [Robots](https://kollitsch.dev/components/hugo-robots/)
-- [Ping Goes Poof](https://kollitsch.dev/blog/2023/ping-goes-poof/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
