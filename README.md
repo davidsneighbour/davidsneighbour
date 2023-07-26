@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Pomplamoose does Moby](https://kollitsch.dev/blog/2023/pomplamoose-does-moby/)
 - [WordPress Drops PHP 5](https://kollitsch.dev/blog/2023/wordpress-drops-php-5/)
 - [Understanding SVG paths](https://kollitsch.dev/blog/2023/understanding-svg-paths/)
 - [Removing all local and remote tags in Git](https://kollitsch.dev/blog/2023/removing-all-local-and-remote-tags-in-git/)
 - [Notes from the Laboratory: June 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-june/)
-- [Head](https://kollitsch.dev/components/hugo-head/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
