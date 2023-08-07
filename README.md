@@ -10,7 +10,7 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
-- [Notes from the Laboratory: July 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-july-2023/)
+- [Notes from the Laboratory: July 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-july/)
 - [Pomplamoose does Moby](https://kollitsch.dev/blog/2023/pomplamoose-does-moby/)
 - [WordPress Drops PHP 5](https://kollitsch.dev/blog/2023/wordpress-drops-php-5/)
 - [Understanding SVG paths](https://kollitsch.dev/blog/2023/understanding-svg-paths/)
