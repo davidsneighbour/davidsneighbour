@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Youtube](https://kollitsch.dev/components/hugo-youtube/)
 - [Pictures](https://kollitsch.dev/components/hugo-pictures/)
 - [Kurzschnitte II - First Edition](https://kollitsch.dev/blog/2023/kurzschnitte-ii-1/)
 - [Notes from the Laboratory: July 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-july/)
 - [Pomplamoose does Moby](https://kollitsch.dev/blog/2023/pomplamoose-does-moby/)
-- [WordPress Drops PHP 5](https://kollitsch.dev/blog/2023/wordpress-drops-php-5/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
