@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Update Npm Packages in All Available Nvm Environments](https://kollitsch.dev/blog/2023/update-npm-packages-in-all-available-nvm-environments/)
 - [Why is the sky blue?](https://kollitsch.dev/blog/2023/why-is-the-sky-blue/)
 - [Youtube](https://kollitsch.dev/components/hugo-youtube/)
 - [Pictures](https://kollitsch.dev/components/hugo-pictures/)
 - [Kurzschnitte II - First Edition](https://kollitsch.dev/blog/2023/kurzschnitte-ii-1/)
-- [Notes from the Laboratory: July 2023](https://kollitsch.dev/blog/2023/notes-from-the-laboratory-july/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
