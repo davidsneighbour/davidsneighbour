@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Reusable Gohugo Forms via Configuration](https://kollitsch.dev/blog/2023/reusable-gohugo-forms-via-configuration/)
 - [Git&#39;s missing status Hook](https://kollitsch.dev/blog/2023/git-status-hook/)
 - [Update Npm Packages in All Available Nvm Environments](https://kollitsch.dev/blog/2023/update-npm-packages-in-all-available-nvm-environments/)
 - [Why is the sky blue?](https://kollitsch.dev/blog/2023/why-is-the-sky-blue/)
 - [Youtube](https://kollitsch.dev/components/hugo-youtube/)
-- [Pictures](https://kollitsch.dev/components/hugo-pictures/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
