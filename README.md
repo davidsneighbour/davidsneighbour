@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [How to create custom file type handlers for individual folders in VSCode projects](https://kollitsch.dev/blog/2023/custom-file-type-handler-for-subfolders-in-vscode-projects/)
 - [Howto get the next semver version number in a bash script](https://kollitsch.dev/blog/2023/get-the-next-semver-version/)
 - [Reusable Gohugo Forms via Configuration](https://kollitsch.dev/blog/2023/reusable-gohugo-forms-via-configuration/)
 - [Git&#39;s missing status Hook](https://kollitsch.dev/blog/2023/git-status-hook/)
 - [Update Npm Packages in All Available Nvm Environments](https://kollitsch.dev/blog/2023/update-npm-packages-in-all-available-nvm-environments/)
-- [Why is the sky blue?](https://kollitsch.dev/blog/2023/why-is-the-sky-blue/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
