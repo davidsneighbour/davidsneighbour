@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [How to make browsers download a linked file](https://kollitsch.dev/blog/2023/how-to-make-browsers-download-a-linked-file/)
 - [Prevent js.Build from removing un-used Javascript functionality](https://kollitsch.dev/blog/2023/prevent-jsbuild-from-removing-un-unused-javascript-functionality/)
 - [How to create custom file type handlers for individual folders in VSCode projects](https://kollitsch.dev/blog/2023/custom-file-type-handler-for-subfolders-in-vscode-projects/)
 - [Howto get the next semver version number in a bash script](https://kollitsch.dev/blog/2023/get-the-next-semver-version/)
 - [Reusable Gohugo Forms via Configuration](https://kollitsch.dev/blog/2023/reusable-gohugo-forms-via-configuration/)
-- [Git&#39;s missing status Hook](https://kollitsch.dev/blog/2023/git-status-hook/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
