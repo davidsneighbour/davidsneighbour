@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
-- [How to make browsers download a linked file](https://kollitsch.dev/blog/2023/how-to-make-browsers-download-a-linked-file/)
-- [Prevent js.Build from removing un-used Javascript functionality](https://kollitsch.dev/blog/2023/prevent-jsbuild-from-removing-un-unused-javascript-functionality/)
-- [How to create custom file type handlers for individual folders in VSCode projects](https://kollitsch.dev/blog/2023/custom-file-type-handler-for-subfolders-in-vscode-projects/)
-- [Howto get the next semver version number in a bash script](https://kollitsch.dev/blog/2023/get-the-next-semver-version/)
-- [Reusable Gohugo Forms via Configuration](https://kollitsch.dev/blog/2023/reusable-gohugo-forms-via-configuration/)
+- [Music to Program to, Part 8](https://kollitsch.dev/blog/2024/music-to-program-to-8/)
+- [Devtools](https://kollitsch.dev/components/hugo-devtools/)
+- [Pantone&#39;s color of the year Peach Fuzz in CSS](https://kollitsch.dev/blog/2023/pantones-color-of-the-year-peach-fuzz-in-css/)
+- [The Year Twitter Died](https://kollitsch.dev/blog/2023/the-year-twitter-died/)
+- [Back to the Top without Javascript](https://kollitsch.dev/blog/2023/back-to-top-without-javascript/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
