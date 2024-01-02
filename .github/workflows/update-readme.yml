@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -14,4 +16,4 @@ jobs:
         name: Load latest blog posts on kollitsch.dev
         with:
           comment_tag_name: "KOLLITSCH"
-          feed_list: "https://kollitsch.dev/rss.xml"
+          feed_list: "https://rssproxy.migor.org/api/tf?url=https%3A%2F%2Fkollitsch.dev%2Frss.xml&re=none&out=atom"
