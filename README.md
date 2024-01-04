@@ -10,11 +10,11 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [Showing the Current Breakpoint for Bootstrap](https://kollitsch.dev/blog/2024/showing-the-current-breakpoint-for-bootstrap/)
 - [Music to Program to, Part 8](https://kollitsch.dev/blog/2024/music-to-program-to-8/)
 - [Devtools](https://kollitsch.dev/components/hugo-devtools/)
 - [Pantone&#39;s color of the year Peach Fuzz in CSS](https://kollitsch.dev/blog/2023/pantones-color-of-the-year-peach-fuzz-in-css/)
 - [The Year Twitter Died](https://kollitsch.dev/blog/2023/the-year-twitter-died/)
-- [Back to the Top without Javascript](https://kollitsch.dev/blog/2023/back-to-top-without-javascript/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
