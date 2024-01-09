@@ -13,6 +13,11 @@
 - [Devtools](https://kollitsch.dev/components/hugo-devtools/)
 - [Pantone&#39;s color of the year Peach Fuzz in CSS](https://kollitsch.dev/blog/2023/pantones-color-of-the-year-peach-fuzz-in-css/)
 - [The Year Twitter Died](https://kollitsch.dev/blog/2023/the-year-twitter-died/)
+- [Back to the Top without Javascript](https://kollitsch.dev/blog/2023/back-to-top-without-javascript/)
+- [Kurzschnitte II - Sophomore Edition](https://kollitsch.dev/blog/2023/kurzschnitte-ii-2/)
+- [Run Hugo server when VSCode opens a workspace](https://kollitsch.dev/blog/2023/run-hugo-server-when-vscode-opens-a-workspace/)
+- [Well, well, well, not so fast...](https://kollitsch.dev/blog/2023/well-well-well-not-so-fast/)
+- [Patrick vs. the Bad Super Block](https://kollitsch.dev/blog/2023/patrick-vs-the-bad-super-block/)
 <!-- KOLLITSCH:END -->
 
 ## [BooKa](https://github.com/getbooka)
