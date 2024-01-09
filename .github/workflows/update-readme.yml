@@ -16,4 +16,5 @@ jobs:
         name: Load latest blog posts on kollitsch.dev
         with:
           comment_tag_name: "KOLLITSCH"
+          max_post_count: 10
           feed_list: "https://rssproxy.migor.org/api/tf?url=https%3A%2F%2Fkollitsch.dev%2Frss.xml&re=none&out=atom"
