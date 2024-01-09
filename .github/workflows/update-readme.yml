@@ -18,4 +18,6 @@ jobs:
           comment_tag_name: "KOLLITSCH"
           max_post_count: 10
           feed_list: "https://rssproxy.migor.org/api/tf?url=https%3A%2F%2Fkollitsch.dev%2Frss.xml&re=none&out=atom"
-          template: "- [$date] [$title]($url)$newline"
+          template: "$newline- [$date] **[$title]($url)**$newline$description"
+          date_format: "yyyy-mmm-ddd"
+          description_max_length: 200
