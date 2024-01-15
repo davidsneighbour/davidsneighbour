@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-01-14] **[Sitemap](https://kollitsch.dev/components/hugo-sitemap/)**
+
+  Elevate your website&#39;s sitemap with a versatile Hugo theme component. Customizable setup options per page. Discover more!
 - [2024-01-03] **[Showing the Current Breakpoint for Bootstrap](https://kollitsch.dev/blog/2024/showing-the-current-breakpoint-for-bootstrap/)**
 
   The problem: I am refining the display of certain sections of my website and I need to know what exact break point is userd currently by Bootstrap. I am using the latest Bootstrap version.
@@ -33,10 +36,7 @@ The soluti...
   Learn how to automate Hugo server startup in VSCode using tasks.json, saving time and effort every time you open your project.
 - [2023-11-26] **[Well, well, well, not so fast...](https://kollitsch.dev/blog/2023/well-well-well-not-so-fast/)**
 
-  As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.
-- [2023-11-26] **[Patrick vs. the Bad Super Block](https://kollitsch.dev/blog/2023/patrick-vs-the-bad-super-block/)**
-
-  Join me in tackling a superblock error on a 20TB LUKS-encrypted drive in Ubuntu, featuring step-by-step recovery insights and practical tips.<!-- KOLLITSCH:END -->
+  As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
