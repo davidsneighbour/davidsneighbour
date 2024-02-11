@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-02-10] **[Kurzschnitte II - Third Linkdump](https://kollitsch.dev/blog/2024/kurzschnitte-ii-3/)**
+
+  Explore the latest in web development and design with Kurzschnitte II: from open-source insights to CSS animations and favicon tips. Dive in now!
 - [2024-01-03] **[Showing the Current Breakpoint for Bootstrap](https://kollitsch.dev/blog/2024/showing-the-current-breakpoint-for-bootstrap/)**
 
   The problem: I am refining the display of certain sections of my website and I need to know what exact break point is userd currently by Bootstrap. I am using the latest Bootstrap version.
@@ -33,10 +36,7 @@ The soluti...
   As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.
 - [2023-11-26] **[Patrick vs. the Bad Super Block](https://kollitsch.dev/blog/2023/patrick-vs-the-bad-super-block/)**
 
-  Join me in tackling a superblock error on a 20TB LUKS-encrypted drive in Ubuntu, featuring step-by-step recovery insights and practical tips.
-- [2023-11-20] **[Diogenes vs. Plato](https://kollitsch.dev/blog/2023/diogenes-vs-plato/)**
-
-  When Plato gave the definition of man as &quot;featherless bipeds&quot;, Diogenes plucked a chicken and brought it into Plato&#39;s Academy, saying, &quot;Behold! I&#39;ve brought you a man&quot;.<!-- KOLLITSCH:END -->
+  Join me in tackling a superblock error on a 20TB LUKS-encrypted drive in Ubuntu, featuring step-by-step recovery insights and practical tips.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
