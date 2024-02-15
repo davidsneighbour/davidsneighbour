@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-02-14] **[Url shortening service using a static website on Netlify](https://kollitsch.dev/blog/2024/url-shortening-service-via-netlify-static-website/)**
+
+  Learn how to set up a link redirection service on Netlify in minutes. Utilize simple steps to manage redirects effortlessly and enhance your project URLs&#39; accessibility.
 - [2024-02-10] **[Kurzschnitte II - Third Linkdump](https://kollitsch.dev/blog/2024/kurzschnitte-ii-3/)**
 
   Explore the latest in web development and design with Kurzschnitte II: from open-source insights to CSS animations and favicon tips. Dive in now!
@@ -33,10 +36,7 @@ The soluti...
   Learn how to automate Hugo server startup in VSCode using tasks.json, saving time and effort every time you open your project.
 - [2023-11-26] **[Well, well, well, not so fast...](https://kollitsch.dev/blog/2023/well-well-well-not-so-fast/)**
 
-  As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.
-- [2023-11-26] **[Patrick vs. the Bad Super Block](https://kollitsch.dev/blog/2023/patrick-vs-the-bad-super-block/)**
-
-  Join me in tackling a superblock error on a 20TB LUKS-encrypted drive in Ubuntu, featuring step-by-step recovery insights and practical tips.<!-- KOLLITSCH:END -->
+  As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
