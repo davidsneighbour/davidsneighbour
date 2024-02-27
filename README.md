@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-02-26] **[Refactoring Gohugo Aliases](https://kollitsch.dev/blog/2024/refactoring-gohugo-aliases/)**
+
+  GoHugo&amp;rsquo;s documentation recently started to show functions and methods with their &amp;ldquo;real&amp;rdquo; name, instead of the alias used in the GoHugo codebase. Did you for instance knew that apply i...
 - [2024-02-14] **[Url shortening service using a static website on Netlify](https://kollitsch.dev/blog/2024/url-shortening-service-via-netlify-static-website/)**
 
   Learn how to set up a link redirection service on Netlify in minutes. Utilize simple steps to manage redirects effortlessly and enhance your project URLs&#39; accessibility.
@@ -33,10 +36,7 @@ The soluti...
   Welcome to Kurzschnitte II, a collection of links I came across in recent weeks. These links were noteworthy to me, but I don&amp;rsquo;t want to write a full blog post about them. Instead, I&amp;rsquo;ve gat...
 - [2023-12-01] **[Run Hugo server when VSCode opens a workspace](https://kollitsch.dev/blog/2023/run-hugo-server-when-vscode-opens-a-workspace/)**
 
-  Learn how to automate Hugo server startup in VSCode using tasks.json, saving time and effort every time you open your project.
-- [2023-11-26] **[Well, well, well, not so fast...](https://kollitsch.dev/blog/2023/well-well-well-not-so-fast/)**
-
-  As I reported a while ago, I embarked on an exhilarating journey with the \#100DaysToOffload challenge, a quest to enrich my blog with 100 posts within a year.<!-- KOLLITSCH:END -->
+  Learn how to automate Hugo server startup in VSCode using tasks.json, saving time and effort every time you open your project.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
