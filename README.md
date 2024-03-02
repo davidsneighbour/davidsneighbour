@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-03-01] **[Git stashes for ADHDers](https://kollitsch.dev/blog/2024/git-stashes-for-adhders/)**
+
+  If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...
 - [2024-02-26] **[Refactoring Gohugo Aliases](https://kollitsch.dev/blog/2024/refactoring-gohugo-aliases/)**
 
   GoHugo&amp;rsquo;s documentation recently started to show functions and methods with their &amp;ldquo;real&amp;rdquo; name, instead of the alias used in the GoHugo codebase. Did you for instance knew that apply i...
@@ -33,10 +36,7 @@ The soluti...
   In my lifelong quest to minimize the code to display my view of the world &lpar;aka this website&rpar; I realised, that I can get rid of all JS to display my &quot;Back to top&quot; button.
 - [2023-12-03] **[Kurzschnitte II - Sophomore Edition](https://kollitsch.dev/blog/2023/kurzschnitte-ii-2/)**
 
-  Welcome to Kurzschnitte II, a collection of links I came across in recent weeks. These links were noteworthy to me, but I don&amp;rsquo;t want to write a full blog post about them. Instead, I&amp;rsquo;ve gat...
-- [2023-12-01] **[Run Hugo server when VSCode opens a workspace](https://kollitsch.dev/blog/2023/run-hugo-server-when-vscode-opens-a-workspace/)**
-
-  Learn how to automate Hugo server startup in VSCode using tasks.json, saving time and effort every time you open your project.<!-- KOLLITSCH:END -->
+  Welcome to Kurzschnitte II, a collection of links I came across in recent weeks. These links were noteworthy to me, but I don&amp;rsquo;t want to write a full blog post about them. Instead, I&amp;rsquo;ve gat...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
