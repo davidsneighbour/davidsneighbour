@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-03-07] **[Bash Function to Remove Github Ghost Notifications](https://kollitsch.dev/blog/2024/bash-function-to-remove-github-ghost-notifications/)**
+
+  Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...
 - [2024-03-01] **[Git stashes for ADHDers](https://kollitsch.dev/blog/2024/git-stashes-for-adhders/)**
 
   If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...
@@ -33,10 +36,7 @@ The soluti...
   Explore The Verge&#39;s 2023 series on Twitter&#39;s impact: its news dominance, unique work culture, role in harassment, and humorous legacy.
 - [2023-12-03] **[Back to the Top without Javascript](https://kollitsch.dev/blog/2023/back-to-top-without-javascript/)**
 
-  In my lifelong quest to minimize the code to display my view of the world &lpar;aka this website&rpar; I realised, that I can get rid of all JS to display my &quot;Back to top&quot; button.
-- [2023-12-03] **[Kurzschnitte II - Sophomore Edition](https://kollitsch.dev/blog/2023/kurzschnitte-ii-2/)**
-
-  Welcome to Kurzschnitte II, a collection of links I came across in recent weeks. These links were noteworthy to me, but I don&amp;rsquo;t want to write a full blog post about them. Instead, I&amp;rsquo;ve gat...<!-- KOLLITSCH:END -->
+  In my lifelong quest to minimize the code to display my view of the world &lpar;aka this website&rpar; I realised, that I can get rid of all JS to display my &quot;Back to top&quot; button.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
