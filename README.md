@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-03-08] **[Erasing ~2 decades of Twitter](https://kollitsch.dev/blog/2024/erasing-decades-of-twitter/)**
+
+  A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...
 - [2024-03-07] **[Bash Function to Remove Github Ghost Notifications](https://kollitsch.dev/blog/2024/bash-function-to-remove-github-ghost-notifications/)**
 
   Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...
@@ -33,10 +36,7 @@ The soluti...
   Explore the significance of Pantone&#39;s 2024 Color of the Year, Peach Fuzz, and its digital equivalents in HEX, RGB, HSL, and CMYK for web design.
 - [2023-12-17] **[The Year Twitter Died](https://kollitsch.dev/blog/2023/the-year-twitter-died/)**
 
-  Explore The Verge&#39;s 2023 series on Twitter&#39;s impact: its news dominance, unique work culture, role in harassment, and humorous legacy.
-- [2023-12-03] **[Back to the Top without Javascript](https://kollitsch.dev/blog/2023/back-to-top-without-javascript/)**
-
-  In my lifelong quest to minimize the code to display my view of the world &lpar;aka this website&rpar; I realised, that I can get rid of all JS to display my &quot;Back to top&quot; button.<!-- KOLLITSCH:END -->
+  Explore The Verge&#39;s 2023 series on Twitter&#39;s impact: its news dominance, unique work culture, role in harassment, and humorous legacy.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
