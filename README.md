@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-03-25] **[Highlighting blockquotes in GitHub Markdown format](https://kollitsch.dev/blog/2024/highlighting-blockquotes-in-github-markdown-format/)**
+
+  Discover how to use GitHub&#39;s new Markdown features to highlight notes, warnings, and more, enhancing your documentation&#39;s readability.
 - [2024-03-08] **[Erasing ~2 decades of Twitter](https://kollitsch.dev/blog/2024/erasing-decades-of-twitter/)**
 
   A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...
@@ -33,10 +36,7 @@ The soluti...
   \&quot;Flow State\&quot; by Above &amp; Beyond is in my opinion an ideal soundtrack for enhancing concentration and workflow.
 - [2023-12-17] **[Pantone&#39;s color of the year Peach Fuzz in CSS](https://kollitsch.dev/blog/2023/pantones-color-of-the-year-peach-fuzz-in-css/)**
 
-  Explore the significance of Pantone&#39;s 2024 Color of the Year, Peach Fuzz, and its digital equivalents in HEX, RGB, HSL, and CMYK for web design.
-- [2023-12-17] **[The Year Twitter Died](https://kollitsch.dev/blog/2023/the-year-twitter-died/)**
-
-  Explore The Verge&#39;s 2023 series on Twitter&#39;s impact: its news dominance, unique work culture, role in harassment, and humorous legacy.<!-- KOLLITSCH:END -->
+  Explore the significance of Pantone&#39;s 2024 Color of the Year, Peach Fuzz, and its digital equivalents in HEX, RGB, HSL, and CMYK for web design.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
