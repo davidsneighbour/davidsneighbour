@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-04-11] **[Automatically load workspace when starting VSCode](https://kollitsch.dev/blog/2024/automatically-load-workspace-when-starting-vscode/)**
+
+  Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...
+- [2024-04-11] **[How to delete all files ignored by Git](https://kollitsch.dev/blog/2024/howto-delete-all-files-ignored-by-git/)**
+
+  The .gitignore file in a Git repository serves as a configuration file that specifies files and directories that Git should &amp;mdash; as the name implies &amp;mdash; ignore. When Git encounters a file or di...
 - [2024-03-25] **[Highlighting blockquotes in GitHub Markdown format](https://kollitsch.dev/blog/2024/highlighting-blockquotes-in-github-markdown-format/)**
 
   Discover how to use GitHub&#39;s new Markdown features to highlight notes, warnings, and more, enhancing your documentation&#39;s readability.
@@ -30,13 +36,7 @@
 - [2024-01-03] **[Showing the Current Breakpoint for Bootstrap](https://kollitsch.dev/blog/2024/showing-the-current-breakpoint-for-bootstrap/)**
 
   The problem: I am refining the display of certain sections of my website and I need to know what exact break point is userd currently by Bootstrap. I am using the latest Bootstrap version.
-The soluti...
-- [2024-01-02] **[Music to Program to, Part 8](https://kollitsch.dev/blog/2024/music-to-program-to-8/)**
-
-  \&quot;Flow State\&quot; by Above &amp; Beyond is in my opinion an ideal soundtrack for enhancing concentration and workflow.
-- [2023-12-17] **[Pantone&#39;s color of the year Peach Fuzz in CSS](https://kollitsch.dev/blog/2023/pantones-color-of-the-year-peach-fuzz-in-css/)**
-
-  Explore the significance of Pantone&#39;s 2024 Color of the Year, Peach Fuzz, and its digital equivalents in HEX, RGB, HSL, and CMYK for web design.<!-- KOLLITSCH:END -->
+The soluti...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
