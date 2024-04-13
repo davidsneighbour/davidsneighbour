@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-04-12] **[Git `push.default` setup](https://kollitsch.dev/blog/2024/git-push-default-setup/)**
+
+  Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.
 - [2024-04-11] **[Automatically load workspace when starting VSCode](https://kollitsch.dev/blog/2024/automatically-load-workspace-when-starting-vscode/)**
 
   Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...
@@ -32,11 +35,7 @@
   Learn how to set up a link redirection service on Netlify in minutes. Utilize simple steps to manage redirects effortlessly and enhance your project URLs&#39; accessibility.
 - [2024-02-10] **[Kurzschnitte II - Third Linkdump](https://kollitsch.dev/blog/2024/kurzschnitte-ii-3/)**
 
-  Explore the latest in web development and design with Kurzschnitte II: from open-source insights to CSS animations and favicon tips. Dive in now!
-- [2024-01-03] **[Showing the Current Breakpoint for Bootstrap](https://kollitsch.dev/blog/2024/showing-the-current-breakpoint-for-bootstrap/)**
-
-  The problem: I am refining the display of certain sections of my website and I need to know what exact break point is userd currently by Bootstrap. I am using the latest Bootstrap version.
-The soluti...<!-- KOLLITSCH:END -->
+  Explore the latest in web development and design with Kurzschnitte II: from open-source insights to CSS animations and favicon tips. Dive in now!<!-- KOLLITSCH:END -->
 
 ## BooKa
 
