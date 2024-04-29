@@ -6,9 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-04-28] **[Cloning All My Repos on a New Ubuntu Installation](https://kollitsch.dev/blog/2024/cloning-all-my-repos-on-a-new-ubuntu-installation/)**
+
+  A script to automatically clone all my GitHub repos to a local Ubuntu system using GitHub&#39;s REST API.
 - [2024-04-26] **[HowTo fix Google Chrome not starting after renaming the host in Ubuntu 24.04](https://kollitsch.dev/blog/2024/howto-fix-google-chrome-not-starting-after-renaming-the-host-in-ubuntu-2404/)**
 
-  My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&amp;rsquo;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;long term support&rpar; version. In 2022 I stopped...
+  My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&#39;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;**long** **term** **support**&rpar; version.
 - [2024-04-12] **[Git `push.default` setup](https://kollitsch.dev/blog/2024/git-push-default-setup/)**
 
   Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.
@@ -32,10 +35,7 @@
   If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...
 - [2024-02-26] **[Refactoring Gohugo Aliases](https://kollitsch.dev/blog/2024/refactoring-gohugo-aliases/)**
 
-  GoHugo&amp;rsquo;s documentation recently started to show functions and methods with their &amp;ldquo;real&amp;rdquo; name, instead of the alias used in the GoHugo codebase. Did you for instance knew that apply i...
-- [2024-02-14] **[Url shortening service using a static website on Netlify](https://kollitsch.dev/blog/2024/url-shortening-service-via-netlify-static-website/)**
-
-  Learn how to set up a link redirection service on Netlify in minutes. Utilize simple steps to manage redirects effortlessly and enhance your project URLs&#39; accessibility.<!-- KOLLITSCH:END -->
+  GoHugo&amp;rsquo;s documentation recently started to show functions and methods with their &amp;ldquo;real&amp;rdquo; name, instead of the alias used in the GoHugo codebase. Did you for instance knew that apply i...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
