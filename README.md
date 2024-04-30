@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-04-29] **[Keybase vs. Ubuntu 24.04](https://kollitsch.dev/blog/2024/installing-keybase-on-ubuntu-2404/)**
+
+  Trying to install Keybase &quot;the normal way&quot; on Ubuntu leads to errors about missing packages. Trying then to run `apt install -f` to fix the issues will lead to Keybase being uninstalled again. In olde...
 - [2024-04-28] **[Cloning All My Repos on a New Ubuntu Installation](https://kollitsch.dev/blog/2024/cloning-all-my-repos-on-a-new-ubuntu-installation/)**
 
   A script to automatically clone all my GitHub repos to a local Ubuntu system using GitHub&#39;s REST API.
@@ -32,10 +35,7 @@
   Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...
 - [2024-03-01] **[Git stashes for ADHDers](https://kollitsch.dev/blog/2024/git-stashes-for-adhders/)**
 
-  If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...
-- [2024-02-26] **[Refactoring Gohugo Aliases](https://kollitsch.dev/blog/2024/refactoring-gohugo-aliases/)**
-
-  GoHugo&amp;rsquo;s documentation recently started to show functions and methods with their &amp;ldquo;real&amp;rdquo; name, instead of the alias used in the GoHugo codebase. Did you for instance knew that apply i...<!-- KOLLITSCH:END -->
+  If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
