@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-03] **[New features in VSCode v1.89](https://kollitsch.dev/blog/2024/new-features-in-vscode-v189/)**
+
+  Three VSCode updates this month, that I find useful. VSCode keeps adding useful features every month.
 - [2024-04-29] **[Keybase vs. Ubuntu 24.04](https://kollitsch.dev/blog/2024/installing-keybase-on-ubuntu-2404/)**
 
   Trying to install Keybase &quot;the normal way&quot; on Ubuntu leads to errors about missing packages. Trying then to run `apt install -f` to fix the issues will lead to Keybase being uninstalled again. In olde...
@@ -32,10 +35,7 @@
   A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...
 - [2024-03-07] **[Bash Function to Remove Github Ghost Notifications](https://kollitsch.dev/blog/2024/bash-function-to-remove-github-ghost-notifications/)**
 
-  Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...
-- [2024-03-01] **[Git stashes for ADHDers](https://kollitsch.dev/blog/2024/git-stashes-for-adhders/)**
-
-  If you are like me you probably typed more than once git stash and meant git stash list while working on many different things at the same time. If not, then feel free to go somewhere else and don&amp;rsq...<!-- KOLLITSCH:END -->
+  Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
