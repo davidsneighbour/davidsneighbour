@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-05] **[Recovering a missing Keybase git repository](https://kollitsch.dev/blog/2024/recovering-a-missing-keybase-git-repository/)**
+
+  The fight with Keybase continues. Today we are debugging an empty repo after checking out.
 - [2024-05-03] **[New features in VSCode v1.89](https://kollitsch.dev/blog/2024/new-features-in-vscode-v189/)**
 
   Three VSCode updates this month, that I find useful. VSCode keeps adding useful features every month.
@@ -32,10 +35,7 @@
   Discover how to use GitHub&#39;s new Markdown features to highlight notes, warnings, and more, enhancing your documentation&#39;s readability.
 - [2024-03-08] **[Erasing ~2 decades of Twitter](https://kollitsch.dev/blog/2024/erasing-decades-of-twitter/)**
 
-  A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...
-- [2024-03-07] **[Bash Function to Remove Github Ghost Notifications](https://kollitsch.dev/blog/2024/bash-function-to-remove-github-ghost-notifications/)**
-
-  Every now and then my inbox in Github shows x total unread updates without having actual updates. When I click on it, there are no unread notifications. This is a known issue and it&amp;rsquo;s been aroun...<!-- KOLLITSCH:END -->
+  A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
