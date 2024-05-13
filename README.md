@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-12] **[The official Netflix trailer for Exploding Kittens &lpar;the series&rpar; is out](https://kollitsch.dev/blog/2024/the-official-netflix-trailer-for-exploding-kittens-the-series-is-out/)**
+
+  In the Exploding Kittens series, God &lpar;Tom Ellis&rpar; is fired, reborn as a cat, and faces off against Devilcat &lpar;Sasheer Zamata&rpar; on Earth while distracted by laser pointers and pigeons.
+- [2024-05-12] **[A Masterpiece about the Meisterstück](https://kollitsch.dev/blog/2024/a-masterpiece-about-the-meisterstueck/)**
+
+  Wes Anderson&#39;s &quot;100 Years of Meisterstück&quot; blends his signature aesthetic with humor to present Montblanc&#39;s iconic pen, showcasing its timeless legacy and craftsmanship.
 - [2024-05-05] **[Recovering a missing Keybase git repository](https://kollitsch.dev/blog/2024/recovering-a-missing-keybase-git-repository/)**
 
   The fight with Keybase continues. Today we are debugging an empty repo after checking out.
@@ -29,13 +35,7 @@
   Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...
 - [2024-04-11] **[How to delete all files ignored by Git](https://kollitsch.dev/blog/2024/howto-delete-all-files-ignored-by-git/)**
 
-  The .gitignore file in a Git repository serves as a configuration file that specifies files and directories that Git should &amp;mdash; as the name implies &amp;mdash; ignore. When Git encounters a file or di...
-- [2024-03-25] **[Highlighting blockquotes in GitHub Markdown format](https://kollitsch.dev/blog/2024/highlighting-blockquotes-in-github-markdown-format/)**
-
-  Discover how to use GitHub&#39;s new Markdown features to highlight notes, warnings, and more, enhancing your documentation&#39;s readability.
-- [2024-03-08] **[Erasing ~2 decades of Twitter](https://kollitsch.dev/blog/2024/erasing-decades-of-twitter/)**
-
-  A while back &lpar;about 15 months ago&rpar;, I stopped using Twitter. At first, I thought I might delete my account, but then I realized that somewhere along the lines, Twitter has begun to enforce a &amp;ldquo;yo...<!-- KOLLITSCH:END -->
+  The .gitignore file in a Git repository serves as a configuration file that specifies files and directories that Git should &amp;mdash; as the name implies &amp;mdash; ignore. When Git encounters a file or di...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
