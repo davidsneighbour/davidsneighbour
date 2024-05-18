@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-17] **[Fixing installation and plugin errors in LocalWP](https://kollitsch.dev/blog/2024/fixing-plugin-installation-errors-in-localwp/)**
+
+  Guide to installing LocalWP on Ubuntu 24.04, resolving issues with missing packages, PHP versions, and add-ons. Step-by-step solutions for smooth WordPress development.
 - [2024-05-12] **[The official Netflix trailer for Exploding Kittens &lpar;the series&rpar; is out](https://kollitsch.dev/blog/2024/the-official-netflix-trailer-for-exploding-kittens-the-series-is-out/)**
 
   In the Exploding Kittens series, God &lpar;Tom Ellis&rpar; is fired, reborn as a cat, and faces off against Devilcat &lpar;Sasheer Zamata&rpar; on Earth while distracted by laser pointers and pigeons.
@@ -32,10 +35,7 @@
   Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.
 - [2024-04-11] **[Automatically load workspace when starting VSCode](https://kollitsch.dev/blog/2024/automatically-load-workspace-when-starting-vscode/)**
 
-  Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...
-- [2024-04-11] **[How to delete all files ignored by Git](https://kollitsch.dev/blog/2024/howto-delete-all-files-ignored-by-git/)**
-
-  The .gitignore file in a Git repository serves as a configuration file that specifies files and directories that Git should &amp;mdash; as the name implies &amp;mdash; ignore. When Git encounters a file or di...<!-- KOLLITSCH:END -->
+  Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
