@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-18] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
+
+  This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
 - [2024-05-17] **[Fixing installation and plugin errors in LocalWP](https://kollitsch.dev/blog/2024/fixing-plugin-installation-errors-in-localwp/)**
 
   Guide to installing LocalWP on Ubuntu 24.04, resolving issues with missing packages, PHP versions, and add-ons. Step-by-step solutions for smooth WordPress development.
@@ -32,10 +35,7 @@
   My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&#39;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;**long** **term** **support**&rpar; version.
 - [2024-04-12] **[Git `push.default` setup](https://kollitsch.dev/blog/2024/git-push-default-setup/)**
 
-  Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.
-- [2024-04-11] **[Automatically load workspace when starting VSCode](https://kollitsch.dev/blog/2024/automatically-load-workspace-when-starting-vscode/)**
-
-  Workspaces are a great feature in VSCode. But they have their issues. For instance starting VSCode in a folder will not automatically load the workspace file. This can be annoying if you have a worksp...<!-- KOLLITSCH:END -->
+  Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
