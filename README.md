@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-05-26] **[Kurzschnitte II - Number 4](https://kollitsch.dev/blog/2024/kurzschnitte-ii-4/)**
+
+  The fourth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.
 - [2024-05-18] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
 
   This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
@@ -32,10 +35,7 @@
   A script to automatically clone all my GitHub repos to a local Ubuntu system using GitHub&#39;s REST API.
 - [2024-04-26] **[HowTo fix Google Chrome not starting after renaming the host in Ubuntu 24.04](https://kollitsch.dev/blog/2024/howto-fix-google-chrome-not-starting-after-renaming-the-host-in-ubuntu-2404/)**
 
-  My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&#39;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;**long** **term** **support**&rpar; version.
-- [2024-04-12] **[Git `push.default` setup](https://kollitsch.dev/blog/2024/git-push-default-setup/)**
-
-  Pushing a new branch to a repository&#39;s remote often requires two attempts by the scatterbrained developer, but there is help in `push.autoSetupRemote`.<!-- KOLLITSCH:END -->
+  My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&#39;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;**long** **term** **support**&rpar; version.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
