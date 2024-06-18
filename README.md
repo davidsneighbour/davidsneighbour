@@ -6,12 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-06-17] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
+
+  A very nice song by Glass Animals from before they were TikTok famous.
 - [2024-05-26] **[Kurzschnitte II - Number 4](https://kollitsch.dev/blog/2024/kurzschnitte-ii-4/)**
 
   The fourth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.
-- [2024-05-18] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
-
-  This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
 - [2024-05-17] **[Fixing installation and plugin errors in LocalWP](https://kollitsch.dev/blog/2024/fixing-plugin-installation-errors-in-localwp/)**
 
   Guide to installing LocalWP on Ubuntu 24.04, resolving issues with missing packages, PHP versions, and add-ons. Step-by-step solutions for smooth WordPress development.
