@@ -17,7 +17,7 @@ jobs:
         with:
           comment_tag_name: "KOLLITSCH"
           max_post_count: 10
-          feed_list: "http://kollitsch.dev/rss.xml"
+          feed_list: "https://kollitsch.dev/rss.xml"
           template: "$newline- [$date] **[$title]($url)**$newline$newline  $description"
           date_format: "yyyy-mm-dd"
           description_max_length: 200
