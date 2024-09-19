@@ -6,6 +6,24 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-09-09] **[Stop Ubuntu from automounting external harddrives on boot](https://kollitsch.dev/blog/2024/stop-ubuntu-from-automounting-external-harddrives-on-boot/)**
+
+  Disable Ubuntu&#39;s automatic mounting of external drives like Seagate to prevent issues. Use `gsettings` commands to manage automount settings via the terminal.
+- [2024-09-03] **[Kurzschnitte II - The fifth](https://kollitsch.dev/blog/2024/kurzschnitte-ii-5/)**
+
+  The fifth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.
+- [2024-08-25] **[Music to Program to, Part 10](https://kollitsch.dev/blog/2024/music-to-program-to-10/)**
+
+  This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
+- [2024-08-19] **[How to install a specific version of a program via Snap](https://kollitsch.dev/blog/2024/how-to-install-a-specific-version-of-a-program-via-snap/)**
+
+  I recently had to debug an issue with Go&lpar;lang&rpar;, that I thought was connected to an update of Go. As far as I remembered there was no way to install a specific version of any Snap package, but I though...
+- [2024-08-12] **[How to fix `ReferenceError: __dirname is not defined in ES module scope`](https://kollitsch.dev/blog/2024/how-to-fix-dirname-not-defined-in-es-module-scope/)**
+
+  Replicate the missing `__dirname` and `__filename` variables from CommonJS in ES modules.
+- [2024-08-04] **[Image creation timeouts with Gohugo v0.131.0](https://kollitsch.dev/blog/2024/image-creation-timeouts-with-gohugo-131/)**
+
+  In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses xxHash, which is much speedier compared to the old MD5 hashing. It trims down those lengthy processed image filen...
 - [2024-06-17] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
 
   A very nice song by Glass Animals from before they were TikTok famous.
@@ -17,25 +35,7 @@
   Guide to installing LocalWP on Ubuntu 24.04, resolving issues with missing packages, PHP versions, and add-ons. Step-by-step solutions for smooth WordPress development.
 - [2024-05-12] **[The official Netflix trailer for Exploding Kittens &lpar;the series&rpar; is out](https://kollitsch.dev/blog/2024/the-official-netflix-trailer-for-exploding-kittens-the-series-is-out/)**
 
-  In the Exploding Kittens series, God &lpar;Tom Ellis&rpar; is fired, reborn as a cat, and faces off against Devilcat &lpar;Sasheer Zamata&rpar; on Earth while distracted by laser pointers and pigeons.
-- [2024-05-12] **[A Masterpiece about the Meisterstück](https://kollitsch.dev/blog/2024/a-masterpiece-about-the-meisterstueck/)**
-
-  Wes Anderson&#39;s &quot;100 Years of Meisterstück&quot; blends his signature aesthetic with humor to present Montblanc&#39;s iconic pen, showcasing its timeless legacy and craftsmanship.
-- [2024-05-05] **[Recovering a missing Keybase git repository](https://kollitsch.dev/blog/2024/recovering-a-missing-keybase-git-repository/)**
-
-  The fight with Keybase continues. Today we are debugging an empty repo after checking out.
-- [2024-05-03] **[New features in VSCode v1.89](https://kollitsch.dev/blog/2024/new-features-in-vscode-v189/)**
-
-  Three VSCode updates this month, that I find useful. VSCode keeps adding useful features every month.
-- [2024-04-29] **[Keybase vs. Ubuntu 24.04](https://kollitsch.dev/blog/2024/installing-keybase-on-ubuntu-2404/)**
-
-  Trying to install Keybase &quot;the normal way&quot; on Ubuntu leads to errors about missing packages. Trying then to run `apt install -f` to fix the issues will lead to Keybase being uninstalled again. In olde...
-- [2024-04-28] **[Cloning All My Repos on a New Ubuntu Installation](https://kollitsch.dev/blog/2024/cloning-all-my-repos-on-a-new-ubuntu-installation/)**
-
-  A script to automatically clone all my GitHub repos to a local Ubuntu system using GitHub&#39;s REST API.
-- [2024-04-26] **[HowTo fix Google Chrome not starting after renaming the host in Ubuntu 24.04](https://kollitsch.dev/blog/2024/howto-fix-google-chrome-not-starting-after-renaming-the-host-in-ubuntu-2404/)**
-
-  My recent days were marked by the biennial &lpar;as in every two years&rpar; prematurely &lpar;I&#39;ll explain that in a later post&rpar; installation of a new Ubuntu LTS &lpar;**long** **term** **support**&rpar; version.<!-- KOLLITSCH:END -->
+  In the Exploding Kittens series, God &lpar;Tom Ellis&rpar; is fired, reborn as a cat, and faces off against Devilcat &lpar;Sasheer Zamata&rpar; on Earth while distracted by laser pointers and pigeons.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
