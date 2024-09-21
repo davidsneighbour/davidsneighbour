@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-09-20] **[Kurzschnitte II - Pt. 7](https://kollitsch.dev/blog/2024/kurzschnitte-ii-7/)**
+
+  Welcome to Kurzschnitte II, iteration seven. The number 7 is mathematically notable as a prime followed by a cube and is a popular favorite culturally, spiritually, and in gaming, particularly in crap...
+- [2024-09-20] **[Kurzschnitte II - 6ix](https://kollitsch.dev/blog/2024/kurzschnitte-ii-6/)**
+
+  The sixth edition of Kurzschnitte II. Did you know that six is the smallest positive integer which is neither a square number nor a prime number? Now you know.
 - [2024-09-09] **[Stop Ubuntu from automounting external harddrives on boot](https://kollitsch.dev/blog/2024/stop-ubuntu-from-automounting-external-harddrives-on-boot/)**
 
   Disable Ubuntu&#39;s automatic mounting of external drives like Seagate to prevent issues. Use `gsettings` commands to manage automount settings via the terminal.
@@ -17,25 +23,19 @@
   This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
 - [2024-08-19] **[How to install a specific version of a program via Snap](https://kollitsch.dev/blog/2024/how-to-install-a-specific-version-of-a-program-via-snap/)**
 
-  I recently had to debug an issue with Go&lpar;lang&rpar;, that I thought was connected to an update of Go. As far as I remembered there was no way to install a specific version of any Snap package, but I though...
+  &lt;p&gt;I recently had to debug an issue with Go&lpar;lang&rpar;, that I thought was connected to an update of Go. As far as I remembered there was no way to install a specific version of any Snap package, but I tho...
 - [2024-08-12] **[How to fix `ReferenceError: __dirname is not defined in ES module scope`](https://kollitsch.dev/blog/2024/how-to-fix-dirname-not-defined-in-es-module-scope/)**
 
   Replicate the missing `__dirname` and `__filename` variables from CommonJS in ES modules.
 - [2024-08-04] **[Image creation timeouts with Gohugo v0.131.0](https://kollitsch.dev/blog/2024/image-creation-timeouts-with-gohugo-131/)**
 
-  In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses xxHash, which is much speedier compared to the old MD5 hashing. It trims down those lengthy processed image filen...
+  &lt;p&gt;In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses &lt;code&gt;xxHash&lt;/code&gt;, which is much speedier compared to the old MD5 hashing. It trims down those lengthy proce...
 - [2024-06-17] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
 
   A very nice song by Glass Animals from before they were TikTok famous.
 - [2024-05-26] **[Kurzschnitte II - Number 4](https://kollitsch.dev/blog/2024/kurzschnitte-ii-4/)**
 
-  The fourth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.
-- [2024-05-17] **[Fixing installation and plugin errors in LocalWP](https://kollitsch.dev/blog/2024/fixing-plugin-installation-errors-in-localwp/)**
-
-  Guide to installing LocalWP on Ubuntu 24.04, resolving issues with missing packages, PHP versions, and add-ons. Step-by-step solutions for smooth WordPress development.
-- [2024-05-12] **[The official Netflix trailer for Exploding Kittens &lpar;the series&rpar; is out](https://kollitsch.dev/blog/2024/the-official-netflix-trailer-for-exploding-kittens-the-series-is-out/)**
-
-  In the Exploding Kittens series, God &lpar;Tom Ellis&rpar; is fired, reborn as a cat, and faces off against Devilcat &lpar;Sasheer Zamata&rpar; on Earth while distracted by laser pointers and pigeons.<!-- KOLLITSCH:END -->
+  The fourth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
