@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-09-22] **[Firefox vs. external SVGs](https://kollitsch.dev/blog/2024/firefox-vs-external-svg/)**
+
+  While I was working on my Content Security Policies &lpar;CSP&rpar; last week I found some of my pages hitting a block for my own pages on `default-src &#39;none&#39;`. After some digging, I found that this error only...
+- [2024-09-22] **[Nacho](https://kollitsch.dev/blog/2024/nacho/)**
+
+  The secret ingredient to perfectly smooth nacho cheese is Sodium Citrate.
 - [2024-09-20] **[Kurzschnitte II - Pt. 7](https://kollitsch.dev/blog/2024/kurzschnitte-ii-7/)**
 
   Welcome to Kurzschnitte II, iteration seven. The number 7 is mathematically notable as a prime followed by a cube and is a popular favorite culturally, spiritually, and in gaming, particularly in crap...
@@ -29,13 +35,7 @@
   Replicate the missing `__dirname` and `__filename` variables from CommonJS in ES modules.
 - [2024-08-04] **[Image creation timeouts with Gohugo v0.131.0](https://kollitsch.dev/blog/2024/image-creation-timeouts-with-gohugo-131/)**
 
-  &lt;p&gt;In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses &lt;code&gt;xxHash&lt;/code&gt;, which is much speedier compared to the old MD5 hashing. It trims down those lengthy proce...
-- [2024-06-17] **[Music to Program to &lpar;Part 9&rpar;](https://kollitsch.dev/blog/2024/music-to-program-to-9/)**
-
-  A very nice song by Glass Animals from before they were TikTok famous.
-- [2024-05-26] **[Kurzschnitte II - Number 4](https://kollitsch.dev/blog/2024/kurzschnitte-ii-4/)**
-
-  The fourth installment of Kurzschnitte II, where I&#39;m sharing a collection of articles and tutorials that caught my attention in the past few weeks.<!-- KOLLITSCH:END -->
+  &lt;p&gt;In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses &lt;code&gt;xxHash&lt;/code&gt;, which is much speedier compared to the old MD5 hashing. It trims down those lengthy proce...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
