@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-09-28] **[How to Install Flatpak on Ubuntu 24.04](https://kollitsch.dev/blog/2024/how-to-install-flatpak-on-ubuntu-2404/)**
+
+  In this guide, I&#39;ll walk you through the steps I took to set up Flatpak on Ubuntu, allowing to access a wide range of applications from Flathub, the leading Flatpak repository.
+- [2024-09-28] **[Swiss Made 2069: H.R. Giger&#39;s First Cinematic Monster&lpar;s&rpar;](https://kollitsch.dev/blog/2024/swiss-made-2069/)**
+
+  *Swiss Made 2069* &lpar;1968&rpar; marked the very first appearance of H.R. Giger&#39;s iconic creatures on the big screen.
 - [2024-09-22] **[Firefox vs. external SVGs](https://kollitsch.dev/blog/2024/firefox-vs-external-svg/)**
 
   While I was working on my Content Security Policies &lpar;CSP&rpar; last week I found some of my pages hitting a block for my own pages on `default-src &#39;none&#39;`. After some digging, I found that this error only...
@@ -29,13 +35,7 @@
   This is the online playground of Patrick Kollitsch, David&#39;s Neighbour, in Germany produced, digital native living &amp; working on Koh Samui in Thailand.
 - [2024-08-19] **[How to install a specific version of a program via Snap](https://kollitsch.dev/blog/2024/how-to-install-a-specific-version-of-a-program-via-snap/)**
 
-  &lt;p&gt;I recently had to debug an issue with Go&lpar;lang&rpar;, that I thought was connected to an update of Go. As far as I remembered there was no way to install a specific version of any Snap package, but I tho...
-- [2024-08-12] **[How to fix `ReferenceError: __dirname is not defined in ES module scope`](https://kollitsch.dev/blog/2024/how-to-fix-dirname-not-defined-in-es-module-scope/)**
-
-  Replicate the missing `__dirname` and `__filename` variables from CommonJS in ES modules.
-- [2024-08-04] **[Image creation timeouts with Gohugo v0.131.0](https://kollitsch.dev/blog/2024/image-creation-timeouts-with-gohugo-131/)**
-
-  &lt;p&gt;In Hugo v0.131.0, there&amp;rsquo;s an exciting update: the image hashing process now uses &lt;code&gt;xxHash&lt;/code&gt;, which is much speedier compared to the old MD5 hashing. It trims down those lengthy proce...<!-- KOLLITSCH:END -->
+  &lt;p&gt;I recently had to debug an issue with Go&lpar;lang&rpar;, that I thought was connected to an update of Go. As far as I remembered there was no way to install a specific version of any Snap package, but I tho...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
