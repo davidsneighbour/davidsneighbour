@@ -6,15 +6,15 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-10-21] **[Grief](https://kollitsch.dev/blog/2024/grief/)**
+
+  Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.
+- [2024-10-18] **[Switching from Ubuntu to Windows with WSL](https://kollitsch.dev/blog/2024/switching-from-ubuntu-to-windows-with-wsl/)**
+
+  Learn how to set up WSL on Windows 11 and run Linux like Ubuntu alongside Windows, with tips on installation, file system challenges, and long filename errors.
 - [2024-10-13] **[How to use GoHugo modules](https://kollitsch.dev/blog/2024/howto-use-gohugo-modules/)**
 
-  &lt;blockquote&gt;
-&lt;p&gt;Last modified: Sunday, Oct 13, 2024, 21:03PM&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;what-are-gohugo-modules&quot;&gt;
-What are GoHugo modules
-&lt;span class=&quot;heading-tools&quot;&gt;
-&lt;a href=&quot;#what-are-gohugo-modules&quot;...
+  In the world of GoHugo, **modules** serve as the building blocks that allow you to structure and manage your website&#39;s components efficiently. A **GoHugo Module** is a self-contained package of resour...
 - [2024-10-10] **[Kurzschnitte II - The eighth](https://kollitsch.dev/blog/2024/kurzschnitte-ii-8/)**
 
   Explore web development tools, learning resources on CSS and JavaScript, plus fun AI tools and emoji innovations in Kurzschnitte II&#39;s 8th edition.
@@ -35,13 +35,7 @@ What are GoHugo modules
   The secret ingredient to perfectly smooth nacho cheese is Sodium Citrate.
 - [2024-09-20] **[Kurzschnitte II - Pt. 7](https://kollitsch.dev/blog/2024/kurzschnitte-ii-7/)**
 
-  Welcome to Kurzschnitte II, iteration seven. The number 7 is mathematically notable as a prime followed by a cube and is a popular favorite culturally, spiritually, and in gaming, particularly in crap...
-- [2024-09-20] **[Kurzschnitte II - 6ix](https://kollitsch.dev/blog/2024/kurzschnitte-ii-6/)**
-
-  The sixth edition of Kurzschnitte II. Did you know that six is the smallest positive integer which is neither a square number nor a prime number? Now you know.
-- [2024-09-09] **[Stop Ubuntu from automounting external harddrives on boot](https://kollitsch.dev/blog/2024/stop-ubuntu-from-automounting-external-harddrives-on-boot/)**
-
-  Disable Ubuntu&#39;s automatic mounting of external drives like Seagate to prevent issues. Use `gsettings` commands to manage automount settings via the terminal.<!-- KOLLITSCH:END -->
+  Welcome to Kurzschnitte II, iteration seven. The number 7 is mathematically notable as a prime followed by a cube and is a popular favorite culturally, spiritually, and in gaming, particularly in crap...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
