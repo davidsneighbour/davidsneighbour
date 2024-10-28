@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-10-27] **[When Bambi met Godzilla](https://kollitsch.dev/blog/2024/bambie-meets-godzilla/)**
+
+  Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.
 - [2024-10-21] **[Grief](https://kollitsch.dev/blog/2024/grief/)**
 
   Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.
@@ -32,10 +35,7 @@
   While I was working on my Content Security Policies &lpar;CSP&rpar; last week I found some of my pages hitting a block for my own pages on `default-src &#39;none&#39;`. After some digging, I found that this error only...
 - [2024-09-22] **[Nacho](https://kollitsch.dev/blog/2024/nacho/)**
 
-  The secret ingredient to perfectly smooth nacho cheese is Sodium Citrate.
-- [2024-09-20] **[Kurzschnitte II - Pt. 7](https://kollitsch.dev/blog/2024/kurzschnitte-ii-7/)**
-
-  Welcome to Kurzschnitte II, iteration seven. The number 7 is mathematically notable as a prime followed by a cube and is a popular favorite culturally, spiritually, and in gaming, particularly in crap...<!-- KOLLITSCH:END -->
+  The secret ingredient to perfectly smooth nacho cheese is Sodium Citrate.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
