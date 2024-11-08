@@ -6,6 +6,12 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-11-07] **[hugov - a tool for managing Hugo versions](https://kollitsch.dev/blog/2024/hugov-managing-multiple-gohugo-versions/)**
+
+  hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.
+- [2024-10-30] **[Trent Reznor - Archetype of a synthesizer](https://kollitsch.dev/blog/2024/trent-reznor-archetype-of-a-synthesizer/)**
+
+  Trent Reznor discusses the significance of the Voyager synthesizer in his music career, highlighting its emotional expressiveness and unique sound.
 - [2024-10-27] **[When Bambi met Godzilla](https://kollitsch.dev/blog/2024/bambie-meets-godzilla/)**
 
   Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.
@@ -29,13 +35,7 @@
   In this guide, I&#39;ll walk you through the steps I took to set up Flatpak on Ubuntu, allowing to access a wide range of applications from Flathub, the leading Flatpak repository.
 - [2024-09-28] **[Swiss Made 2069: H.R. Giger&#39;s First Cinematic Monster&lpar;s&rpar;](https://kollitsch.dev/blog/2024/swiss-made-2069/)**
 
-  *Swiss Made 2069* &lpar;1968&rpar; marked the very first appearance of H.R. Giger&#39;s iconic creatures on the big screen.
-- [2024-09-22] **[Firefox vs. external SVGs](https://kollitsch.dev/blog/2024/firefox-vs-external-svg/)**
-
-  While I was working on my Content Security Policies &lpar;CSP&rpar; last week I found some of my pages hitting a block for my own pages on `default-src &#39;none&#39;`. After some digging, I found that this error only...
-- [2024-09-22] **[Nacho](https://kollitsch.dev/blog/2024/nacho/)**
-
-  The secret ingredient to perfectly smooth nacho cheese is Sodium Citrate.<!-- KOLLITSCH:END -->
+  *Swiss Made 2069* &lpar;1968&rpar; marked the very first appearance of H.R. Giger&#39;s iconic creatures on the big screen.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
