@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2024-11-25] **[Shutdown Raspberry Pi via SSH](https://kollitsch.dev/blog/2024/shutdown-raspberry-pi-via-ssh/)**
+
+  A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.
 - [2024-11-07] **[hugov - a tool for managing Hugo versions](https://kollitsch.dev/blog/2024/hugov-managing-multiple-gohugo-versions/)**
 
   hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.
@@ -32,10 +35,7 @@
   Discover Tom Cruise&#39;s directorial debut in Fallen Angels. Grifter Mitch Allison&#39;s desert schemes unravel in this quirky noir featuring Peter Gallagher and Isabella Rossellini.
 - [2024-09-28] **[How to Install Flatpak on Ubuntu 24.04](https://kollitsch.dev/blog/2024/how-to-install-flatpak-on-ubuntu-2404/)**
 
-  In this guide, I&#39;ll walk you through the steps I took to set up Flatpak on Ubuntu, allowing to access a wide range of applications from Flathub, the leading Flatpak repository.
-- [2024-09-28] **[Swiss Made 2069: H.R. Giger&#39;s First Cinematic Monster&lpar;s&rpar;](https://kollitsch.dev/blog/2024/swiss-made-2069/)**
-
-  *Swiss Made 2069* &lpar;1968&rpar; marked the very first appearance of H.R. Giger&#39;s iconic creatures on the big screen.<!-- KOLLITSCH:END -->
+  In this guide, I&#39;ll walk you through the steps I took to set up Flatpak on Ubuntu, allowing to access a wide range of applications from Flathub, the leading Flatpak repository.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
