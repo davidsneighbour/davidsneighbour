@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-01-01] **[FiniSh💩t 2025](https://kollitsch.dev/blog/2025/finishit-2025/)**
+
+  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.
 - [2024-11-30] **[Alfred Hitchcocks Cameos](https://kollitsch.dev/blog/2024/alfred-hitchcocks-cameos/)**
 
   Alfred Hitchcock makes various cameos in his films, often blending humor with suspense. This video highlights his unique storytelling style when it comes to including himself.
@@ -32,10 +35,7 @@
   In the world of GoHugo, **modules** serve as the building blocks that allow you to structure and manage your website&#39;s components efficiently. A **GoHugo Module** is a self-contained package of resour...
 - [2024-10-10] **[Kurzschnitte II - The eighth](https://kollitsch.dev/blog/2024/kurzschnitte-ii-8/)**
 
-  Explore web development tools, learning resources on CSS and JavaScript, plus fun AI tools and emoji innovations in Kurzschnitte II&#39;s 8th edition.
-- [2024-10-07] **[Tom Cruise&#39;s directorial debut](https://kollitsch.dev/blog/2024/tom-cruises-directorial-debut/)**
-
-  Discover Tom Cruise&#39;s directorial debut in Fallen Angels. Grifter Mitch Allison&#39;s desert schemes unravel in this quirky noir featuring Peter Gallagher and Isabella Rossellini.<!-- KOLLITSCH:END -->
+  Explore web development tools, learning resources on CSS and JavaScript, plus fun AI tools and emoji innovations in Kurzschnitte II&#39;s 8th edition.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
