@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-01-10] **[Hugo Quick Tip: Hide posts in larger projects via GoHugo Module Mounts](https://kollitsch.dev/blog/2025/hide-posts-in-larger-projects-via-gohugo-module-mounts/)**
+
+  Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.
 - [2025-01-01] **[FiniSh💩t 2025](https://kollitsch.dev/blog/2025/finishit-2025/)**
 
   FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.
@@ -32,10 +35,7 @@
   Learn how to set up WSL on Windows 11 and run Linux like Ubuntu alongside Windows, with tips on installation, file system challenges, and long filename errors.
 - [2024-10-13] **[How to use GoHugo modules](https://kollitsch.dev/blog/2024/howto-use-gohugo-modules/)**
 
-  In the world of GoHugo, **modules** serve as the building blocks that allow you to structure and manage your website&#39;s components efficiently. A **GoHugo Module** is a self-contained package of resour...
-- [2024-10-10] **[Kurzschnitte II - The eighth](https://kollitsch.dev/blog/2024/kurzschnitte-ii-8/)**
-
-  Explore web development tools, learning resources on CSS and JavaScript, plus fun AI tools and emoji innovations in Kurzschnitte II&#39;s 8th edition.<!-- KOLLITSCH:END -->
+  In the world of GoHugo, **modules** serve as the building blocks that allow you to structure and manage your website&#39;s components efficiently. A **GoHugo Module** is a self-contained package of resour...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
