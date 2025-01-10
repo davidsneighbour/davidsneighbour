@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-01-10] **[Disable Comments on Gists](https://kollitsch.dev/blog/2025/disable-comments-on-gists/)**
+
+  GitHub Gists now support disabling comments, offering developers better control over interactions. Prevent spam and keep your code snippets distraction-free.
 - [2025-01-10] **[Hugo Quick Tip: Hide posts in larger projects via GoHugo Module Mounts](https://kollitsch.dev/blog/2025/hide-posts-in-larger-projects-via-gohugo-module-mounts/)**
 
   Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.
@@ -32,10 +35,7 @@
   Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.
 - [2024-10-18] **[Switching from Ubuntu to Windows with WSL](https://kollitsch.dev/blog/2024/switching-from-ubuntu-to-windows-with-wsl/)**
 
-  Learn how to set up WSL on Windows 11 and run Linux like Ubuntu alongside Windows, with tips on installation, file system challenges, and long filename errors.
-- [2024-10-13] **[How to use GoHugo modules](https://kollitsch.dev/blog/2024/howto-use-gohugo-modules/)**
-
-  In the world of GoHugo, **modules** serve as the building blocks that allow you to structure and manage your website&#39;s components efficiently. A **GoHugo Module** is a self-contained package of resour...<!-- KOLLITSCH:END -->
+  Learn how to set up WSL on Windows 11 and run Linux like Ubuntu alongside Windows, with tips on installation, file system challenges, and long filename errors.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
