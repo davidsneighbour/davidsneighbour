@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-01-12] **[`scroll-margin-top` property in CSS](https://kollitsch.dev/blog/2025/scroll-margin-top-property-in-css/)**
+
+  Simplify anchor link navigation with CSS&#39;s modern `scroll-margin-top` property. Learn how it replaces old hacks and enhances performance.
 - [2025-01-10] **[Disable Comments on Gists](https://kollitsch.dev/blog/2025/disable-comments-on-gists/)**
 
   GitHub Gists now support disabling comments, offering developers better control over interactions. Prevent spam and keep your code snippets distraction-free.
@@ -32,10 +35,7 @@
   Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.
 - [2024-10-21] **[Grief](https://kollitsch.dev/blog/2024/grief/)**
 
-  Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.
-- [2024-10-18] **[Switching from Ubuntu to Windows with WSL](https://kollitsch.dev/blog/2024/switching-from-ubuntu-to-windows-with-wsl/)**
-
-  Learn how to set up WSL on Windows 11 and run Linux like Ubuntu alongside Windows, with tips on installation, file system challenges, and long filename errors.<!-- KOLLITSCH:END -->
+  Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
