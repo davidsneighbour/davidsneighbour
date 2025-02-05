@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/2025/alias-expansion-in-bash/)**
+
+  Learn how alias expansion works and how to use builtin to override it.
 - [2025-01-12] **[`scroll-margin-top` property in CSS](https://kollitsch.dev/blog/2025/scroll-margin-top-property-in-css/)**
 
   Simplify anchor link navigation with CSS&#39;s modern `scroll-margin-top` property. Learn how it replaces old hacks and enhances performance.
@@ -32,10 +35,7 @@
   Trent Reznor discusses the significance of the Voyager synthesizer in his music career, highlighting its emotional expressiveness and unique sound.
 - [2024-10-27] **[When Bambi met Godzilla](https://kollitsch.dev/blog/2024/bambie-meets-godzilla/)**
 
-  Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.
-- [2024-10-21] **[Grief](https://kollitsch.dev/blog/2024/grief/)**
-
-  Andrew Garfield and Elmo help children understand grief by discussing emotions and ways to cope with loss in a gentle, supportive conversation on Sesame Street.<!-- KOLLITSCH:END -->
+  Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
