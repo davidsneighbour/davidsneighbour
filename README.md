@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/2025/well-known-avatar-url/)**
+
+  This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.
 - [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/2025/fixing-previews-in-vscode-front-matter/)**
 
   VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.
@@ -32,10 +35,7 @@
   A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.
 - [2024-11-07] **[hugov - a tool for managing Hugo versions](https://kollitsch.dev/blog/2024/hugov-managing-multiple-gohugo-versions/)**
 
-  hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.
-- [2024-10-30] **[Trent Reznor - Archetype of a synthesizer](https://kollitsch.dev/blog/2024/trent-reznor-archetype-of-a-synthesizer/)**
-
-  Trent Reznor discusses the significance of the Voyager synthesizer in his music career, highlighting its emotional expressiveness and unique sound.<!-- KOLLITSCH:END -->
+  hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
