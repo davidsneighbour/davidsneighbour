@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/2025/fixing-previews-in-vscode-front-matter/)**
+
+  VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.
 - [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/2025/alias-expansion-in-bash/)**
 
   Learn how alias expansion works and how to use builtin to override it.
@@ -32,10 +35,7 @@
   hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.
 - [2024-10-30] **[Trent Reznor - Archetype of a synthesizer](https://kollitsch.dev/blog/2024/trent-reznor-archetype-of-a-synthesizer/)**
 
-  Trent Reznor discusses the significance of the Voyager synthesizer in his music career, highlighting its emotional expressiveness and unique sound.
-- [2024-10-27] **[When Bambi met Godzilla](https://kollitsch.dev/blog/2024/bambie-meets-godzilla/)**
-
-  Explore Marv Newland&#39;s iconic &quot;Bambi Meets Godzilla&quot; animation and Coda Shetterly&#39;s 4K re-creation, blending classic humor and modern artistry.<!-- KOLLITSCH:END -->
+  Trent Reznor discusses the significance of the Voyager synthesizer in his music career, highlighting its emotional expressiveness and unique sound.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
