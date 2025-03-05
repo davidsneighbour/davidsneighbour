@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-03-05] **[Using `npx link` for local package development](https://kollitsch.dev/blog/2025/using-npx-link-for-local-package-development/)**
+
+  &lt;p&gt;When working on multiple interdependent packages, managing them efficiently within a monorepo or a workspace structure is crucial. Traditionally, &lt;code&gt;npm link&lt;/code&gt; was used to create symlinks b...
 - [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/2025/well-known-avatar-url/)**
 
   This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.
@@ -32,10 +35,7 @@
   Alfred Hitchcock makes various cameos in his films, often blending humor with suspense. This video highlights his unique storytelling style when it comes to including himself.
 - [2024-11-25] **[Shutdown Raspberry Pi via SSH](https://kollitsch.dev/blog/2024/shutdown-raspberry-pi-via-ssh/)**
 
-  A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.
-- [2024-11-07] **[hugov - a tool for managing Hugo versions](https://kollitsch.dev/blog/2024/hugov-managing-multiple-gohugo-versions/)**
-
-  hugov is a Bash tool for managing Hugo versions. Download and link versions easily, and update to the latest version with simple commands.<!-- KOLLITSCH:END -->
+  A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
