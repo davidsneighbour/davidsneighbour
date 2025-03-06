@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/2025/shut-up-dont-talk/)**
+
+  &lt;p&gt;Movie theaters should be sacred spaces, free from distractions. But some people just don&amp;rsquo;t get it. That&amp;rsquo;s where Alamo Drafthouse&amp;rsquo;s legendary PSA series comes in—reminding moviegoe...
 - [2025-03-05] **[Using `npx link` for local package development](https://kollitsch.dev/blog/2025/using-npx-link-for-local-package-development/)**
 
   &lt;p&gt;When working on multiple interdependent packages, managing them efficiently within a monorepo or a workspace structure is crucial. Traditionally, &lt;code&gt;npm link&lt;/code&gt; was used to create symlinks b...
@@ -32,10 +35,7 @@
   FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.
 - [2024-11-30] **[Alfred Hitchcocks Cameos](https://kollitsch.dev/blog/2024/alfred-hitchcocks-cameos/)**
 
-  Alfred Hitchcock makes various cameos in his films, often blending humor with suspense. This video highlights his unique storytelling style when it comes to including himself.
-- [2024-11-25] **[Shutdown Raspberry Pi via SSH](https://kollitsch.dev/blog/2024/shutdown-raspberry-pi-via-ssh/)**
-
-  A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.<!-- KOLLITSCH:END -->
+  Alfred Hitchcock makes various cameos in his films, often blending humor with suspense. This video highlights his unique storytelling style when it comes to including himself.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
