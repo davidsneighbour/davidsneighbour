@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/2025/kurzschnitte-ii-9/)**
+
+  &lt;p&gt;It&amp;rsquo;s been a minute—so let&amp;rsquo;s call this the slightly-belated-but-still-worth-it edition of interesting links around the web. From playful coding companions to government UFO footage, here...
 - [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/2025/shut-up-dont-talk/)**
 
   &lt;p&gt;Movie theaters should be sacred spaces, free from distractions. But some people just don&amp;rsquo;t get it. That&amp;rsquo;s where Alamo Drafthouse&amp;rsquo;s legendary PSA series comes in—reminding moviegoe...
@@ -32,10 +35,7 @@
   Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.
 - [2025-01-01] **[FiniSh💩t 2025](https://kollitsch.dev/blog/2025/finishit-2025/)**
 
-  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.
-- [2024-11-30] **[Alfred Hitchcocks Cameos](https://kollitsch.dev/blog/2024/alfred-hitchcocks-cameos/)**
-
-  Alfred Hitchcock makes various cameos in his films, often blending humor with suspense. This video highlights his unique storytelling style when it comes to including himself.<!-- KOLLITSCH:END -->
+  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
