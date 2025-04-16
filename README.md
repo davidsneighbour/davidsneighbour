@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/2025/disable-automatic-updates-in-snapd/)**
+
+  &lt;p&gt;By default, Snap packages update automatically in the background - and while that&amp;rsquo;s great for most users, there are cases where you want to control the timing or version of your Snap apps. Th...
 - [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/2025/kurzschnitte-ii-9/)**
 
   &lt;p&gt;It&amp;rsquo;s been a minute—so let&amp;rsquo;s call this the slightly-belated-but-still-worth-it edition of interesting links around the web. From playful coding companions to government UFO footage, here...
@@ -32,10 +35,7 @@
   Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.
 - [2025-01-01] **[FiniSh💩t 2025](https://kollitsch.dev/blog/2025/finishit-2025/)**
 
-  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.
-- [2024-11-25] **[Shutdown Raspberry Pi via SSH](https://kollitsch.dev/blog/2024/shutdown-raspberry-pi-via-ssh/)**
-
-  A quick guide to shutting down your Raspberry Pi via SSH without a password. Simplify the process with aliases and an exported variable for easy management.<!-- KOLLITSCH:END -->
+  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
