@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-04-25] **[The Case of the Unconnectable Docker Daemon](https://kollitsch.dev/blog/2025/the-case-of-the-unconnectable-docker-daemon/)**
+
+  I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...
 - [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/2025/disable-automatic-updates-in-snapd/)**
 
   &lt;p&gt;By default, Snap packages update automatically in the background - and while that&amp;rsquo;s great for most users, there are cases where you want to control the timing or version of your Snap apps. Th...
@@ -32,10 +35,7 @@
   GitHub Gists now support disabling comments, offering developers better control over interactions. Prevent spam and keep your code snippets distraction-free.
 - [2025-01-10] **[Hugo Quick Tip: Hide posts in larger projects via GoHugo Module Mounts](https://kollitsch.dev/blog/2025/hide-posts-in-larger-projects-via-gohugo-module-mounts/)**
 
-  Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.
-- [2025-01-01] **[FiniSh💩t 2025](https://kollitsch.dev/blog/2025/finishit-2025/)**
-
-  FiniSh💩t! is my productivity project to finish one task weekly in two hours. Follow my blog for insights, challenges, and tips to overcome procrastination.<!-- KOLLITSCH:END -->
+  Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
