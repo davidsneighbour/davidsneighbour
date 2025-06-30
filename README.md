@@ -6,36 +6,36 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
-- [2025-04-25] **[The Case of the Unconnectable Docker Daemon](https://kollitsch.dev/blog/2025/the-case-of-the-unconnectable-docker-daemon/)**
+- [2025-06-30] **[Update: Things might be broken](https://kollitsch.dev/blog/undefined/)**
+
+  A quick update about the current state of the blog and the website.
+- [2025-04-25] **[The Case of the Unconnectable Docker Daemon](https://kollitsch.dev/blog/undefined/)**
 
   I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...
-- [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/2025/disable-automatic-updates-in-snapd/)**
+- [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/undefined/)**
 
-  &lt;p&gt;By default, Snap packages update automatically in the background - and while that&amp;rsquo;s great for most users, there are cases where you want to control the timing or version of your Snap apps. Th...
-- [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/2025/kurzschnitte-ii-9/)**
+  Learn how to control Snap package updates with the `--hold` option in Snapd.
+- [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/undefined/)**
 
-  &lt;p&gt;It&amp;rsquo;s been a minute—so let&amp;rsquo;s call this the slightly-belated-but-still-worth-it edition of interesting links around the web. From playful coding companions to government UFO footage, here...
-- [2025-03-05] **[Using `npx link` for local package development](https://kollitsch.dev/blog/2025/using-npx-link-for-local-package-development/)**
+  Interesting links around the web, from web development to fun stuff.
+- [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/undefined/)**
 
-  &lt;p&gt;When working on multiple interdependent packages, managing them efficiently within a monorepo or a workspace structure is crucial. Traditionally, &lt;code&gt;npm link&lt;/code&gt; was used to create symlinks b...
-- [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/2025/well-known-avatar-url/)**
+  John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.
+- [2025-03-05] **[Using `npx link` for local package development](https://kollitsch.dev/blog/undefined/)**
+
+  Learn how to use `npx link` to manage local package dependencies in your projects.
+- [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/undefined/)**
 
   This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.
-- [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/2025/fixing-previews-in-vscode-front-matter/)**
+- [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/undefined/)**
 
   VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.
-- [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/2025/alias-expansion-in-bash/)**
+- [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/undefined/)**
 
   Learn how alias expansion works and how to use builtin to override it.
-- [2025-01-12] **[`scroll-margin-top` property in CSS](https://kollitsch.dev/blog/2025/scroll-margin-top-property-in-css/)**
+- [2025-01-12] **[`scroll-margin-top` property in CSS](https://kollitsch.dev/blog/undefined/)**
 
-  Simplify anchor link navigation with CSS&#39;s modern `scroll-margin-top` property. Learn how it replaces old hacks and enhances performance.
-- [2025-01-10] **[Disable Comments on Gists](https://kollitsch.dev/blog/2025/disable-comments-on-gists/)**
-
-  GitHub Gists now support disabling comments, offering developers better control over interactions. Prevent spam and keep your code snippets distraction-free.
-- [2025-01-10] **[Hugo Quick Tip: Hide posts in larger projects via GoHugo Module Mounts](https://kollitsch.dev/blog/2025/hide-posts-in-larger-projects-via-gohugo-module-mounts/)**
-
-  Optimize Hugo development by excluding old posts with module mounts. This guide shows how to speed up testing on large websites by focusing on recent content.<!-- KOLLITSCH:END -->
+  Simplify anchor link navigation with CSS&#39;s modern `scroll-margin-top` property. Learn how it replaces old hacks and enhances performance.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
