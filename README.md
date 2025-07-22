@@ -6,9 +6,6 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
-- [2025-07-20] **[Font-weight enforcement in Tailwind CSS 4.1](https://kollitsch.dev/blog/undefined/)**
-
-  Learn how to enforce a specific font weight for a custom font in Tailwind CSS 4.1 using the new @layer-based configuration.
 - [2025-06-30] **[Update: Things might be broken](https://kollitsch.dev/blog/undefined/)**
 
   A quick update about the current state of the blog and the website.
@@ -24,7 +21,7 @@
 - [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/undefined/)**
 
   John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.
-- [2025-03-05] **[Using `npx link` for local package development](https://kollitsch.dev/blog/undefined/)**
+- [2025-03-05] **[Using &lt;code&gt;npx link&lt;/code&gt; for local package development](https://kollitsch.dev/blog/undefined/)**
 
   Learn how to use `npx link` to manage local package dependencies in your projects.
 - [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/undefined/)**
@@ -35,7 +32,10 @@
   VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.
 - [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/undefined/)**
 
-  Learn how alias expansion works and how to use builtin to override it.<!-- KOLLITSCH:END -->
+  Learn how alias expansion works and how to use builtin to override it.
+- [2025-01-12] **[&lt;code&gt;scroll-margin-top&lt;/code&gt; property in CSS](https://kollitsch.dev/blog/undefined/)**
+
+  Simplify anchor link navigation with CSS&#39;s modern `scroll-margin-top` property. Learn how it replaces old hacks and enhances performance.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
