@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-09-14] **[Reloading Astro dev server cache on content updates](https://kollitsch.dev/blog/undefined/)**
+
+  How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.
 - [2025-09-12] **[Font-weight enforcement in TailwindCSS 4.1](https://kollitsch.dev/blog/undefined/)**
 
   A quick guide, that covers the steps to ensure a custom font uses a single font weight with a quick linting setup.
@@ -32,10 +35,7 @@
   This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.
 - [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/undefined/)**
 
-  VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.
-- [2025-02-05] **[Alias Expansion in Bash](https://kollitsch.dev/blog/undefined/)**
-
-  Learn how alias expansion works and how to use builtin to override it.<!-- KOLLITSCH:END -->
+  VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
