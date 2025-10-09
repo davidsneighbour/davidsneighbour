@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-10-08] **[The fonts that shape KOLLITSCH.dev*](https://kollitsch.dev/blog/undefined/)**
+
+  A look at the typefaces that define the visual identity of KOLLITSCH.dev*.
 - [2025-09-14] **[Reloading Astro dev server cache on content updates](https://kollitsch.dev/blog/undefined/)**
 
   How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.
@@ -32,10 +35,7 @@
   Learn how to use `npx link` to manage local package dependencies in your projects.
 - [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/undefined/)**
 
-  This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.
-- [2025-02-08] **[Fixing post previews in VSCode with Front Matter](https://kollitsch.dev/blog/undefined/)**
-
-  VSCode Front Matter may not recognize Hugo blog posts if fmContentType is missing. This post explains how to automate front matter updates using a Node.js script.<!-- KOLLITSCH:END -->
+  This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
