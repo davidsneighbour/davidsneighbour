@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-10-10] **[Kurzschnitte II - Decimus](https://kollitsch.dev/blog/undefined/)**
+
+  Interesting links around the web, from web development to fun stuff.
 - [2025-10-08] **[The fonts that shape KOLLITSCH.dev*](https://kollitsch.dev/blog/undefined/)**
 
   A look at the typefaces that define the visual identity of KOLLITSCH.dev*.
@@ -32,10 +35,7 @@
   John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.
 - [2025-03-05] **[Using &lt;code&gt;npx link&lt;/code&gt; for local package development](https://kollitsch.dev/blog/undefined/)**
 
-  Learn how to use `npx link` to manage local package dependencies in your projects.
-- [2025-02-08] **[.well-known avatar URL for kollitsch.dev](https://kollitsch.dev/blog/undefined/)**
-
-  This post explains how I set up a .well-known/avatar URL on my site using Netlify, with caching headers and image placement, and plans for future improvements.<!-- KOLLITSCH:END -->
+  Learn how to use `npx link` to manage local package dependencies in your projects.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
