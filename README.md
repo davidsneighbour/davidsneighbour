@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/undefined/)**
+
+  Learn how to pin npm package versions effectively to ensure stability and control in your projects.
 - [2025-10-10] **[Kurzschnitte II - Decimus](https://kollitsch.dev/blog/undefined/)**
 
   Interesting links around the web, from web development to fun stuff.
@@ -32,10 +35,7 @@
   Interesting links around the web, from web development to fun stuff.
 - [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/undefined/)**
 
-  John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.
-- [2025-03-05] **[Using &lt;code&gt;npx link&lt;/code&gt; for local package development](https://kollitsch.dev/blog/undefined/)**
-
-  Learn how to use `npx link` to manage local package dependencies in your projects.<!-- KOLLITSCH:END -->
+  John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
