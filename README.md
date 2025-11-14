@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/undefined/)**
+
+  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
 - [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/undefined/)**
 
   Learn how to pin npm package versions effectively to ensure stability and control in your projects.
@@ -32,10 +35,7 @@
   Learn how to control Snap package updates with the `--hold` option in Snapd.
 - [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/undefined/)**
 
-  Interesting links around the web, from web development to fun stuff.
-- [2025-03-06] **[Shut Up, Don&#39;t Talk](https://kollitsch.dev/blog/undefined/)**
-
-  John Lithgow and Geoffrey Rush star in Alamo Drafthouse&#39;s latest PSA against theater disruptions.<!-- KOLLITSCH:END -->
+  Interesting links around the web, from web development to fun stuff.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
