@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-11-23] **[Kuchisabishii](https://kollitsch.dev/blog/undefined/)**
+
+  Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.
 - [2025-11-23] **[Handling unknown object properties in TypeScript](https://kollitsch.dev/blog/undefined/)**
 
   Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
@@ -32,10 +35,7 @@
   A quick update about the current state of the blog and the website.
 - [2025-04-25] **[The Case of the Unconnectable Docker Daemon](https://kollitsch.dev/blog/undefined/)**
 
-  I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...
-- [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/undefined/)**
-
-  Learn how to control Snap package updates with the `--hold` option in Snapd.<!-- KOLLITSCH:END -->
+  I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...<!-- KOLLITSCH:END -->
 
 ## BooKa
 
