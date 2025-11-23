@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2025-11-23] **[Handling unknown object properties in TypeScript](https://kollitsch.dev/blog/undefined/)**
+
+  Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
 - [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/undefined/)**
 
   A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
@@ -32,10 +35,7 @@
   I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...
 - [2025-04-16] **[Disable automatic updates in Snapd](https://kollitsch.dev/blog/undefined/)**
 
-  Learn how to control Snap package updates with the `--hold` option in Snapd.
-- [2025-03-21] **[Kurzschnitte II - a ninth part](https://kollitsch.dev/blog/undefined/)**
-
-  Interesting links around the web, from web development to fun stuff.<!-- KOLLITSCH:END -->
+  Learn how to control Snap package updates with the `--hold` option in Snapd.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
