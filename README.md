@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-01-14] **[Handling Ubuntu EFI boot issues on Acer laptops](https://kollitsch.dev/blog/undefined/)**
+
+  Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.
 - [2025-11-23] **[Kuchisabishii](https://kollitsch.dev/blog/undefined/)**
 
   Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.
@@ -32,10 +35,7 @@
   A quick guide, that covers the steps to ensure a custom font uses a single font weight with a quick linting setup.
 - [2025-06-30] **[Update: Things might be broken](https://kollitsch.dev/blog/undefined/)**
 
-  A quick update about the current state of the blog and the website.
-- [2025-04-25] **[The Case of the Unconnectable Docker Daemon](https://kollitsch.dev/blog/undefined/)**
-
-  I unravel, Arthur Conan Doyle style, a mystery where my Docker daemon refuses to respond. From sneaking into group permissions and examining socket ownership to navigating Docker contexts and rootless...<!-- KOLLITSCH:END -->
+  A quick update about the current state of the blog and the website.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
