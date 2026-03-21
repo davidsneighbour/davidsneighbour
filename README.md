@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-03-21] **[Policy and guidelines for AI-based contributions](https://kollitsch.dev/blog/undefined/)**
+
+  Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.
 - [2026-01-14] **[Handling Ubuntu EFI boot issues on Acer laptops](https://kollitsch.dev/blog/undefined/)**
 
   Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.
@@ -32,10 +35,7 @@
   How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.
 - [2025-09-12] **[Font-weight enforcement in TailwindCSS 4.1](https://kollitsch.dev/blog/undefined/)**
 
-  A quick guide, that covers the steps to ensure a custom font uses a single font weight with a quick linting setup.
-- [2025-06-30] **[Update: Things might be broken](https://kollitsch.dev/blog/undefined/)**
-
-  A quick update about the current state of the blog and the website.<!-- KOLLITSCH:END -->
+  A quick guide, that covers the steps to ensure a custom font uses a single font weight with a quick linting setup.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
