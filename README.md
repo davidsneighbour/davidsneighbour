@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
+
+  A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
 - [2026-03-21] **[Policy and guidelines for AI-based contributions](https://kollitsch.dev/blog/2026/ai-in-contributions/)**
 
   Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.
@@ -32,10 +35,7 @@
   A look at the typefaces that define the visual identity of KOLLITSCH.dev*.
 - [2025-09-14] **[Reloading Astro dev server cache on content updates](https://kollitsch.dev/blog/2025/reloading-astro-dev-server-cache-on-content-updates/)**
 
-  How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.
-- [2025-09-12] **[Font-weight enforcement in TailwindCSS 4.1](https://kollitsch.dev/blog/2025/font-weight-enforcement-in-tailwind/)**
-
-  A quick guide, that covers the steps to ensure a custom font uses a single font weight with a quick linting setup.<!-- KOLLITSCH:END -->
+  How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
