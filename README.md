@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-05-04] **[RFC 2119 for humans](https://kollitsch.dev/blog/2026/rfc-2119-for-humans/)**
+
+  RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.
 - [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
 
   A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
@@ -32,10 +35,7 @@
   Interesting links around the web, from web development to fun stuff.
 - [2025-10-08] **[The fonts that shape KOLLITSCH.dev*](https://kollitsch.dev/blog/2025/the-fonts-that-shape-kollitsch-dev/)**
 
-  A look at the typefaces that define the visual identity of KOLLITSCH.dev*.
-- [2025-09-14] **[Reloading Astro dev server cache on content updates](https://kollitsch.dev/blog/2025/reloading-astro-dev-server-cache-on-content-updates/)**
-
-  How to automatically trigger full reloads in Astro&#39;s dev server when new files are added to your images or content directories.<!-- KOLLITSCH:END -->
+  A look at the typefaces that define the visual identity of KOLLITSCH.dev*.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
