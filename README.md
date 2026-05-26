@@ -6,9 +6,15 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-05-26] **[Pinning GitHub Actions to commit hashes](https://kollitsch.dev/blog/2026/pinning-github-actions-to-commit-hashes/)**
+
+  A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.
 - [2026-05-04] **[RFC 2119 for humans](https://kollitsch.dev/blog/2026/rfc-2119-for-humans/)**
 
   RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.
+- [2026-04-11] **[A Zookeeper&#39;s Guide to tsconfig.json](https://kollitsch.dev/blog/2026/a-zookeepers-guide-to-tsconfigjson/)**
+
+  A practical guide to configuring TypeScript for a safer, more maintainable codebase. Learn which tsconfig options are essential for catching bugs and improving developer experience.
 - [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
 
   A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
@@ -29,13 +35,7 @@
   A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
 - [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/2025/how-to-pin-npm-package-versions-effectively/)**
 
-  Learn how to pin npm package versions effectively to ensure stability and control in your projects.
-- [2025-10-10] **[Kurzschnitte II - Decimus](https://kollitsch.dev/blog/2025/kurzschnitte-ii-10/)**
-
-  Interesting links around the web, from web development to fun stuff.
-- [2025-10-08] **[The fonts that shape KOLLITSCH.dev*](https://kollitsch.dev/blog/2025/the-fonts-that-shape-kollitsch-dev/)**
-
-  A look at the typefaces that define the visual identity of KOLLITSCH.dev*.<!-- KOLLITSCH:END -->
+  Learn how to pin npm package versions effectively to ensure stability and control in your projects.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
