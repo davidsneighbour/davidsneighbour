@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-05-26] **[Keeping &lt;code&gt;engines.node&lt;/code&gt; aligned with the Node release schedule](https://kollitsch.dev/blog/2026/keep-package-aligned-with-nodejs-releases/)**
+
+  A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.
 - [2026-05-26] **[Pinning GitHub Actions to commit hashes](https://kollitsch.dev/blog/2026/pinning-github-actions-to-commit-hashes/)**
 
   A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.
@@ -32,10 +35,7 @@
   Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
 - [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/2025/autobahn-by-kraftwerk/)**
 
-  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
-- [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/2025/how-to-pin-npm-package-versions-effectively/)**
-
-  Learn how to pin npm package versions effectively to ensure stability and control in your projects.<!-- KOLLITSCH:END -->
+  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
