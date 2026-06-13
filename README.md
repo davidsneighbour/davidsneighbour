@@ -15,9 +15,6 @@
 - [2026-05-04] **[RFC 2119 for humans](https://kollitsch.dev/blog/2026/rfc-2119-for-humans/)**
 
   RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.
-- [2026-04-11] **[A Zookeeper&#39;s Guide to tsconfig.json](https://kollitsch.dev/blog/2026/a-zookeepers-guide-to-tsconfigjson/)**
-
-  A practical guide to configuring TypeScript for a safer, more maintainable codebase. Learn which tsconfig options are essential for catching bugs and improving developer experience.
 - [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
 
   A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
@@ -35,7 +32,10 @@
   Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
 - [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/2025/autobahn-by-kraftwerk/)**
 
-  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.<!-- KOLLITSCH:END -->
+  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
+- [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/2025/how-to-pin-npm-package-versions-effectively/)**
+
+  Learn how to pin npm package versions effectively to ensure stability and control in your projects.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
