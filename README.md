@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-07-25] **[Keeping an old iMac useful](https://kollitsch.dev/blog/2026/keeping-an-old-imac-useful/)**
+
+  How I revived a dead-fan 2012 iMac with Xubuntu 22.04, the 5.15 GA kernel, legacy NVIDIA drivers, and H.264-only video playback for a stable, cool media machine.
 - [2026-05-26] **[Keeping &lt;code&gt;engines.node&lt;/code&gt; aligned with the Node release schedule](https://kollitsch.dev/blog/2026/keep-package-aligned-with-nodejs-releases/)**
 
   A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.
@@ -32,10 +35,7 @@
   Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
 - [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/2025/autobahn-by-kraftwerk/)**
 
-  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.
-- [2025-10-11] **[How to pin npm package versions effectively](https://kollitsch.dev/blog/2025/how-to-pin-npm-package-versions-effectively/)**
-
-  Learn how to pin npm package versions effectively to ensure stability and control in your projects.<!-- KOLLITSCH:END -->
+  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
