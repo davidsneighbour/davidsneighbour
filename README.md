@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-07-26] **[Kurzschnitte II - These Cuts Go to Eleven](https://kollitsch.dev/blog/2026/kurzschnitte-ii-11/)**
+
+  Interesting links around the web, from web development to fun stuff.
 - [2026-07-25] **[Keeping an old iMac useful](https://kollitsch.dev/blog/2026/keeping-an-old-imac-useful/)**
 
   How I revived a dead-fan 2012 iMac with Xubuntu 22.04, the 5.15 GA kernel, legacy NVIDIA drivers, and H.264-only video playback for a stable, cool media machine.
@@ -32,10 +35,7 @@
   Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.
 - [2025-11-23] **[Handling unknown object properties in TypeScript](https://kollitsch.dev/blog/2025/handling-unknown-object-properties-in-typescript/)**
 
-  Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.
-- [2025-11-14] **[Autobahn by Kraftwerk &lpar;Psychedelic Short Film&rpar;](https://kollitsch.dev/blog/2025/autobahn-by-kraftwerk/)**
-
-  A psychedelic short film inspired by Kraftwerk&#39;s Autobahn, exploring technology, travel, and human connection through vivid, experimental visuals.<!-- KOLLITSCH:END -->
+  Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
