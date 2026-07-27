@@ -6,12 +6,15 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-07-27] **[Why is Git ignoring this file?](https://kollitsch.dev/blog/2026/find-out-which-gitignore-rule-is-ignoring-a-file/)**
+
+  Use git check-ignore to find the exact ignore file, line number, and pattern when Git unexpectedly ignores a file or directory.
 - [2026-07-26] **[Kurzschnitte II - These Cuts Go to Eleven](https://kollitsch.dev/blog/2026/kurzschnitte-ii-11/)**
 
   Interesting links around the web, from web development to fun stuff.
 - [2026-07-25] **[Keeping an old iMac useful](https://kollitsch.dev/blog/2026/keeping-an-old-imac-useful/)**
 
-  How I revived a dead-fan 2012 iMac with Xubuntu 22.04, the 5.15 GA kernel, legacy NVIDIA drivers, and H.264-only video playback for a stable, cool media machine.
+  I revived a dead-fan 2012 iMac with Xubuntu 22.04, the 5.15 GA kernel, legacy NVIDIA drivers, and H.264-only video playback for a stable, cool media machine.
 - [2026-05-26] **[Keeping &lt;code&gt;engines.node&lt;/code&gt; aligned with the Node release schedule](https://kollitsch.dev/blog/2026/keep-package-aligned-with-nodejs-releases/)**
 
   A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.
@@ -32,10 +35,7 @@
   Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.
 - [2025-11-23] **[Kuchisabishii](https://kollitsch.dev/blog/2025/language-kuchisabishii/)**
 
-  Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.
-- [2025-11-23] **[Handling unknown object properties in TypeScript](https://kollitsch.dev/blog/2025/handling-unknown-object-properties-in-typescript/)**
-
-  Learning how to handle unknown object properties in TypeScript with index signatures for safe and flexible type management.<!-- KOLLITSCH:END -->
+  Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
