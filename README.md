@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-07-28] **[Stop tracking files ignored by &lt;code&gt;.gitignore&lt;/code&gt;](https://kollitsch.dev/blog/2026/stop-tracking-files-ignored-by-gitignore/)**
+
+  Find files that Git still tracks despite matching .gitignore rules, then remove them from the index without deleting the local copies.
 - [2026-07-27] **[Why is Git ignoring this file?](https://kollitsch.dev/blog/2026/find-out-which-gitignore-rule-is-ignoring-a-file/)**
 
   Use git check-ignore to find the exact ignore file, line number, and pattern when Git unexpectedly ignores a file or directory.
@@ -32,10 +35,7 @@
   Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.
 - [2026-01-14] **[Handling Ubuntu EFI boot issues on Acer laptops](https://kollitsch.dev/blog/2026/handling-ubuntu-efi-boot-issues-on-acer-laptops/)**
 
-  Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.
-- [2025-11-23] **[Kuchisabishii](https://kollitsch.dev/blog/2025/language-kuchisabishii/)**
-
-  Kuchisabishii: Discover the Japanese term for eating out of boredom, a neutral way to express a common habit without guilt.<!-- KOLLITSCH:END -->
+  Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
