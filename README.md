@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-09-17] **[Enpass 6.12 on Linux: fixing the X11 installation](https://kollitsch.dev/blog/2026/enpass-612-on-linux-fixing-the-x11-installation/)**
+
+  Enpass 6.12 stops starting on X11 after a normal apt upgrade. Switch to the X11 APT repository to fix it, correcting an error in Enpass&#39;s own docs.
 - [2026-07-28] **[Stop tracking files ignored by &lt;code&gt;.gitignore&lt;/code&gt;](https://kollitsch.dev/blog/2026/stop-tracking-files-ignored-by-gitignore/)**
 
   Find files that Git still tracks despite matching .gitignore rules, then remove them from the index without deleting the local copies.
@@ -32,10 +35,7 @@
   A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
 - [2026-03-21] **[Policy and guidelines for AI-based contributions](https://kollitsch.dev/blog/2026/ai-in-contributions/)**
 
-  Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.
-- [2026-01-14] **[Handling Ubuntu EFI boot issues on Acer laptops](https://kollitsch.dev/blog/2026/handling-ubuntu-efi-boot-issues-on-acer-laptops/)**
-
-  Fix Ubuntu EFI boot problems on Acer laptops with manual workarounds, boot-repair diagnostics, and commands for resolving GRUB issues.<!-- KOLLITSCH:END -->
+  Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
