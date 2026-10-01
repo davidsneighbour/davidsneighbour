@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-09-30] **[Lab Notes: Limit Git status to the current directory](https://kollitsch.dev/blog/2026/lab-notes-limit-git-status-to-the-current-directory/)**
+
+  Run git status -- . to show only changes in the current directory and below, and add a global statuss alias to make the scoped version a short command.
 - [2026-09-17] **[Enpass 6.12 on Linux: fixing the X11 installation](https://kollitsch.dev/blog/2026/enpass-612-on-linux-fixing-the-x11-installation/)**
 
   Enpass 6.12 stops starting on X11 after a normal apt upgrade. Switch to the X11 APT repository to fix it, correcting an error in Enpass&#39;s own docs.
@@ -32,10 +35,7 @@
   RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.
 - [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
 
-  A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.
-- [2026-03-21] **[Policy and guidelines for AI-based contributions](https://kollitsch.dev/blog/2026/ai-in-contributions/)**
-
-  Policy and guidelines for AI use in contributions. AI is a tool, not an author. Contributors must understand, own, and defend every change they submit.<!-- KOLLITSCH:END -->
+  A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
