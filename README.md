@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-11-14] **[AI submits it. You still own it.](https://kollitsch.dev/blog/2026/ai-submits-it-you-still-own-it/)**
+
+  Why I kept one project-specific AI contribution policy, what changed after comparing it with ai-policy.dev, and why responsibility still belongs to a person.
 - [2026-09-30] **[Lab Notes: Limit Git status to the current directory](https://kollitsch.dev/blog/2026/lab-notes-limit-git-status-to-the-current-directory/)**
 
   Run git status -- . to show only changes in the current directory and below, and add a global statuss alias to make the scoped version a short command.
@@ -32,10 +35,7 @@
   A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.
 - [2026-05-04] **[RFC 2119 for humans](https://kollitsch.dev/blog/2026/rfc-2119-for-humans/)**
 
-  RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.
-- [2026-03-24] **[Installing Firefox on Ubuntu without Snap](https://kollitsch.dev/blog/2026/installing-firefox-on-ubuntu-without-snap/)**
-
-  A practical guide to removing the Snap version of Firefox and installing it from the Mozilla Team PPA on Ubuntu.<!-- KOLLITSCH:END -->
+  RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
