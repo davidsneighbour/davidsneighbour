@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-11-26] **[Setting up Myna dictation on Ubuntu with i3](https://kollitsch.dev/blog/2026/setting-up-myna-dictation-on-ubuntu-with-i3/)**
+
+  Myna&#39;s setup fails under i3 because no polkit authentication agent is running. Here is why, and how to fix it, including a keyboard shortcut for dictation.
 - [2026-11-26] **[Fixing APT&#39;s i386 architecture notices without disabling multiarch](https://kollitsch.dev/blog/2026/fixing-apt-i386-architecture-notices/)**
 
   Remove APT&#39;s unsupported i386 architecture notices by restricting individual repositories to amd64 while retaining 32-bit support for Steam and Wine.
@@ -32,10 +35,7 @@
   I revived a dead-fan 2012 iMac with Xubuntu 22.04, the 5.15 GA kernel, legacy NVIDIA drivers, and H.264-only video playback for a stable, cool media machine.
 - [2026-05-26] **[Keeping &lt;code&gt;engines.node&lt;/code&gt; aligned with the Node release schedule](https://kollitsch.dev/blog/2026/keep-package-aligned-with-nodejs-releases/)**
 
-  A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.
-- [2026-05-26] **[Pinning GitHub Actions to commit hashes](https://kollitsch.dev/blog/2026/pinning-github-actions-to-commit-hashes/)**
-
-  A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.<!-- KOLLITSCH:END -->
+  A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
