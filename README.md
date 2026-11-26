@@ -6,6 +6,9 @@
 
 # Recent blog posts
 <!-- KOLLITSCH:START -->
+- [2026-11-26] **[Fixing APT&#39;s i386 architecture notices without disabling multiarch](https://kollitsch.dev/blog/2026/fixing-apt-i386-architecture-notices/)**
+
+  Remove APT&#39;s unsupported i386 architecture notices by restricting individual repositories to amd64 while retaining 32-bit support for Steam and Wine.
 - [2026-11-14] **[AI submits it. You still own it.](https://kollitsch.dev/blog/2026/ai-submits-it-you-still-own-it/)**
 
   Why I kept one project-specific AI contribution policy, what changed after comparing it with ai-policy.dev, and why responsibility still belongs to a person.
@@ -32,10 +35,7 @@
   A script to automatically update `package.json` with the supported Node.js versions based on the official release schedule.
 - [2026-05-26] **[Pinning GitHub Actions to commit hashes](https://kollitsch.dev/blog/2026/pinning-github-actions-to-commit-hashes/)**
 
-  A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.
-- [2026-05-04] **[RFC 2119 for humans](https://kollitsch.dev/blog/2026/rfc-2119-for-humans/)**
-
-  RFC 2119 explains MUST, SHOULD, and MAY in documentation. Learn how to read and use these terms correctly to avoid ambiguity and define clear rules.<!-- KOLLITSCH:END -->
+  A guide on how to pin GitHub Actions to specific commit hashes for better security and stability.<!-- KOLLITSCH:END -->
 
 ## BooKa
 
